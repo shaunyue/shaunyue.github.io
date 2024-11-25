@@ -5,23 +5,39 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Recent News"
+    url: "/#recent-news"
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Conference Papers"
+    url: "/#conference-papers"
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Journal Papers"
+    url: "/#journal-papers"
+
+  - title: "Books"
+    url: "/#books"
+  
+  - title: "Grants"
+    url: "/#grants"
+
+  - title: "Honors & Activities"
+    url: "/#honors-and-activities"
+
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
