@@ -23,7 +23,7 @@ function toggleContent(id) {
 </script>
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
-<strong>🔥 Students (招生):</strong> I am about to join the <a href="https://scst.sysu.edu.cn">School of Cyber Science and Technology</a> @ <a href="https://www.sysu.edu.cn">SYSU</a>  as an Associate Professor. I am looking for PhD students (Fall 2025) who are interested in the area of machine learning, network optimization, privacy, agent, or other relevant and intersting topics. If interested, please contact me: shengyue AT tsinghua.edu.cn.
+<strong>🔥 Students (招生):</strong> I am about to join the <a href="https://scst.sysu.edu.cn">School of Cyber Science and Technology</a> @ <a href="https://www.sysu.edu.cn">SYSU</a>  as an Associate Professor. I am looking for PhD students (Fall 2025) who are interested in the area of machine learning, network optimization, privacy, agent, or other relevant and intersting topics. If interested, please contact me: shengyue AT tsinghua DOT edu DOT cn.
 </div>
 
 <!-- <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 0px;">
@@ -31,7 +31,7 @@ function toggleContent(id) {
 </div>
 
 <div id="hiddenContent2" style="display: none; margin-top: 10px;">
-  岳晟博士现任清华大学计算机科学与技术系博士后/理研究员，于2023年在中南大学计算机学院获得工学博士学位，于2020-2022年在亚利桑那州立大学进行联合培养，曾获选中国电子学会青年托举人才、ACM China SIGAPP Dissertation Award（全国3人，排名第1）、国资计划等荣誉。长期从事协同计算与决策智能方面的研究，包括强化学习、联邦学习与多智能体决策等，已在ICLR、ICML、JSAC、ToN等国际顶级学术会议与学术期刊发表（含录用）20余篇（其中独立一作/通讯CCF-A类文章10余篇），部分研究成果已入选2022-2023年中国物联网十大科技进展 ，相关成果已被纳入专著《Next Generation Multiple Access》作为重要独立章节。现主持国家自然科学基金1项、中国博士后科学基金2项，以项目联合负责人身份主研清华-美团、清华-宏图、清华-荣耀技术合作开发项目，以骨千身份参与多项国家重点研发计划、基金委重点、国家自科基金面上等项目。所提出的“分布式智能模型协同训练及计算加速框架”已成功应用于美团移动应用酒旅业务模块，服务于200万酒店模块终端用户，为美团公司带来显著经济效益。所研制的“多星协同计算基座”被航天宏图采纳为下一代星座智能计算平台核心技术。受邀担任ToN、JSAC、INFOCOM等多个国际期刊、会议审稿人，曾担任计算机网络国际权威会议ICCC分会场主席，国际权威会议MSN程序委员会委员，并多次在相关领域国际会议做口头报告。
+  岳晟博士现任清华大学计算机科学与技术系博士后/理研究员，于2023年在中南大学计算机学院获得工学博士学位，于2020-2022年在亚利桑那州立大学进行联合培养，曾获选中国电子学会青年托举人才、ACM China SIGAPP Dissertation Award（全国3人，排名第1）、国资计划等荣誉。长期从事协同计算与决策智能方面的研究，包括强化学习、联邦学习与多智能体决策等，已在ICLR、ICML、JSAC、ToN等国际顶级学术会议与学术期刊发表（含录用）20余篇（其中独立一作/通讯CCF-A类文章10余篇），部分研究成果已入选2022-2023年中国物联网十大科技进展 ，相关成果已被纳入专著《Next Generation Multiple Access》作为重要独立章节。现主持国家自然科学基金1项、中国博士后科学基金2项，以项目联合负责人身份主研清华-美团、清华-宏图、清华-荣耀技术合作开发项目，以骨千身份参与多项国家重点研发计划、基金委重点、国家自科基金面上等项目，参与制定了《Edge Collaboration Protocols for Federated Learning》、《分布式异构智能计算》等国际、国家标准。所提出的“分布式智能模型协同训练及计算加速框架”已成功应用于美团移动应用酒旅业务模块，服务于200万酒店模块终端用户，为美团公司带来显著经济效益；所研制的“多星协同计算基座”被航天宏图采纳为下一代星座智能计算平台核心技术。受邀担任ToN、JSAC、INFOCOM等多个国际期刊、会议审稿人，曾担任计算机网络国际权威会议ICCC分会场主席，国际权威会议MSN程序委员会委员，并多次在相关领域国际会议做口头报告。
 </div> -->
 
 ## Recent News
