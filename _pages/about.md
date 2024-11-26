@@ -74,7 +74,7 @@ function toggleContent(id) {
 
 1. **Sheng Yue**, Yongheng Deng, Xingyuan Hua#, Guanbo Wang#, Ju Ren, and Yaoxue Zhang. [Federated Offline Reinforcement Learning with Proximal Policy Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10748547), Chinese Journal of Electronics (`CJE`), vol. 33, no. 6, pp. 1-13, 2024.
 
-1. Ye Zhang, Jinrui Zhang, **Sheng Yue\***, Wei Lu, Ju Ren, and Xuemin (Sherman) Shen. [Mobile Generative AI: Opportunities and Challenges](https://ieeexplore.ieee.org/abstract/document/10628027), IEEE Wireless Communications (WC`), vol. 31, no. 4, pp. 58-64, 2024.
+1. Ye Zhang, Jinrui Zhang, **Sheng Yue\***, Wei Lu, Ju Ren, and Xuemin (Sherman) Shen. [Mobile Generative AI: Opportunities and Challenges](https://ieeexplore.ieee.org/abstract/document/10628027), IEEE Wireless Communications (`WC`), vol. 31, no. 4, pp. 58-64, 2024.
 
 1. Zequn Cao, Xiaoheng Deng, **Sheng Yue**, Ping Jiang, Ju Ren, and Jinsong Gui. [Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning](https://arxiv.org/pdf/2303.17100), IEEE Internet of Things Journal (`IoTJ`), vol. 11, no. 12, pp. 21632 - 21646, 2024.
 
