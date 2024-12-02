@@ -70,7 +70,7 @@ function toggleContent(id) {
 
 1. **Sheng Yue**, Xingyuan Hua#, Yongheng Deng, Lili Chen, Ju Ren and Yaoxue Zhang. Momentum-Based Contextual Federated Reinforcement Learning. IEEE/ACM Transactions on Networking (`ToN`), 2024. (Accepted)
 
-1. Jiang Xin, **Sheng Yue\***, Jinrui Zhang, Ju Ren, Feng Qian, and Yaoxue Zhang. MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting, IEEE Transactions on Circuits and Systems for Video Technology (`TCVST`), 2024. (Accepted)
+1. Jiang Xin, **Sheng Yue\***, Jinrui Zhang, Ju Ren, Feng Qian, and Yaoxue Zhang. [MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting](https://ieeexplore.ieee.org/abstract/document/10764755), IEEE Transactions on Circuits and Systems for Video Technology (`TCVST`), 2024. (Accepted)
 
 1. **Sheng Yue**, Yongheng Deng, Xingyuan Hua#, Guanbo Wang#, Ju Ren, and Yaoxue Zhang. [Federated Offline Reinforcement Learning with Proximal Policy Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10748547), Chinese Journal of Electronics (`CJE`), vol. 33, no. 6, pp. 1-13, 2024.
 
