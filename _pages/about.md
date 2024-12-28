@@ -23,7 +23,7 @@ function toggleContent(id) {
 </script>
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
-<strong>🔥 Students (招生):</strong> I am about to join the <a href="https://scst.sysu.edu.cn">School of Cyber Science and Technology</a> @ <a href="https://www.sysu.edu.cn">SYSU</a>  as an Associate Professor. I am looking for PhD students (Fall 2025) who are interested in the area of machine learning, network optimization, privacy, agent, or other relevant and intersting topics. If interested, please contact me: shengyue AT tsinghua DOT edu DOT cn.
+<strong>🔥 Students (招生):</strong> I am about to join the <a href="https://scst.sysu.edu.cn">School of Cyber Science and Technology</a> @ <a href="https://www.sysu.edu.cn">SYSU</a>  as an Associate Professor. I am looking for Postgraduate students (Fall 2025) who are interested in the area of machine learning, network optimization, privacy, agent, or other relevant and intersting topics. If interested, please contact me: shengyue AT tsinghua DOT edu DOT cn.
 </div>
 
 <!-- <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 0px;">
@@ -67,6 +67,8 @@ function toggleContent(id) {
 ## Journal Papers
 
 <small>(* Corresponding author, # Mentored student)</small>
+
+1. Jun Lu, Zhenya Ma, Yinggang Gao, **Sheng Yue**, Ju Ren, Yaoxue Zhang. [StreamSys: A Lightweight Executable Delivery System for Edge Computing](https://ieeexplore.ieee.org/abstract/document/10814051). IEEE Transactions on Cloud Computing (`TCC`), 2024. (Early Access)
 
 1. **Sheng Yue**, Xingyuan Hua#, Yongheng Deng, Lili Chen, Ju Ren and Yaoxue Zhang. [Momentum-Based Contextual Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10806823). IEEE/ACM Transactions on Networking (`ToN`), 2024. (Early Access)
 
