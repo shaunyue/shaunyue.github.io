@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently a postdoctoral researcher in the [Department of Computer Science Technology (DCST)](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), working under the supervision of [Prof. Ju Ren](https://juren1987.github.io/). My research interests fall in the ﬁelds of machine learning and information network, including reinforcement learning (decision and control), distributed learning, generative models, and network optimization, with a particular emphasis on applications in *intelligent decision at edge*.
+Welcome to my homepage! I am currently an associate professor in 
+[School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [SYSU](https://www.sysu.edu.cn). My research interests fall in the ﬁelds of machine learning and information network, including reinforcement learning (decision and control), distributed learning, generative models, and network optimization, with a particular emphasis on applications in *intelligent decision at edge*.
 
-I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) and my B.Sc. from the [School of Mathematics and Statistics](https://math.csu.edu.cn/), both at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)).
+I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) and my B.Sc. from the [School of Mathematics and Statistics](https://math.csu.edu.cn/), both at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)). I was a postdoctoral researcher in the [Department of Computer Science Technology (DCST)](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), working under the supervision of [Prof. Ju Ren](https://juren1987.github.io/).
 
 <script>
 function toggleContent(id) {
-  var content = document.getElementById(id);
+  var content = document.getElementById(id);  ``` 3
   if (content.style.display === "none") {
     content.style.display = "block";
   } else {
@@ -23,7 +24,7 @@ function toggleContent(id) {
 </script>
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
-<strong>🔥 Students (招生):</strong> I am about to join the <a href="https://scst.sysu.edu.cn">School of Cyber Science and Technology</a> @ <a href="https://www.sysu.edu.cn">SYSU</a>  as an Associate Professor. I am looking for Postgraduate students (Fall 2025) who are interested in the area of machine learning, network optimization, privacy, agent, or other relevant and intersting topics. If interested, please contact me: shengyue AT tsinghua DOT edu DOT cn.
+<strong>🔥 Students (招生):</strong> I am looking for Postgraduate students (Fall 2025) who are interested in the area of machine learning, network optimization, privacy, agent, or other relevant and intersting topics. If interested, please contact me: yuesh5 AT mail DOT sysu DOT edu DOT cn.
 </div>
 
 <!-- <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 0px;">
