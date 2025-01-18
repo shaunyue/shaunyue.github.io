@@ -68,7 +68,7 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), 2025. (Early Access)
+1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li, and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), 2025. (Early Access)
 
 1. Jun Lu, Zhenya Ma, Yinggang Gao, **Sheng Yue**, Ju Ren, and Yaoxue Zhang. [StreamSys: A Lightweight Executable Delivery System for Edge Computing](https://ieeexplore.ieee.org/abstract/document/10814051). IEEE Transactions on Cloud Computing (`TCC`), 2024. (Early Access)
 
