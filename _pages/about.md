@@ -69,9 +69,11 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Jun Lu, Zhenya Ma, Yinggang Gao, **Sheng Yue**, Ju Ren, Yaoxue Zhang. [StreamSys: A Lightweight Executable Delivery System for Edge Computing](https://ieeexplore.ieee.org/abstract/document/10814051). IEEE Transactions on Cloud Computing (`TCC`), 2024. (Early Access)
+1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), 2025. (Early Access)
 
-1. **Sheng Yue**, Xingyuan Hua#, Yongheng Deng, Lili Chen, Ju Ren and Yaoxue Zhang. [Momentum-Based Contextual Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10806823). IEEE/ACM Transactions on Networking (`ToN`), 2024. (Early Access)
+1. Jun Lu, Zhenya Ma, Yinggang Gao, **Sheng Yue**, Ju Ren, and Yaoxue Zhang. [StreamSys: A Lightweight Executable Delivery System for Edge Computing](https://ieeexplore.ieee.org/abstract/document/10814051). IEEE Transactions on Cloud Computing (`TCC`), 2024. (Early Access)
+
+1. **Sheng Yue**, Xingyuan Hua#, Yongheng Deng, Lili Chen, Ju Ren, and Yaoxue Zhang. [Momentum-Based Contextual Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10806823). IEEE/ACM Transactions on Networking (`ToN`), 2024. (Early Access)
 
 1. Jiang Xin, **Sheng Yue\***, Jinrui Zhang, Ju Ren, Feng Qian, and Yaoxue Zhang. [MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting](https://ieeexplore.ieee.org/abstract/document/10764755), IEEE Transactions on Circuits and Systems for Video Technology (`TCVST`), 2024. (Early Access)
 
