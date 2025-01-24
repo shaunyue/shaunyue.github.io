@@ -36,6 +36,8 @@ function toggleContent(id) {
 
 ## Recent News
 
+- [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing!
+- [12/2024] 🎉 Paper "StreamSys: A Lightweight Executable Delivery System for Edge Computing" is accepted to IEEE Transactions on Cloud Computing!
 - [11/2024] 🎉 Paper "Momentum-Based Contextual Federated Reinforcement Learning" is accepted to IEEE/ACM Transactions on Networking! 
 - [10/2024] 💼 I will join the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) @ [SYSU (Shenzhen Campus)](https://shenzhen.sysu.edu.cn) as an Associate Professor! 
 - [05/2024] 🎉 Two papers ([ILID](https://openreview.net/pdf?id=oOlooUu2Sb) & [OLLIE](https://openreview.net/pdf?id=eG42XBhV9a)) are accepted to ICML 2024! 
