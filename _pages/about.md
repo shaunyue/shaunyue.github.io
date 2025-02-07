@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage! I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research interests fall in the ﬁelds of machine learning and information network, including reinforcement learning (decision and control), distributed learning, generative models, and LLM agent, with a particular emphasis on applications in *intelligent decision at edge*.
 
-I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) and my B.Sc. from the [School of Mathematics and Statistics](https://math.csu.edu.cn/), at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)). I was a postdoctoral researcher in the [Department of Computer Science Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024.
+I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) and my B.Sc. from the [School of Mathematics and Statistics](https://math.csu.edu.cn/), at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)). I was a postdoctoral researcher in the [Department of Computer Science Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. [[`中文简介`](https://scst.sysu.edu.cn/members/members01/1417931.htm)]
 
 <script>
 function toggleContent(id) {
@@ -23,7 +23,7 @@ function toggleContent(id) {
 </script>
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
-<strong>🔥 Students (招生):</strong> I am looking for Postgraduate students (Fall 2025) who are interested in the area of machine learning, network optimization, privacy, agent, or other relevant and intersting topics. If interested, please contact me: yuesh5 AT mail DOT sysu DOT edu DOT cn.
+<strong>🔥 Students (招生):</strong> I am looking for Postgraduate students (Fall 2025) who are interested in the area of reinforcemnt learning, machine learning, LLM agent, or other relevant topics. If interested, please contact me: yuesh5 AT mail DOT sysu DOT edu DOT cn.
 </div>
 
 <!-- <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 0px;">
@@ -147,6 +147,7 @@ function toggleContent(id) {
 
 ### Invited Reviewer
 
+- [IEEE/ACM Transactions on Networking](https://www.comsoc.org/publications/journals/ieee-tnet)
 - [IEEE Journal on Selected Areas in Communications](https://www.comsoc.org/publications/journals/ieee-jsac)
 - [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td)
 - [IEEE Transactions on Mobile Computing](https://www.computer.org/csdl/journal/tm)
