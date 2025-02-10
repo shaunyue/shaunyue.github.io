@@ -54,11 +54,7 @@
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
       {% if site.author.chinese_homepage %}
-      <li>
-        <a href="{{ site.author.chinese_homepage }}" itemprop="url">
-          <i class="fas fa-home"></i> 中文主页 <!-- 使用 Font Awesome 的 "home" 图标 -->
-        </a>
-      </li>
+      <li> <a href="{{ site.author.chinese_homepage }}"><i class="ai ai-cv ai-fw icon-pad-right"></i>中文主页</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
