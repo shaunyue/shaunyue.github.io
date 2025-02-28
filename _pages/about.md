@@ -35,10 +35,10 @@ function toggleContent(id) {
 </div> -->
 
 ## Recent News
-
-- [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing!
-- [12/2024] 🎉 Paper "StreamSys: A Lightweight Executable Delivery System for Edge Computing" is accepted to IEEE Transactions on Cloud Computing!
-- [11/2024] 🎉 Paper "Momentum-Based Contextual Federated Reinforcement Learning" is accepted to IEEE/ACM Transactions on Networking! 
+- [02/2025] 🎉 Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
+- [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
+- [12/2024] 🎉 Paper "StreamSys: A Lightweight Executable Delivery System for Edge Computing" is accepted to IEEE Transactions on Cloud Computing. Congrats to Jun!
+- [11/2024] 🎉 Paper "Momentum-Based Contextual Federated Reinforcement Learning" is accepted to IEEE/ACM Transactions on Networking. Congrats to Xingyuan! 
 - [10/2024] 💼 I will join the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) @ [SYSU (Shenzhen Campus)](https://shenzhen.sysu.edu.cn) as an Associate Professor! 
 - [05/2024] 🎉 Two papers ([ILID](https://openreview.net/pdf?id=oOlooUu2Sb) & [OLLIE](https://openreview.net/pdf?id=eG42XBhV9a)) are accepted to ICML 2024! 
 
@@ -70,6 +70,8 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
+1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. AugFL: Augmenting Federated Learning with Pretrained Models. IEEE/ACM Transactions on Networking (`ToN`), 2024. (Early Access)
+
 1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li, and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), 2025. (Early Access)
 
 1. Jun Lu, Zhenya Ma, Yinggang Gao, **Sheng Yue**, Ju Ren, and Yaoxue Zhang. [StreamSys: A Lightweight Executable Delivery System for Edge Computing](https://ieeexplore.ieee.org/abstract/document/10814051). IEEE Transactions on Cloud Computing (`TCC`), 2024. (Early Access)
@@ -89,7 +91,6 @@ function toggleContent(id) {
 1. Nan Qiao#, **Sheng Yue**, Yongmin Zhang, and Ju Ren. [POPEC: PAoI-Centric Task Offloading with Priority over Unreliable Channels](https://ieeexplore.ieee.org/abstract/document/10397547), ACM/IEEE Transactions on Networking (`ToN`), vol. 32, no. 3, pp. 2376 - 2390, 2023.
 
 1. Zhaofeng Zhang, **Sheng Yue\***, and Junshan Zhang. [Towards Resource-Efficient Edge AI: From Federated Learning to Semi-Supervised Model Personalization](https://ieeexplore.ieee.org/abstract/document/10254288), IEEE Transactions on Mobile Computing (`TMC`), vol. 23, no. 5, pp. 6104 - 6115, 2024.
-
 
 1. **Sheng Yue**, Ju Ren, Jiang Xin, Deyu Zhang, Yaoxue Zhang, and Weihua Zhuang. [Efficient Federated Meta-Learning over Multi-Access Wireless Networks](https://arxiv.org/pdf/2108.06453), IEEE Journal on Selected Areas in Communications (`JSAC`), vol. 40, no. 5, pp. 1556-1570, 2022.
 
