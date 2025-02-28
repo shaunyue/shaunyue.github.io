@@ -70,7 +70,7 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. AugFL: Augmenting Federated Learning with Pretrained Models. IEEE/ACM Transactions on Networking (`ToN`), 2024. (Early Access)
+1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. AugFL: Augmenting Federated Learning with Pretrained Models. IEEE/ACM Transactions on Networking (`ToN`), 2025. (Early Access)
 
 1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li, and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), 2025. (Early Access)
 
