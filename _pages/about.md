@@ -46,6 +46,8 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
+1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. Towards Distance-Adaptive Wireless Charging. ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, 23-27 June, 2025
+
 1. **Sheng Yue**, Jiani Liu#, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning, International Conference on Machine Learning](https://openreview.net/pdf?id=oOlooUu2Sb) (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)]
 
 1. **Sheng Yue**, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://openreview.net/pdf?id=eG42XBhV9a), International Conference on Machine Learning (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning)]
@@ -70,7 +72,9 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. AugFL: Augmenting Federated Learning with Pretrained Models. IEEE/ACM Transactions on Networking (`ToN`), 2025. (Early Access)
+1. Jialin Guo,  Yongjian Fu,  Zhiwei Zhai,  Xinyi Li,  Yongheng Deng,  **Sheng Yue**,  Lili Chen,  Hao Pan,  and Ju Ren. MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation. IEEE Transactions on Mobile Computing (`TMC`), 2025. 
+
+1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. AugFL: Augmenting Federated Learning with Pretrained Models. IEEE/ACM Transactions on Networking (`ToN`), 2025. 
 
 1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li, and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), 2025. (Early Access)
 
@@ -130,7 +134,7 @@ function toggleContent(id) {
 
 ### Awards
 
-- 2024: Young Elite Scientists Sponsorship Program of CIE (Recommended to CAST)
+- 2025: Young Elite Scientists Sponsorship Program of CAST
 - 2023: ACM China SIGAPP Doctoral Dissertation Award
 - 2023: Postdoctoral Fellowship Program of CPSF (Category B)
 - 2021: Excellent Ph.D student of CSU
@@ -162,7 +166,8 @@ function toggleContent(id) {
 
 ### Teaching
 
-- Teaching Assistant, Computer Networking, Undergraduate Course, [School of Computer Science and Engineering](https://cse.csu.edu.cn/) @ [CSU](https://www.csu.edu.cn), 2018-2021.
+- Introduction to Artificial Intelligence, Postgraduate Course, [Sun Yat-sen University](https://www.sysu.edu.cn), Spring 2025.
+- Computer Networking, Undergraduate Course, [School of Computer Science and Engineering](https://cse.csu.edu.cn/) @ [CSU](https://www.csu.edu.cn), 2018-2021, TA.
 
 ### Talks
 
