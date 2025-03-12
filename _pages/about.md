@@ -135,6 +135,7 @@ function toggleContent(id) {
 ### Awards
 
 - 2025: Young Elite Scientists Sponsorship Program of CAST
+- 2024: CIE Doctoral Dissertation Incentive Program
 - 2023: ACM China SIGAPP Doctoral Dissertation Award
 - 2023: Postdoctoral Fellowship Program of CPSF (Category B)
 - 2021: Excellent Ph.D student of CSU
@@ -162,7 +163,7 @@ function toggleContent(id) {
 - [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org), [2023](https://infocom2023.ieee-infocom.org), [2022](https://infocom2022.ieee-infocom.org)
 - [NeurIPS 2022](https://neurips.cc/Conferences/2022), [2021](https://neurips.cc/Conferences/2021)
 - [ICLR 2024](https://iclr.cc/Conferences/2024), [2023](https://iclr.cc/Conferences/2023)
-- [ICML 2023](https://icml.cc/Conferences/2023)
+- [ICML 2025](https://icml.cc/Conferences/2025), [2023](https://icml.cc/Conferences/2023)
 
 ### Teaching
 
