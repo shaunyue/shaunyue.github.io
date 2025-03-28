@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research interests fall in the ﬁelds of machine learning and information network, including reinforcement learning (decision and control), distributed learning, generative models, and LLM agent, with a particular emphasis on applications in *intelligent decision at edge*.
+Welcome to my homepage! I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research interests fall in the ﬁelds of machine learning and information network, including reinforcement learning (decision and control), distributed learning, generative models, and LLM agent, with a particular emphasis on applications in intelligent decision at edge.
 
 I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) and my B.Sc. from the [School of Mathematics and Statistics](https://math.csu.edu.cn/), at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)). I was a postdoctoral researcher in the [Department of Computer Science Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. 
 
@@ -39,8 +39,8 @@ function toggleContent(id) {
 - [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
 - [12/2024] 🎉 Paper "StreamSys: A Lightweight Executable Delivery System for Edge Computing" is accepted to IEEE Transactions on Cloud Computing. Congrats to Jun!
 - [11/2024] 🎉 Paper "Momentum-Based Contextual Federated Reinforcement Learning" is accepted to IEEE/ACM Transactions on Networking. Congrats to Xingyuan! 
-- [10/2024] 💼 I will join the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) @ [SYSU (Shenzhen Campus)](https://shenzhen.sysu.edu.cn) as an Associate Professor! 
-- [05/2024] 🎉 Two papers ([ILID](https://openreview.net/pdf?id=oOlooUu2Sb) & [OLLIE](https://openreview.net/pdf?id=eG42XBhV9a)) are accepted to ICML 2024! 
+- [10/2024] 💼 I will join the School of Cyber Science and Technology @ SYSU (Shenzhen Campus) as an Associate Professor! 
+- [05/2024] 🎉 Two works ([ILID](https://openreview.net/pdf?id=oOlooUu2Sb) & [OLLIE](https://openreview.net/pdf?id=eG42XBhV9a)) are accepted to ICML 2024! 
 
 ## Conference Papers 
 
@@ -72,7 +72,7 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Jialin Guo,  Yongjian Fu,  Zhiwei Zhai,  Xinyi Li,  Yongheng Deng,  **Sheng Yue**,  Lili Chen,  Hao Pan,  and Ju Ren. MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation. IEEE Transactions on Mobile Computing (`TMC`), 2025. 
+1. Jialin Guo,  Yongjian Fu,  Zhiwei Zhai,  Xinyi Li,  Yongheng Deng,  **Sheng Yue**,  Lili Chen,  Hao Pan,  and Ju Ren. [MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948). IEEE Transactions on Mobile Computing (`TMC`), 2025. 
 
 1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. [AugFL: Augmenting Federated Learning with Pretrained Models](https://arxiv.org/pdf/2503.02154). IEEE/ACM Transactions on Networking (`ToN`), 2025. 
 
