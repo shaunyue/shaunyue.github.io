@@ -23,7 +23,7 @@ function toggleContent(id) {
 </script>
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
-<strong>🔥 Students (招生):</strong> I am looking for Postgraduate students (Fall 2025) who are interested in the area of reinforcemnt learning, machine learning, LLM agent, or other relevant topics. If interested, please contact me: yuesh5 AT mail DOT sysu DOT edu DOT cn.
+<strong>🔥 Students (招生):</strong> I am looking for Postgraduate students (Fall 2026) who are interested in the area of reinforcemnt learning, machine learning, LLM agent, or other relevant topics. If interested, please contact me: yuesh5 AT mail DOT sysu DOT edu DOT cn.
 </div>
 
 <!-- <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 0px;">
