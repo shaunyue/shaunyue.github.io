@@ -128,6 +128,8 @@ function toggleContent(id) {
 
 **[MOST]** Key Member, Research of Intelligent Computing Key Standards for Heterogeneous Devices, National Key R&D Program of China (国家重点研发计划), 10/2022-9/2025.
 
+**[MOST]** Key Member, Blockchain-based Trusted Sharing Technology and Demonstration Application for Health Data, National Key R&D Program of China (国家重点研发计划).
+
 **[NSFC]** Key Member, Research on Edge Server Deployment and Resource Allocation Optimization, General Program of NSFC (国家自然科学基金面上项目), 1/2021-12/2023.
 
 ## Honors and Activities
@@ -160,10 +162,7 @@ function toggleContent(id) {
 - [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc)
 - [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 - [Chinese Journal of Electronics](https://cje.ejournal.org.cn)
-- [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org), [2023](https://infocom2023.ieee-infocom.org), [2022](https://infocom2022.ieee-infocom.org)
-- [NeurIPS 2022](https://neurips.cc/Conferences/2022), [2021](https://neurips.cc/Conferences/2021)
-- [ICLR 2024](https://iclr.cc/Conferences/2024), [2023](https://iclr.cc/Conferences/2023)
-- [ICML 2025](https://icml.cc/Conferences/2025), [2023](https://icml.cc/Conferences/2023)
+- ICML (2024-), ICLR (2022-), NeurIPS (2022-)
 
 ### Teaching
 
