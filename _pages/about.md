@@ -35,18 +35,20 @@ function toggleContent(id) {
 </div> -->
 
 ## Recent News
+- [02/2025] 🎉 Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
 - [02/2025] 🎉 Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
 - [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
 - [12/2024] 🎉 Paper "StreamSys: A Lightweight Executable Delivery System for Edge Computing" is accepted to IEEE Transactions on Cloud Computing. Congrats to Jun!
 - [11/2024] 🎉 Paper "Momentum-Based Contextual Federated Reinforcement Learning" is accepted to IEEE/ACM Transactions on Networking. Congrats to Xingyuan! 
 - [10/2024] 💼 I will join the School of Cyber Science and Technology @ SYSU (Shenzhen Campus) as an Associate Professor! 
-- [05/2024] 🎉 Two works ([ILID](https://openreview.net/pdf?id=oOlooUu2Sb) & [OLLIE](https://openreview.net/pdf?id=eG42XBhV9a)) are accepted to ICML 2024! 
 
 ## Conference Papers 
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. Towards Distance-Adaptive Wireless Charging. ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, 23-27 June, 2025
+1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, Ju Ren. FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices. The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, 4-8 Nov, 2025.
+
+1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. Towards Distance-Adaptive Wireless Charging. ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, 23-27 June, 2025.
 
 1. **Sheng Yue**, Jiani Liu#, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning, International Conference on Machine Learning](https://openreview.net/pdf?id=oOlooUu2Sb) (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)]
 
