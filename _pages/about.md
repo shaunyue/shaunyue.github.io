@@ -35,7 +35,7 @@ function toggleContent(id) {
 </div> -->
 
 ## Recent News
-- [02/2025] 🎉 Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
+- [06/2025] 🎉 Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
 - [02/2025] 🎉 Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
 - [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
 - [12/2024] 🎉 Paper "StreamSys: A Lightweight Executable Delivery System for Edge Computing" is accepted to IEEE Transactions on Cloud Computing. Congrats to Jun!
