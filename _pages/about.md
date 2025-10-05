@@ -23,7 +23,7 @@ function toggleContent(id) {
 </script>
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
-<strong>🔥 Students (招生):</strong> I am looking for Postgraduate students (Fall 2026) who are interested in the area of reinforcemnt learning, machine learning, LLM agent, or other relevant topics. If interested, please contact me: yuesh5 AT mail DOT sysu DOT edu DOT cn.
+<strong>Students (招生):</strong> If you are interested in our research directions, please contact me: yuesh5 AT mail DOT sysu DOT edu DOT cn.
 </div>
 
 <!-- <div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 0px;">
@@ -48,7 +48,7 @@ function toggleContent(id) {
 
 1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, Ju Ren. FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices. The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, 4-8 Nov, 2025.
 
-1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. Towards Distance-Adaptive Wireless Charging. ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, 23-27 June, 2025.
+1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. [Towards Distance-Adaptive Wireless Charging](https://dl.acm.org/doi/pdf/10.1145/3711875.3729137). ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, 23-27 June, 2025.
 
 1. **Sheng Yue**, Jiani Liu#, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning, International Conference on Machine Learning](https://openreview.net/pdf?id=oOlooUu2Sb) (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)]
 
@@ -112,6 +112,10 @@ function toggleContent(id) {
 
 ## Grants
 
+**[NSFC]** Principle Investigator, Research on End-Cloud Collaborative Computing for LLM-based Agents, National Natural Science Foundation of China (国家自然科学基金面上项目), 1/2026-12/2029.
+
+**[SZSTI]** Principle Investigator, Research on Heterogeneity-Adaptive Construction and Decision-Making for Mobile Agents, Shenzhen Natural Science Foundation in Basic Research Fund (深圳市自然科学基金面上项目), 1/2026-12/2029.
+
 **[NSFC]** Principle Investigator, Research on Offline Federated Reinforcement Learning without Environmental Interaction, Young Scientists Found of NSFC (国家自然科学基金青年科学基金), 1/2024-12/2024.
 
 **[CPSF]** Principle Investigator, Research on Privacy-Preserving Distributed Offline Federated Reinforcement Learning, General Fund of CPSF (中国博士后科学基金面上资助), 1/2024-12/2024.
@@ -141,11 +145,7 @@ function toggleContent(id) {
 - 2025: Young Elite Scientists Sponsorship Program of CAST
 - 2024: CIE Doctoral Dissertation Incentive Program
 - 2023: ACM China SIGAPP Doctoral Dissertation Award
-- 2023: Postdoctoral Fellowship Program of CPSF (Category B)
-- 2021: Excellent Ph.D student of CSU
-- 2020: China Scholarship Council (CSC) Scholarship
-- 2017 & 2018 & 2019 & 2020 & 2021: First-Class Academic Scholarship in CSU
-- 2017: Outstanding Graduate of CSU
+- 2023: Postdoctoral Fellowship Program of CPSF
 
 ### Conference Organization
 
@@ -153,7 +153,7 @@ function toggleContent(id) {
 
 ### TPC Member
 
-- [MSN 2024](https://ieee-msn.org/2024/)
+- MSN [2024](https://ieee-msn.org/2024/), [2025](https://ieee-msn.org/2025/)
 
 ### Invited Reviewer
 
@@ -164,12 +164,13 @@ function toggleContent(id) {
 - [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc)
 - [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 - [Chinese Journal of Electronics](https://cje.ejournal.org.cn)
-- ICML (2024-), ICLR (2022-), NeurIPS (2022-)
+- [ICML (2024-)](https://icml.cc), [ICLR (2022-)](https://iclr.cc), [NeurIPS (2022-)](https://neurips.cc)
 
 ### Teaching
 
-- Introduction to Artificial Intelligence, Postgraduate Course, [Sun Yat-sen University](https://www.sysu.edu.cn), Spring 2025.
-- Computer Networking, Undergraduate Course, [School of Computer Science and Engineering](https://cse.csu.edu.cn/) @ [CSU](https://www.csu.edu.cn), 2018-2021, TA.
+- Computer Programming I, Undergraduate Course, Sun Yat-sen University, Fall 2025.
+- Introduction to Artificial Intelligence, Postgraduate Course, Sun Yat-sen University, Spring 2025.
+- Computer Networking, Undergraduate Course, School of Computer Science and Engineering @ CSU, 2018-2021, TA.
 
 ### Talks
 
