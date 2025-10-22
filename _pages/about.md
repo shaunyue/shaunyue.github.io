@@ -74,13 +74,13 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Jialin Guo,  Yongjian Fu,  Zhiwei Zhai,  Xinyi Li,  Yongheng Deng,  **Sheng Yue**,  Lili Chen,  Hao Pan,  and Ju Ren. [MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948). IEEE Transactions on Mobile Computing (`TMC`), 2025. (Early Access)
+1. Jialin Guo,  Yongjian Fu,  Zhiwei Zhai,  Xinyi Li,  Yongheng Deng,  **Sheng Yue**,  Lili Chen,  Hao Pan,  and Ju Ren. [MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948). IEEE Transactions on Mobile Computing (`TMC`), vol. 24, no. 8, pp. 7328-7344, 2025.
 
-1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. [AugFL: Augmenting Federated Learning with Pretrained Models](https://ieeexplore.ieee.org/abstract/document/10964341/). IEEE/ACM Transactions on Networking (`ToN`), 2025. 
+1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. [AugFL: Augmenting Federated Learning with Pretrained Models](https://ieeexplore.ieee.org/abstract/document/10964341/). IEEE/ACM Transactions on Networking (`ToN`), vol. 33, no. 4, pp. 1870-1885, 2025. 
 
-1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li, and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), 2025. (Early Access)
+1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li, and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), vol. 24, no. 6, pp. 5202-5213, 2025.
 
-1. **Sheng Yue**, Xingyuan Hua#, Yongheng Deng, Lili Chen, Ju Ren, and Yaoxue Zhang. [Momentum-Based Contextual Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10806823). IEEE/ACM Transactions on Networking (`ToN`), 2024. (Early Access)
+1. **Sheng Yue**, Xingyuan Hua#, Yongheng Deng, Lili Chen, Ju Ren, and Yaoxue Zhang. [Momentum-Based Contextual Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10806823). IEEE/ACM Transactions on Networking (`ToN`), vol. 33, no. 2, pp. 865-880, 2024. 
 
 1. Jun Lu, Zhenya Ma, Yinggang Gao, **Sheng Yue**, Ju Ren, and Yaoxue Zhang. [StreamSys: A Lightweight Executable Delivery System for Edge Computing](https://ieeexplore.ieee.org/abstract/document/10814051). IEEE Transactions on Cloud Computing (`TCC`), vol. 13, no. 1, pp. 213-226, 2024.
 
