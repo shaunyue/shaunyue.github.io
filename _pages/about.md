@@ -114,7 +114,9 @@ function toggleContent(id) {
 
 **[NSFC]** Principle Investigator, Research on End-Cloud Collaborative Computing for LLM-based Agents, National Natural Science Foundation of China (国家自然科学基金面上项目), 1/2026-12/2029.
 
-**[SZSTI]** Principle Investigator, Research on Heterogeneity-Adaptive Construction and Decision-Making for Mobile Agents, Shenzhen Natural Science Foundation in Basic Research Fund (深圳市自然科学基金面上项目), 1/2026-12/2029.
+**[GDSTC]** Principle Investigator, Research on Heterogeneity-Adaptive LLM-Based Edge Computing, Natural Science Foundation of Guangdong Province (广东省基础与应用基础研究基金自然科学基金面上项目), 1/2026-12/2028.
+
+**[SZSTI]** Principle Investigator, Research on Heterogeneity-Adaptive Construction and Decision-Making for Mobile Agents, Natural Science Foundation of Shenzhen (深圳市自然科学基金面上项目), 1/2026-12/2029.
 
 **[NSFC]** Principle Investigator, Research on Offline Federated Reinforcement Learning without Environmental Interaction, Young Scientists Found of NSFC (国家自然科学基金青年科学基金), 1/2024-12/2024.
 
