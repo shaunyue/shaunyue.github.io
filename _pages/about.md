@@ -74,7 +74,7 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Nan Qiao#, **Sheng Yue\***, Ju Ren, and Yaoxue Zhang. FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data (https://ieeexplore.ieee.org/document/11273896). IEEE/ACM Transactions on Networking (`ToN`), Early Access, 2025.
+1. Nan Qiao#, **Sheng Yue\***, Ju Ren, and Yaoxue Zhang. [FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896). IEEE/ACM Transactions on Networking (`ToN`), Early Access, 2025.
 
 1. Jialin Guo, Yongjian Fu, Zhiwei Zhai, Xinyi Li, Yongheng Deng, **Sheng Yue**, Lili Chen, Hao Pan,  and Ju Ren. [MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948). IEEE Transactions on Mobile Computing (`TMC`), vol. 24, no. 8, pp. 7328-7344, 2025.
 
