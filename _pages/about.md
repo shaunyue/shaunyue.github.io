@@ -46,7 +46,7 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, Ju Ren. FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices. The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, 4-8 Nov, 2025.
+1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, Ju Ren. [FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3680207.3765238). The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, 4-8 Nov, 2025.
 
 1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. [Towards Distance-Adaptive Wireless Charging](https://dl.acm.org/doi/pdf/10.1145/3711875.3729137). ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, 23-27 June, 2025.
 
@@ -74,7 +74,9 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Jialin Guo,  Yongjian Fu,  Zhiwei Zhai,  Xinyi Li,  Yongheng Deng,  **Sheng Yue**,  Lili Chen,  Hao Pan,  and Ju Ren. [MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948). IEEE Transactions on Mobile Computing (`TMC`), vol. 24, no. 8, pp. 7328-7344, 2025.
+1. Nan Qiao#, **Sheng Yue\***, Ju Ren, and Yaoxue Zhang. FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data (https://ieeexplore.ieee.org/document/11273896). IEEE/ACM Transactions on Networking (`ToN`), Early Access, 2025.
+
+1. Jialin Guo, Yongjian Fu, Zhiwei Zhai, Xinyi Li, Yongheng Deng, **Sheng Yue**, Lili Chen, Hao Pan,  and Ju Ren. [MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948). IEEE Transactions on Mobile Computing (`TMC`), vol. 24, no. 8, pp. 7328-7344, 2025.
 
 1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. [AugFL: Augmenting Federated Learning with Pretrained Models](https://ieeexplore.ieee.org/abstract/document/10964341/). IEEE/ACM Transactions on Networking (`ToN`), vol. 33, no. 4, pp. 1870-1885, 2025. 
 
