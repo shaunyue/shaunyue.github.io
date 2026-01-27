@@ -49,7 +49,7 @@ function toggleContent(id) {
 
 1. Ningxin He, Yongheng Deng, **Sheng Yue**, Yongjian Fu, Zhangzehui, and Tiegang Gao. [RAG4DMC: Retrieval-Augmented Generation for Data-Level Modality Completion](https://openreview.net/pdf?id=6LA7KDjNsy). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
-1. Nan Qiao# and **Sheng Yue\***. [FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification]. IEEE International Conference on Communications (`ICC`), Glasgow, UK, 24-28 May, 2026.
+1. Nan Qiao# and **Sheng Yue\***. FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification. IEEE International Conference on Communications (`ICC`), Glasgow, UK, 24-28 May, 2026.
 
 1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, and Ju Ren. [FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3680207.3765238). The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, 4-8 Nov, 2025.
 
