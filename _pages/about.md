@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research is centered on the field of decision intelligence. Currently, I mainly focus on reinforcement learning, continual learning, LLM optimization, and LLM agents.
-
-I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) and my B.Sc. from the [School of Mathematics and Statistics](https://math.csu.edu.cn/), at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)). I was a postdoctoral researcher in the [Department of Computer Science Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. 
+Welcome to my homepage! I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). I was a postdoctoral researcher in the [Department of Computer Science Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)). My research is centered on the field of decision intelligence. Currently, I am exploring reinforcement learning, continual learning, LLM optimization, and LLM agents.
 
 <script>
 function toggleContent(id) {
@@ -35,11 +33,11 @@ function toggleContent(id) {
 </div> -->
 
 ## Recent News
-- [01/2026] Paper "Less is more: Clustered Cross-Covariance Control for Offline RL" is accepted to ICLR'25. Congrats to Nan!
-- [01/2026] Paper "Context Learning for Multi-Agent Discussion" is accepted to ICLR'25. Congrats to Xingyuan!
-- [06/2025] Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
-- [02/2025] Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
-- [01/2025] Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
+- [01/2026] 🎉 Paper "Less is more: Clustered Cross-Covariance Control for Offline RL" is accepted to ICLR'25. Congrats to Nan!
+- [01/2026] 🎉 Paper "Context Learning for Multi-Agent Discussion" is accepted to ICLR'25. Congrats to Xingyuan!
+- [06/2025] 🎉 Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
+- [02/2025] 🎉 Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
+- [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
 
 ## Conference Papers 
 
