@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research interests fall in the ﬁelds of machine learning and information network, including reinforcement learning (decision and control), distributed learning, generative models, and LLM agent, with a particular emphasis on applications in intelligent decision at edge.
+Welcome to my homepage! I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research is centered on the field of decision intelligence. Currently, I mainly focus on reinforcement learning, continual learning, LLM optimization, and LLM agents.
 
 I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) and my B.Sc. from the [School of Mathematics and Statistics](https://math.csu.edu.cn/), at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)). I was a postdoctoral researcher in the [Department of Computer Science Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. 
 
@@ -35,22 +35,29 @@ function toggleContent(id) {
 </div> -->
 
 ## Recent News
-- [06/2025] 🎉 Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
-- [02/2025] 🎉 Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
-- [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
-- [12/2024] 🎉 Paper "StreamSys: A Lightweight Executable Delivery System for Edge Computing" is accepted to IEEE Transactions on Cloud Computing. Congrats to Jun!
-- [11/2024] 🎉 Paper "Momentum-Based Contextual Federated Reinforcement Learning" is accepted to IEEE/ACM Transactions on Networking. Congrats to Xingyuan! 
-- [10/2024] 💼 I will join the School of Cyber Science and Technology @ SYSU (Shenzhen Campus) as an Associate Professor! 
+- [01/2026] Paper "Less is more: Clustered Cross-Covariance Control for Offline RL" is accepted to ICLR'25. Congrats to Nan!
+- [01/2026] Paper "Context Learning for Multi-Agent Discussion" is accepted to ICLR'25. Congrats to Xingyuan!
+- [06/2025] Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
+- [02/2025] Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
+- [01/2025] Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
 
 ## Conference Papers 
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, Ju Ren. [FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3680207.3765238). The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, 4-8 Nov, 2025.
+1. Nan Qiao#, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less is more: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/pdf?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+
+1. Xingyuan Hua#, **Sheng Yue\***, Xinyi Li, Yizhe Zhao, Jinrui Zhang, and Ju Ren. [Context Learning for Multi-Agent Discussion](https://openreview.net/pdf?id=EUu8TILWpR). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+
+1. Ningxin He, Yongheng Deng, **Sheng Yue**, Yongjian Fu, Zhangzehui, and Tiegang Gao. [RAG4DMC: Retrieval-Augmented Generation for Data-Level Modality Completion](https://openreview.net/pdf?id=6LA7KDjNsy). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+
+1. Nan Qiao# and **Sheng Yue\***. [FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification]. IEEE International Conference on Communications (`ICC`), Glasgow, UK, 24-28 May, 2026.
+
+1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, and Ju Ren. [FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3680207.3765238). The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, 4-8 Nov, 2025.
 
 1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. [Towards Distance-Adaptive Wireless Charging](https://dl.acm.org/doi/pdf/10.1145/3711875.3729137). ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, 23-27 June, 2025.
 
-1. **Sheng Yue**, Jiani Liu#, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning, International Conference on Machine Learning](https://openreview.net/pdf?id=oOlooUu2Sb) (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)]
+1. **Sheng Yue**, Jiani Liu#, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning](https://openreview.net/pdf?id=oOlooUu2Sb), International Conference on Machine Learning (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)]
 
 1. **Sheng Yue**, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://openreview.net/pdf?id=eG42XBhV9a), International Conference on Machine Learning (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning)]
 
