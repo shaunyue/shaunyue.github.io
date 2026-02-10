@@ -33,7 +33,7 @@ function toggleContent(id) {
 </div> -->
 
 ## Recent News
-- [01/2026] 🎉 Paper "Less is more: Clustered Cross-Covariance Control for Offline RL" is accepted to ICLR'25. Congrats to Nan!
+- [01/2026] 🎉 Paper "Less is More: Clustered Cross-Covariance Control for Offline RL" is accepted to ICLR'25. Congrats to Nan!
 - [01/2026] 🎉 Paper "Context Learning for Multi-Agent Discussion" is accepted to ICLR'25. Congrats to Xingyuan!
 - [06/2025] 🎉 Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
 - [02/2025] 🎉 Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
