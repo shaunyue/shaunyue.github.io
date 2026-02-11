@@ -33,7 +33,7 @@ function toggleContent(id) {
 </div> -->
 
 ## Recent News
-- [01/2026] 🎉 Paper "Less is More: Clustered Cross-Covariance Control for Offline RL" is accepted to ICLR'25. Congrats to Nan!
+- [01/2026] 🎉 Paper "Less Is More: Clustered Cross-Covariance Control for Offline RL" is accepted to ICLR'25. Congrats to Nan!
 - [01/2026] 🎉 Paper "Context Learning for Multi-Agent Discussion" is accepted to ICLR'25. Congrats to Xingyuan!
 - [06/2025] 🎉 Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
 - [02/2025] 🎉 Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
@@ -43,7 +43,7 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Nan Qiao#, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less is more: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/pdf?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+1. Nan Qiao#, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/pdf?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
 1. Xingyuan Hua#, **Sheng Yue\***, Xinyi Li, Yizhe Zhao, Jinrui Zhang, and Ju Ren. [Context Learning for Multi-Agent Discussion](https://openreview.net/pdf?id=EUu8TILWpR). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
