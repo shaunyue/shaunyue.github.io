@@ -43,11 +43,11 @@ function toggleContent(id) {
 
 <small>(* Corresponding author, # Mentored student)</small>
 
-1. Nan Qiao#, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/pdf?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+1. Nan Qiao#, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
-1. Xingyuan Hua#, **Sheng Yue\***, Xinyi Li, Yizhe Zhao, Jinrui Zhang, and Ju Ren. [Context Learning for Multi-Agent Discussion](https://openreview.net/pdf?id=EUu8TILWpR). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+1. Xingyuan Hua#, **Sheng Yue\***, Xinyi Li, Yizhe Zhao, Jinrui Zhang, and Ju Ren. [Context Learning for Multi-Agent Discussion](https://openreview.net/forum?id=EUu8TILWpR). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
-1. Ningxin He, Yongheng Deng, **Sheng Yue**, Yongjian Fu, Zhangzehui, and Tiegang Gao. [RAG4DMC: Retrieval-Augmented Generation for Data-Level Modality Completion](https://openreview.net/pdf?id=6LA7KDjNsy). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+1. Ningxin He, Yongheng Deng, **Sheng Yue**, Yongjian Fu, Zehui Zhang, and Tiegang Gao. [RAG4DMC: Retrieval-Augmented Generation for Data-Level Modality Completion](https://openreview.net/forum?id=6LA7KDjNsy). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
 1. Nan Qiao# and **Sheng Yue\***. FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification. IEEE International Conference on Communications (`ICC`), Glasgow, UK, 24-28 May, 2026.
 
