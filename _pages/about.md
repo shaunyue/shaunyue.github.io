@@ -41,35 +41,35 @@ function toggleContent(id) {
 
 ## Conference Papers 
 
-<small>(* Corresponding author, # Mentored student)</small>
+<small>(* Corresponding author, # Co-first author)</small>
 
-1. Nan Qiao#, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+1. Nan Qiao, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
-1. Xingyuan Hua#, **Sheng Yue\***, Xinyi Li, Yizhe Zhao, Jinrui Zhang, and Ju Ren. [Context Learning for Multi-Agent Discussion](https://openreview.net/forum?id=EUu8TILWpR). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
+1. Xingyuan Hua, **Sheng Yue\***, Xinyi Li, Yizhe Zhao, Jinrui Zhang, and Ju Ren. [Context Learning for Multi-Agent Discussion](https://openreview.net/forum?id=EUu8TILWpR). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
 1. Ningxin He, Yongheng Deng, **Sheng Yue**, Yongjian Fu, Zehui Zhang, and Tiegang Gao. [RAG4DMC: Retrieval-Augmented Generation for Data-Level Modality Completion](https://openreview.net/forum?id=6LA7KDjNsy). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
-1. Nan Qiao# and **Sheng Yue\***. FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification. IEEE International Conference on Communications (`ICC`), Glasgow, UK, 24-28 May, 2026.
+1. Nan Qiao and **Sheng Yue\***. FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification. IEEE International Conference on Communications (`ICC`), Glasgow, UK, 24-28 May, 2026.
 
 1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, and Ju Ren. [FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3680207.3765238). The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, 4-8 Nov, 2025.
 
 1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. [Towards Distance-Adaptive Wireless Charging](https://dl.acm.org/doi/pdf/10.1145/3711875.3729137). ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, 23-27 June, 2025.
 
-1. **Sheng Yue**, Jiani Liu#, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning](https://openreview.net/pdf?id=oOlooUu2Sb), International Conference on Machine Learning (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)]
+1. **Sheng Yue**, Jiani Liu, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning](https://openreview.net/pdf?id=oOlooUu2Sb), International Conference on Machine Learning (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)]
 
-1. **Sheng Yue**, Xingyuan Hua#, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://openreview.net/pdf?id=eG42XBhV9a), International Conference on Machine Learning (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning)]
+1. **Sheng Yue**, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://openreview.net/pdf?id=eG42XBhV9a), International Conference on Machine Learning (`ICML`), Vienna, Austria, 21-27 July, 2024. [[Code](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning)]
 
-1. **Sheng Yue**, Xingyuan Hua#, Lili Chen, and Ju Ren. [Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621260), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, 20-23 May, 2024. [[Code](https://codeocean.com/capsule/1418921/tree/v1)]
+1. **Sheng Yue**, Xingyuan Hua, Lili Chen, and Ju Ren. [Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621260), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, 20-23 May, 2024. [[Code](https://codeocean.com/capsule/1418921/tree/v1)]
 
-1. **Sheng Yue**, Zerui Qin#, Xingyuan Hua#, Yongheng Deng, and Ju Ren. [Federated Offline Policy Optimization with Dual Regularization](https://ieeexplore.ieee.org/abstract/document/10621140), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, 20-23 May, 2024. [[Code](https://codeocean.com/capsule/8103588/tree/v1)]
+1. **Sheng Yue**, Zerui Qin, Xingyuan Hua, Yongheng Deng, and Ju Ren. [Federated Offline Policy Optimization with Dual Regularization](https://ieeexplore.ieee.org/abstract/document/10621140), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, 20-23 May, 2024. [[Code](https://codeocean.com/capsule/8103588/tree/v1)]
 
-1. Jing Qiao#, Zuyuan Zhang, **Sheng Yue\***, Yuan Yuan, Zhipeng Cai, Xiao Zhang, Ju Ren, and Dongxiao Yu. [BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning with Fast Convergence and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621347), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, 20-23 May, 2024.
+1. Jing Qiao, Zuyuan Zhang, **Sheng Yue\***, Yuan Yuan, Zhipeng Cai, Xiao Zhang\*, Ju Ren, and Dongxiao Yu. [BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning with Fast Convergence and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621347), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, 20-23 May, 2024.
 
 1. Yongheng Deng, Guanbo Wang, **Sheng Yue**, Wei Rao, Qin Zu, Wenjie Wang, Shuai Chen, Ju Ren, and Yaoxue Zhang. [RelayRec: Empowering Privacy-Preserving CTR Prediction via Cloud-Device Relay Learning](https://dl.acm.org/doi/pdf/10.1109/IPSN61024.2024.00020), ACM/IEEE International Conference on Information Processing in Sensor Networks (`IPSN`), Hong Kong, China,13-16 May, 2024.
 
 1. Yongheng Deng, **Sheng Yue**, Guanbo Wang, Tuowei Wang, Ju Ren, and Yaoxue Zhang. [FedINC: An Exemplar-Free Continual Federated Learning Framework with Small Labeled Data](https://dl.acm.org/doi/pdf/10.1145/3625687.3625800), ACM Conference on Embedded Networked Sensor Systems (`SenSys`),13-15 Nov, Istanbul, Turkiye, 2023.
 
-1. **Sheng Yue**, Guanbo Wang#, Wei Shao, Zhaofeng Zhang, Sen Lin, Ju Ren, and Junshan Zhang. [CLARE: Conservative Model-Based Offline Inverse Reinforcement Learning](https://openreview.net/pdf?id=5aT4ganOd98), International Conference on Learning Representations (`ICLR`), Kigali, Rwanda, 1-5 May, 2023.
+1. **Sheng Yue**, Guanbo Wang, Wei Shao, Zhaofeng Zhang, Sen Lin, Ju Ren, and Junshan Zhang. [CLARE: Conservative Model-Based Offline Inverse Reinforcement Learning](https://openreview.net/pdf?id=5aT4ganOd98), International Conference on Learning Representations (`ICLR`), Kigali, Rwanda, 1-5 May, 2023.
 
 1. Tengxi Xia, Yongheng Deng, **Sheng Yue**, Junyi He, Ju Ren, and Yaoxue Zhang. [HSFL: An Efficient Split Federated Learning Framework via Hierarchical Organization](https://dl.ifip.org/db/conf/cnsm/cnsm2022/01.pdf), International Conference on Network and Service Management (`CNSM`), Thessaloniki, Greece, 31 Oct - 4 Nov, 2022.
 
@@ -77,39 +77,41 @@ function toggleContent(id) {
 
 ## Journal Papers
 
-<small>(* Corresponding author, # Mentored student)</small>
+<small>(* Corresponding author, # Co-first author)</small>
 
-1. Nan Qiao#, **Sheng Yue\***, Ju Ren, and Yaoxue Zhang. [FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896). IEEE/ACM Transactions on Networking (`ToN`), Early Access, 2025.
+1. Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue\***, and Ju Ren. Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data. IEEE Transactions on Mobile Computing (`TMC`), 2026, to appear.
+
+1. Nan Qiao, **Sheng Yue\***, Ju Ren, and Yaoxue Zhang. [FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896). IEEE/ACM Transactions on Networking (`ToN`), vol. 34, pp. 2031-2046, 2025.
 
 1. Jialin Guo, Yongjian Fu, Zhiwei Zhai, Xinyi Li, Yongheng Deng, **Sheng Yue**, Lili Chen, Hao Pan,  and Ju Ren. [MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948). IEEE Transactions on Mobile Computing (`TMC`), vol. 24, no. 8, pp. 7328-7344, 2025.
 
-1. **Sheng Yue**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. [AugFL: Augmenting Federated Learning with Pretrained Models](https://ieeexplore.ieee.org/abstract/document/10964341/). IEEE/ACM Transactions on Networking (`ToN`), vol. 33, no. 4, pp. 1870-1885, 2025. 
+1. **Sheng Yue#**, Zerui Qin#, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang. [AugFL: Augmenting Federated Learning with Pretrained Models](https://ieeexplore.ieee.org/abstract/document/10964341/). IEEE/ACM Transactions on Networking (`ToN`), vol. 33, no. 4, pp. 1870-1885, 2025. 
 
 1. Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li, and Ju Ren. [DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors). IEEE Transactions on Mobile Computing (`TMC`), vol. 24, no. 6, pp. 5202-5213, 2025.
 
-1. **Sheng Yue**, Xingyuan Hua#, Yongheng Deng, Lili Chen, Ju Ren, and Yaoxue Zhang. [Momentum-Based Contextual Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10806823). IEEE/ACM Transactions on Networking (`ToN`), vol. 33, no. 2, pp. 865-880, 2024. 
+1. **Sheng Yue#**, Xingyuan Hua#, Yongheng Deng, Lili Chen, Ju Ren, and Yaoxue Zhang. [Momentum-Based Contextual Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10806823). IEEE/ACM Transactions on Networking (`ToN`), vol. 33, no. 2, pp. 865-880, 2024. 
 
 1. Jun Lu, Zhenya Ma, Yinggang Gao, **Sheng Yue**, Ju Ren, and Yaoxue Zhang. [StreamSys: A Lightweight Executable Delivery System for Edge Computing](https://ieeexplore.ieee.org/abstract/document/10814051). IEEE Transactions on Cloud Computing (`TCC`), vol. 13, no. 1, pp. 213-226, 2024.
 
-1. Jiang Xin, **Sheng Yue\***, Jinrui Zhang, Ju Ren, Feng Qian, and Yaoxue Zhang. [MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting](https://ieeexplore.ieee.org/abstract/document/10764755), IEEE Transactions on Circuits and Systems for Video Technology (`TCVST`), vol. 35, no. 4, pp. 3172-3184, 2025.
+1. Jiang Xin, **Sheng Yue\***, Jinrui Zhang\*, Ju Ren, Feng Qian, and Yaoxue Zhang. [MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting](https://ieeexplore.ieee.org/abstract/document/10764755), IEEE Transactions on Circuits and Systems for Video Technology (`TCVST`), vol. 35, no. 4, pp. 3172-3184, 2025.
 
-1. **Sheng Yue**, Yongheng Deng, Xingyuan Hua#, Guanbo Wang#, Ju Ren, and Yaoxue Zhang. [Federated Offline Reinforcement Learning with Proximal Policy Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10748547), Chinese Journal of Electronics (`CJE`), vol. 33, no. 6, pp. 1-13, 2024.
+1. **Sheng Yue**, Yongheng Deng, Xingyuan Hua, Guanbo Wang, Ju Ren, and Yaoxue Zhang. [Federated Offline Reinforcement Learning with Proximal Policy Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10748547), Chinese Journal of Electronics (`CJE`), vol. 33, no. 6, pp. 1-13, 2024.
 
-1. Ye Zhang, Jinrui Zhang, **Sheng Yue\***, Wei Lu, Ju Ren, and Xuemin (Sherman) Shen. [Mobile Generative AI: Opportunities and Challenges](https://ieeexplore.ieee.org/abstract/document/10628027), IEEE Wireless Communications (`WC`), vol. 31, no. 4, pp. 58-64, 2024.
+1. Ye Zhang, Jinrui Zhang\*, **Sheng Yue\***, Wei Lu, Ju Ren, and Xuemin (Sherman) Shen. [Mobile Generative AI: Opportunities and Challenges](https://ieeexplore.ieee.org/abstract/document/10628027), IEEE Wireless Communications (`WC`), vol. 31, no. 4, pp. 58-64, 2024.
 
 1. Zequn Cao, Xiaoheng Deng, **Sheng Yue**, Ping Jiang, Ju Ren, and Jinsong Gui. [Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10463608), IEEE Internet of Things Journal (`IoTJ`), vol. 11, no. 12, pp. 21632 - 21646, 2024.
 
-1. Jiani Liu#, Ju Ren, Yongmin Zhang, **Sheng Yue**, and Yaoxue Zhang. [SESAME: A Resource Expansion and Sharing Scheme for Multiple Edge Services Provider](https://ieeexplore.ieee.org/abstract/document/10477324/), ACM/IEEE Transaction on Networking (`ToN`), vol. 32, no. 4, pp. 3189 - 3204, 2023.
+1. Jiani Liu, Ju Ren, Yongmin Zhang, **Sheng Yue**, and Yaoxue Zhang. [SESAME: A Resource Expansion and Sharing Scheme for Multiple Edge Services Provider](https://ieeexplore.ieee.org/abstract/document/10477324/), ACM/IEEE Transaction on Networking (`ToN`), vol. 32, no. 4, pp. 3189 - 3204, 2023.
 
-1. Nan Qiao#, **Sheng Yue**, Yongmin Zhang, and Ju Ren. [POPEC: PAoI-Centric Task Offloading with Priority over Unreliable Channels](https://ieeexplore.ieee.org/abstract/document/10397547), ACM/IEEE Transactions on Networking (`ToN`), vol. 32, no. 3, pp. 2376 - 2390, 2023.
+1. Nan Qiao, **Sheng Yue**, Yongmin Zhang, and Ju Ren. [POPEC: PAoI-Centric Task Offloading with Priority over Unreliable Channels](https://ieeexplore.ieee.org/abstract/document/10397547), ACM/IEEE Transactions on Networking (`ToN`), vol. 32, no. 3, pp. 2376 - 2390, 2023.
 
 1. Zhaofeng Zhang, **Sheng Yue\***, and Junshan Zhang. [Towards Resource-Efficient Edge AI: From Federated Learning to Semi-Supervised Model Personalization](https://ieeexplore.ieee.org/abstract/document/10254288), IEEE Transactions on Mobile Computing (`TMC`), vol. 23, no. 5, pp. 6104 - 6115, 2024.
 
 1. **Sheng Yue**, Ju Ren, Jiang Xin, Deyu Zhang, Yaoxue Zhang, and Weihua Zhuang. [Efficient Federated Meta-Learning over Multi-Access Wireless Networks](https://ieeexplore.ieee.org/abstract/document/9681911), IEEE Journal on Selected Areas in Communications (`JSAC`), vol. 40, no. 5, pp. 1556-1570, 2022.
 
-1. **Sheng Yue**, Ju Ren, Nan Qiao#, Yongmin Zhang, Hongbo Jiang, Yaoxue Zhang, and Yuanyuan Yang. [TODG: Distributed Task Offloading with Delay Guarantees for Edge Computing](https://ieeexplore.ieee.org/abstract/document/9591418), IEEE Transactions on Parallel and Distributed Systems (`TPDS`), vol. 33, no. 7, pp. 1650-1665, 2022.
+1. **Sheng Yue**, Ju Ren, Nan Qiao, Yongmin Zhang, Hongbo Jiang, Yaoxue Zhang, and Yuanyuan Yang. [TODG: Distributed Task Offloading with Delay Guarantees for Edge Computing](https://ieeexplore.ieee.org/abstract/document/9591418), IEEE Transactions on Parallel and Distributed Systems (`TPDS`), vol. 33, no. 7, pp. 1650-1665, 2022.
 
-1. Ju Ren, K. M. Mahfujul#, Feng Lyu, **Sheng Yue**, and Yaoxue Zhang. [Joint Channel Allocation and Resource Management for Stochastic Computation Offloading in MEC](https://ieeexplore.ieee.org/abstract/document/9099962), IEEE Transactions on Vehicular Technology (`TVT`), vol. 69, no. 8, pp. 8900-8913, 2020.
+1. Ju Ren, K. M. Mahfujul, Feng Lyu, **Sheng Yue**, and Yaoxue Zhang. [Joint Channel Allocation and Resource Management for Stochastic Computation Offloading in MEC](https://ieeexplore.ieee.org/abstract/document/9099962), IEEE Transactions on Vehicular Technology (`TVT`), vol. 69, no. 8, pp. 8900-8913, 2020.
 
 1. Ju Ren, **Sheng Yue**, Deyu Zhang, Yaoxue Zhang, and Jiannong Cao. [Joint Channel Assignment and Stochastic Energy Management for RF-Powered OFDMA WSNs](https://ieeexplore.ieee.org/abstract/document/8581512), IEEE Transactions on Vehicular Technology (`TVT`), vol. 68, no. 2, pp. 1578-1592, 2019.
 
@@ -158,9 +160,10 @@ function toggleContent(id) {
 
 ### Conference Organization
 
-- [ICCC 2023](https://iccc2023.ieee-iccc.org/) (Session Chair)
+- [ICPADS 2026](https://www.cloud-conf.net/icpads2026/index.html) - Co-Chair, Edge Intelligence Track 
+- [ICCC 2023](https://iccc2023.ieee-iccc.org/) - Session Chair
 
-### TPC Member
+### TPC
 
 - MSN [2024](https://ieee-msn.org/2024/), [2025](https://ieee-msn.org/2025/)
 
