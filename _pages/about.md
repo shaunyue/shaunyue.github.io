@@ -41,7 +41,7 @@ function toggleContent(id) {
 
 ## Conference Papers 
 
-<small>(* Corresponding author, # Co-first author)</small>
+> <small>_* Corresponding author, # Co-first author_</small>
 
 1. Nan Qiao, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
@@ -77,7 +77,8 @@ function toggleContent(id) {
 
 ## Journal Papers
 
-<small>(* Corresponding author, # Co-first author)</small>
+> <small>_* Corresponding author, # Co-first author_</small>
+
 
 1. Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue\***, and Ju Ren. Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data. IEEE Transactions on Mobile Computing (`TMC`), 2026, to appear.
 
