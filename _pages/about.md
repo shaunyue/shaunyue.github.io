@@ -80,7 +80,7 @@ function toggleContent(id) {
 <small>_* Corresponding author, # Co-first author_</small>
 
 
-1. Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue\***, and Ju Ren. Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data. IEEE Transactions on Mobile Computing (`TMC`), to appear.
+1. Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue\***, and Ju Ren. [Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data](https://ieeexplore.ieee.org/document/11427327). IEEE Transactions on Mobile Computing (`TMC`), early access, 2026.
 
 1. Nan Qiao, **Sheng Yue\***, Ju Ren, and Yaoxue Zhang. [FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896). IEEE/ACM Transactions on Networking (`ToN`), vol. 34, pp. 2031-2046, 2025.
 
