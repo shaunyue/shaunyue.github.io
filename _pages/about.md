@@ -37,7 +37,6 @@ function toggleContent(id) {
 - [05/2026] 🎉 Our paper "Executable Agentic Memory for GUI Agent" has been accepted to ICML'26. We propose a new memory mechanism that enables GUI agents to effectively reuse historical excution trajectories. Congratulations to Zerui!
 - [05/2026] 🎉 Our paper "Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization" has been accepted to ICML'26. We introduce a new post-training approach based on a Bayesian reward that equips agentic LLMs with clever exploration capabilities. Congratulations to Xingyuan!
 - [01/2026] 🎉 Our paper "Less Is More: Clustered Cross-Covariance Control for Offline RL" has been accepted to ICLR'25. Congratulations to Nan!
-- [01/2026] 🎉 Our paper "Less Is More: Clustered Cross-Covariance Control for Offline RL" has been accepted to ICLR'25. Congratulations to Nan!
 - [01/2026] 🎉 Our paper "Context Learning for Multi-Agent Discussion" has been accepted to ICLR'25. Congratulations to Xingyuan!
 
 ## Conference Papers 
