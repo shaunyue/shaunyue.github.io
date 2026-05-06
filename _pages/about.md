@@ -33,15 +33,22 @@ function toggleContent(id) {
 </div> -->
 
 ## Recent News
-- [01/2026] 🎉 Paper "Less Is More: Clustered Cross-Covariance Control for Offline RL" is accepted to ICLR'25. Congrats to Nan!
-- [01/2026] 🎉 Paper "Context Learning for Multi-Agent Discussion" is accepted to ICLR'25. Congrats to Xingyuan!
-- [06/2025] 🎉 Paper "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accepted to MobiCom'25. Congrats to Jinrui!
-- [02/2025] 🎉 Paper "AugFL: Augmenting Federated Learning with Pretrained Models" is accepted to IEEE Transctions on Networking. Congrats to Zerui!
-- [01/2025] 🎉 Paper "DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models" is accepted to IEEE Transctions on Mobile Computing. Congrats to Yongheng!
+- [05/2026] 🎉 Our paper "AdamO: A Collapse-Suppressed Optimizer for Offline RL" has been accepted to ICML'26. We develop a new optimizer for more stable critic learning in offline RL. Congratulations to Nan!
+- [05/2026] 🎉 Our paper "Executable Agentic Memory for GUI Agent" has been accepted to ICML'26. We propose a new memory mechanism that enables GUI agents to effectively reuse historical excution trajectories. Congratulations to Zerui!
+- [05/2026] 🎉 Our paper "Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization" has been accepted to ICML'26. We introduce a new post-training approach based on a Bayesian reward that equips agentic LLMs with clever exploration capabilities. Congratulations to Xingyuan!
+- [01/2026] 🎉 Our paper "Less Is More: Clustered Cross-Covariance Control for Offline RL" has been accepted to ICLR'25. Congratulations to Nan!
+- [01/2026] 🎉 Our paper "Less Is More: Clustered Cross-Covariance Control for Offline RL" has been accepted to ICLR'25. Congratulations to Nan!
+- [01/2026] 🎉 Our paper "Context Learning for Multi-Agent Discussion" has been accepted to ICLR'25. Congratulations to Xingyuan!
 
 ## Conference Papers 
 
 <small>_* Corresponding author, # Co-first author_</small>
+
+1. Nan Qiao, **Sheng Yue\***, Shuning Wang and Ju Ren. AdamO: A Collapse-Suppressed Optimizer for Offline RL. International Conference on Machine Learning (`ICML`), Seoul, South Korea, 6-11 July, 2026.
+
+1. Zerui Qin, **Sheng Yue\***, Xingyuan Hua, Yongjian Fu and Ju Ren. Executable Agentic Memory for GUI Agent. International Conference on Machine Learning (`ICML`), Seoul, South Korea, 6-11 July, 2026.
+
+1. Xingyuan Hua, **Sheng Yue\*** and Ju Ren. Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization. International Conference on Machine Learning (`ICML`), Seoul, South Korea, 6-11 July, 2026.
 
 1. Nan Qiao, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, 23-27 April, 2026.
 
