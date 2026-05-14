@@ -43,9 +43,9 @@ function toggleContent(id) {
 
 <small>_* Corresponding author, # Co-first author_</small>
 
-1. Nan Qiao, **Sheng Yue\***, Shuning Wang and Ju Ren. AdamO: A Collapse-Suppressed Optimizer for Offline RL. International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
+1. Nan Qiao, **Sheng Yue\***, Shuning Wang and Ju Ren. [AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/pdf/2605.01968). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
-1. Zerui Qin, **Sheng Yue\***, Xingyuan Hua, Yongjian Fu and Ju Ren. Executable Agentic Memory for GUI Agent. International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
+1. Zerui Qin, **Sheng Yue\***, Xingyuan Hua, Yongjian Fu and Ju Ren. [Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.08978). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
 1. Xingyuan Hua, **Sheng Yue\*** and Ju Ren. Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization. International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
