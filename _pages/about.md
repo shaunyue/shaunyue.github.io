@@ -51,7 +51,7 @@ function toggleContent(id) {
 
 1. Puning Zhao, Qingqing Ye, Shaowei Wang, Jun Feng, **Sheng Yue**, Zhen Chen, and Xiaochun Cao. [Sparse Estimation Under Local Differential Privacy at All Privacy Levels](https://www.computer.org/csdl/proceedings-article/sp/2026/606500d630/2geEXlrEk4E). IEEE Symposium on Security and Privacy (`SP`), San Francisco, US, May 18-21, 2026.
 
-1. Yongheng Deng, Tianyuan Jiang, Zhenya Ma, Hao Wu, Yongjian Fu, Hao Pan, Sheng Yue, and Ju Ren. Accelerating Graph-Based RAG Retrieval via Locality-Aware Device–Cloud Collaboration, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (`KDD`), Jeju, South Korea, Aug. 9-13, 2026.
+1. Yongheng Deng, Tianyuan Jiang, Zhenya Ma, Hao Wu, Yongjian Fu, Hao Pan, **Sheng Yue**, and Ju Ren. Accelerating Graph-Based RAG Retrieval via Locality-Aware Device–Cloud Collaboration, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (`KDD`), Jeju, South Korea, Aug. 9-13, 2026.
 
 1. Nan Qiao, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, April 23-27, 2026.
 
