@@ -43,13 +43,15 @@ function toggleContent(id) {
 
 <small>_* Corresponding author, # Co-first author_</small>
 
-1. Nan Qiao, **Sheng Yue\***, Shuning Wang and Ju Ren. [AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/pdf/2605.01968). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
+1. Nan Qiao, **Sheng Yue\***, Shuning Wang, and Ju Ren. [AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/pdf/2605.01968). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
-1. Zerui Qin, **Sheng Yue\***, Xingyuan Hua, Yongjian Fu and Ju Ren. [Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.08978). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
+1. Zerui Qin, **Sheng Yue\***, Xingyuan Hua, Yongjian Fu, and Ju Ren. [Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.12294). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
-1. Xingyuan Hua, **Sheng Yue\*** and Ju Ren. Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization. International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
+1. Xingyuan Hua, **Sheng Yue\***, and Ju Ren. [Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](https://arxiv.org/pdf/2605.08978). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
-1. Puning Zhao, Qingqing Ye, Shaowei Wang, Jun Feng, **Sheng Yue**, Zhen Chen, Xiaochun Cao. [Sparse Estimation Under Local Differential Privacy at All Privacy Levels](https://www.computer.org/csdl/proceedings-article/sp/2026/606500d630/2geEXlrEk4E). IEEE Symposium on Security and Privacy (`SP`), San Francisco, US, May 18-21, 2026.
+1. Puning Zhao, Qingqing Ye, Shaowei Wang, Jun Feng, **Sheng Yue**, Zhen Chen, and Xiaochun Cao. [Sparse Estimation Under Local Differential Privacy at All Privacy Levels](https://www.computer.org/csdl/proceedings-article/sp/2026/606500d630/2geEXlrEk4E). IEEE Symposium on Security and Privacy (`SP`), San Francisco, US, May 18-21, 2026.
+
+1. Yongheng Deng, Tianyuan Jiang, Zhenya Ma, Hao Wu, Yongjian Fu, Hao Pan, Sheng Yue, and Ju Ren. Accelerating Graph-Based RAG Retrieval via Locality-Aware Device–Cloud Collaboration, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (`KDD`), Jeju, South Korea, Aug. 9-13, 2026.
 
 1. Nan Qiao, **Sheng Yue\***, Shuning Wang, Yongheng Deng, and Ju Ren. [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq). International Conference on Learning Representations (`ICLR`), Rio de Janeiro, Brazil, April 23-27, 2026.
 
@@ -61,15 +63,19 @@ function toggleContent(id) {
 
 1. Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, and Ju Ren. [FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3680207.3765238). The 31st Annual International Conference on Mobile Computing and Networking (`MobiCom`), Hong Kong, China, Nov 4-8, 2025.
 
-1. Lili Chen,  Yizhe Zhao,  Shuning Wang,  Linghui Zhong,  Yongjian Fu,  **Sheng Yue**,  Ju Ren,  and Yaoxue Zhang. [Towards Distance-Adaptive Wireless Charging](https://dl.acm.org/doi/pdf/10.1145/3711875.3729137). ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, June 23-27, 2025.
+1. Lili Chen, Yizhe Zhao, Shuning Wang, Linghui Zhong, Yongjian Fu, **Sheng Yue**, Ju Ren, and Yaoxue Zhang. [Towards Distance-Adaptive Wireless Charging](https://dl.acm.org/doi/pdf/10.1145/3711875.3729137). ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, June 23-27, 2025.
 
-1. **Sheng Yue**, Jiani Liu, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning](https://openreview.net/pdf?id=oOlooUu2Sb), International Conference on Machine Learning (`ICML`), Vienna, Austria, July 21-27, 2024. [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)]
+1. **Sheng Yue**, Jiani Liu, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning](https://openreview.net/pdf?id=oOlooUu2Sb), International Conference on Machine Learning (`ICML`), Vienna, Austria, July 21-27, 2024. 
+<!-- [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)] -->
 
-1. **Sheng Yue**, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://openreview.net/pdf?id=eG42XBhV9a), International Conference on Machine Learning (`ICML`), Vienna, Austria, July 21-27, 2024. [[Code](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning)]
+1. **Sheng Yue**, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://openreview.net/pdf?id=eG42XBhV9a), International Conference on Machine Learning (`ICML`), Vienna, Austria, July 21-27, 2024. 
+<!-- [[Code](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning)] -->
 
-1. **Sheng Yue**, Xingyuan Hua, Lili Chen, and Ju Ren. [Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621260), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, May 20-23, 2024. [[Code](https://codeocean.com/capsule/1418921/tree/v1)]
+1. **Sheng Yue**, Xingyuan Hua, Lili Chen, and Ju Ren. [Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621260), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, May 20-23, 2024. 
+<!-- [[Code](https://codeocean.com/capsule/1418921/tree/v1)] -->
 
-1. **Sheng Yue**, Zerui Qin, Xingyuan Hua, Yongheng Deng, and Ju Ren. [Federated Offline Policy Optimization with Dual Regularization](https://ieeexplore.ieee.org/abstract/document/10621140), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, May 20-23, 2024. [[Code](https://codeocean.com/capsule/8103588/tree/v1)]
+1. **Sheng Yue**, Zerui Qin, Xingyuan Hua, Yongheng Deng, and Ju Ren. [Federated Offline Policy Optimization with Dual Regularization](https://ieeexplore.ieee.org/abstract/document/10621140), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, May 20-23, 2024. 
+<!-- [[Code](https://codeocean.com/capsule/8103588/tree/v1)] -->
 
 1. Jing Qiao, Zuyuan Zhang, **Sheng Yue\***, Yuan Yuan, Zhipeng Cai, Xiao Zhang\*, Ju Ren, and Dongxiao Yu. [BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning with Fast Convergence and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621347), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, May 20-23, 2024.
 
