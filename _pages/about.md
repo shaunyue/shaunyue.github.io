@@ -45,7 +45,7 @@ function toggleContent(id) {
 
 1. Nan Qiao, **Sheng Yue\***, Shuning Wang, and Ju Ren. [AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/pdf/2605.01968). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
-1. Zerui Qin, **Sheng Yue\***, Xingyuan Hua, Yongjian Fu, and Ju Ren. [Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.12294). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
+1. Zerui Qin, Sheng Yue, Xingyuan Hua, Yongjian Fu, and Ju Ren. [Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.12294). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
 1. Xingyuan Hua, **Sheng Yue\***, and Ju Ren. [Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](https://arxiv.org/pdf/2605.08978). International Conference on Machine Learning (`ICML`), Seoul, South Korea, July 6-11, 2026.
 
@@ -92,6 +92,8 @@ function toggleContent(id) {
 ## Journal Papers
 
 <small>_* Corresponding author, # Co-first author_</small>
+
+1. Zhenya Ma, Yongheng Deng, Ziqing Qiao, Yongjian Fu, **Sheng Yue\***, and Ju Ren. Towards Communication-Efficient and Data-Free Collaborative Fine-Tuning between Small and Large Language Models. IEEE/ACM Transactions on Networking (`ToN`), early access, 2026.
 
 1. Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue\***, and Ju Ren. [Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data](https://ieeexplore.ieee.org/document/11427327). IEEE Transactions on Mobile Computing (`TMC`), early access, 2026.
 
