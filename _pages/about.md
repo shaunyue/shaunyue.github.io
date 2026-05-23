@@ -93,7 +93,7 @@ function toggleContent(id) {
 
 <small>_* Corresponding author, # Co-first author_</small>
 
-1. Zhenya Ma, Yongheng Deng, Ziqing Qiao, Yongjian Fu, **Sheng Yue\***, and Ju Ren. Towards Communication-Efficient and Data-Free Collaborative Fine-Tuning between Small and Large Language Models. IEEE/ACM Transactions on Networking (`ToN`), to appear, 2026.
+1. Zhenya Ma, Yongheng Deng, Ziqing Qiao, Yongjian Fu, **Sheng Yue**, and Ju Ren. Towards Communication-Efficient and Data-Free Collaborative Fine-Tuning between Small and Large Language Models. IEEE/ACM Transactions on Networking (`ToN`), to appear, 2026.
 
 1. Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue\***, and Ju Ren. [Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data](https://ieeexplore.ieee.org/document/11427327). IEEE Transactions on Mobile Computing (`TMC`), early access, 2026.
 
