@@ -66,16 +66,12 @@ function toggleContent(id) {
 1. Lili Chen, Yizhe Zhao, Shuning Wang, Linghui Zhong, Yongjian Fu, **Sheng Yue**, Ju Ren, and Yaoxue Zhang. [Towards Distance-Adaptive Wireless Charging](https://dl.acm.org/doi/pdf/10.1145/3711875.3729137). ACM International Conference on Mobile Systems, Applications, and Services (`MobiSys`), Anaheim, US, June 23-27, 2025.
 
 1. **Sheng Yue**, Jiani Liu, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [How to Leverage Imperfect Demonstrations in Offline Imitation Learning](https://openreview.net/pdf?id=oOlooUu2Sb), International Conference on Machine Learning (`ICML`), Vienna, Austria, July 21-27, 2024. 
-<!-- [[Code](https://github.com/HansenHua/ILID-offline-imitation-learning)] -->
 
 1. **Sheng Yue**, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang. [OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://openreview.net/pdf?id=eG42XBhV9a), International Conference on Machine Learning (`ICML`), Vienna, Austria, July 21-27, 2024. 
-<!-- [[Code](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning)] -->
 
 1. **Sheng Yue**, Xingyuan Hua, Lili Chen, and Ju Ren. [Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621260), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, May 20-23, 2024. 
-<!-- [[Code](https://codeocean.com/capsule/1418921/tree/v1)] -->
 
 1. **Sheng Yue**, Zerui Qin, Xingyuan Hua, Yongheng Deng, and Ju Ren. [Federated Offline Policy Optimization with Dual Regularization](https://ieeexplore.ieee.org/abstract/document/10621140), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, May 20-23, 2024. 
-<!-- [[Code](https://codeocean.com/capsule/8103588/tree/v1)] -->
 
 1. Jing Qiao, Zuyuan Zhang, **Sheng Yue\***, Yuan Yuan, Zhipeng Cai, Xiao Zhang\*, Ju Ren, and Dongxiao Yu. [BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning with Fast Convergence and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621347), IEEE International Conference on Computer Communications (`INFOCOM`), Vancouver, Canada, May 20-23, 2024.
 
@@ -93,9 +89,13 @@ function toggleContent(id) {
 
 <small>_* Corresponding author, # Co-first author_</small>
 
-1. Zhenya Ma, Yongheng Deng, Ziqing Qiao, Yongjian Fu, **Sheng Yue**, and Ju Ren. Towards Communication-Efficient and Data-Free Collaborative Fine-Tuning between Small and Large Language Models. IEEE/ACM Transactions on Networking (`ToN`), to appear, 2026.
+1. Jun Lu, **Sheng Yue**, Xiang Liu, Jinrui Zhang, Yongjian Fu, and Jialin Li. [HyStream: A Hybrid System for Application Streaming via Predictive Delivery and Sequence-Linearized Caching](https://ieeexplore.ieee.org/document/11536092/authors#authors). IEEE/ACM Transactions on Networking (`ToN`), early access, 2026.
+
+1. Zhenya Ma, Yongheng Deng, Ziqing Qiao, Yongjian Fu, **Sheng Yue**, and Ju Ren. [Towards Communication-Efficient and Data-Free Collaborative Fine-Tuning between Small and Large Language Models](https://www.computer.org/csdl/journal/nw/5555/01/11534177/2gHslw1gv2U). IEEE/ACM Transactions on Networking (`ToN`), early access, 2026.
 
 1. Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue\***, and Ju Ren. [Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data](https://ieeexplore.ieee.org/document/11427327). IEEE Transactions on Mobile Computing (`TMC`), early access, 2026.
+
+1. Hangfan Li, Yang Xu, Yibin Cai, **Sheng Yue**, Ziyu Peng, and Yaoxue Zhang. [$\mathcal{O}^2$-UCB: A Federated Multi-armed Bandit Mechanism in Zero Client-owned Data Network](https://ieeexplore.ieee.org/document/11535667). IEEE Transactions on Mobile Computing (`TMC`), early access, 2026.
 
 1. Nan Qiao, **Sheng Yue\***, Ju Ren, and Yaoxue Zhang. [FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896). IEEE/ACM Transactions on Networking (`ToN`), vol. 34, pp. 2031-2046, 2025.
 
