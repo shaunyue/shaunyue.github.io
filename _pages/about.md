@@ -95,7 +95,7 @@ function toggleContent(id) {
 
 1. Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue\***, and Ju Ren. [Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data](https://ieeexplore.ieee.org/document/11427327). IEEE Transactions on Mobile Computing (`TMC`), early access, 2026.
 
-1. Hangfan Li, Yang Xu, Yibin Cai, **Sheng Yue**, Ziyu Peng, and Yaoxue Zhang. [$\mathcal{O}^2$-UCB: A Federated Multi-armed Bandit Mechanism in Zero Client-owned Data Network](https://ieeexplore.ieee.org/document/11535667). IEEE Transactions on Mobile Computing (`TMC`), early access, 2026.
+1. Hangfan Li, Yang Xu, Yibin Cai, **Sheng Yue**, Ziyu Peng, and Yaoxue Zhang. <a href="https://ieeexplore.ieee.org/document/11535667">$\mathcal{O}^{2}$-UCB: A Federated Multi-armed Bandit Mechanism in Zero Client-owned Data Network</a>. IEEE Transactions on Mobile Computing (`TMC`), early access, 2026.
 
 1. Nan Qiao, **Sheng Yue\***, Ju Ren, and Yaoxue Zhang. [FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896). IEEE/ACM Transactions on Networking (`ToN`), vol. 34, pp. 2031-2046, 2025.
 
