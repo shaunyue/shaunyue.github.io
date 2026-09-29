@@ -18,19 +18,19 @@ I was a postdoctoral researcher in the [Department of Computer Science and Techn
 {: #news }
 
 May 2026
-: **AdamO: A Collapse-Suppressed Optimizer for Offline RL** is accepted to ICML 2026. We develop a new optimizer for more stable critic learning in offline RL. Congratulations to Nan!
+: **[AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/pdf/2605.01968)** is accepted to ICML 2026. We develop a new optimizer for more stable critic learning in offline RL. Congratulations to Nan!
 
 May 2026
-: **Executable Agentic Memory for GUI Agent** is accepted to ICML 2026. We propose a new memory mechanism that enables GUI agents to effectively reuse historical execution trajectories. Congratulations to Zerui!
+: **[Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.12294)** is accepted to ICML 2026. We propose a new memory mechanism that enables GUI agents to effectively reuse historical execution trajectories. Congratulations to Zerui!
 
 May 2026
-: **Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization** is accepted to ICML 2026. We introduce a new post-training approach based on a Bayesian reward that equips agentic LLMs with clever exploration capabilities. Congratulations to Xingyuan!
+: **[Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](https://arxiv.org/pdf/2605.08978)** is accepted to ICML 2026. We introduce a new post-training approach based on a Bayesian reward that equips agentic LLMs with clever exploration capabilities. Congratulations to Xingyuan!
 
 Jan 2026
-: **Less Is More: Clustered Cross-Covariance Control for Offline RL** is accepted to ICLR 2026. Congratulations to Nan!
+: **[Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq)** is accepted to ICLR 2026. Congratulations to Nan!
 
 Jan 2026
-: **Context Learning for Multi-Agent Discussion** is accepted to ICLR 2026. Congratulations to Xingyuan!
+: **[Context Learning for Multi-Agent Discussion](https://openreview.net/forum?id=EUu8TILWpR)** is accepted to ICLR 2026. Congratulations to Xingyuan!
 {: .news-list }
 
 ## Publications <small class="pub-legend"><sup>\*</sup> Corresponding author · <sup>#</sup> Co-first author</small>
