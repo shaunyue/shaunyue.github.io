@@ -1,4 +1,4 @@
-title: "Sheng Yue | Sun Yat-sen University"
+title: "Sheng's Homepage"
 name: "Sheng Yue"
 nav_title: "Sheng's Homepage"
 description: "Sheng Yue is an Associate Professor at Sun Yat-sen University. His research focuses on reinforcement learning, continual learning, LLM optimization, and LLM agents."
@@ -16,6 +16,7 @@ author:
   student_email_display: "yuesh5 AT mail DOT sysu DOT edu DOT cn"
   scholar: "https://scholar.google.com/citations?user=Mc_MN_MAAAAJ&hl=en&oi=ao"
   orcid: "https://orcid.org/0009-0001-3416-8181"
+  dblp: "https://dblp.org/pid/236/3241-1.html"
   chinese_homepage: "https://scst.sysu.edu.cn/teacher/YueSheng"
 
 markdown: kramdown

@@ -4,7 +4,7 @@ permalink: /
 ---
 
 
-I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research is currently centered on reinforcement learning, continual learning, LLM optimization, and LLM agents.
+I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research is currently centered on reinforcement learning, continual learning, LLM optimization, LLM agents and embodied AI.
 {: .intro }
 
 I was a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)).
@@ -316,7 +316,7 @@ Jan 2026
 ### Academic Service
 
 - [Chinese Journal of Electronics](https://cje.ejournal.org.cn): Young Editorial Board Member
-- CCF Technical Committee on IoT: Executive Committee Member
+- [CCF Technical Committee on IoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/2020-01-07/685340.shtml): Executive Committee Member
 - [ICLR 2026](https://iclr.cc/Conferences/2026/): Area Chair
 - [ICPADS 2026](https://www.cloud-conf.net/icpads2026/index.html): Co-Chair, Edge Intelligence Track
 - [IEEE MSN 2025](https://ieee-msn.org/2025/), [2024](https://ieee-msn.org/2024/): TPC Member
@@ -341,7 +341,7 @@ Jan 2026
 
 ### Talks
 
-- "[Design of Offline Reinforcement Learning Algorithms (离线深度强化学习算法设计)](https://mp.weixin.qq.com/s/vu8slGI6Vf3NqNkiu4Oe_g)," Frontiers of Cyber Science and Technology, [School of Cyber Science and Technology](https://scst.sysu.edu.cn) @ [SYSU](https://www.sysu.edu.cn), Apr 2024.
-- "[Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency](https://infocom.info/day/2)," Federated Learning, [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/) @ Vancouver, May 2024.
-- "[Federated Offline Policy Optimization with Dual Regularization](https://infocom.info/day/2)," Federated Learning, [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/) @ Vancouver, May 2024.
-- "[Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://duetone.org/mobihoc21/day/3)," Edge Computing, [ACM MobiHoc 2021](https://www.sigmobile.org/mobihoc/2021/) @ Shanghai, Jul 2021.
+- "Design of Offline Reinforcement Learning Algorithms (离线深度强化学习算法设计)," Frontiers of Cyber Science and Technology, [School of Cyber Science and Technology](https://scst.sysu.edu.cn) @ [SYSU](https://www.sysu.edu.cn), Apr 2024.
+- "Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency," Federated Learning, [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/) @ Vancouver, May 2024.
+- "Federated Offline Policy Optimization with Dual Regularization," Federated Learning, [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/) @ Vancouver, May 2024.
+- "Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning," Edge Computing, [ACM MobiHoc 2021](https://www.sigmobile.org/mobihoc/2021/) @ Shanghai, Jul 2021.
