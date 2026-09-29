@@ -1,0 +1,43 @@
+# Add a photo path under images/students/ when available.
+# Set gender to male or female to select its default portrait.
+# Leave unknown details blank until confirmed.
+groups:
+  - title: PhD Students
+    members:
+      - name: Liang Liu
+        cohort: 2025
+        joined: Sep 2025
+        gender: male
+        photo:
+      - name: Tingting Long
+        cohort: 2026
+        joined: Sep 2026
+        gender: female
+        photo:
+  - title: Master's Students
+    members:
+      - name: Guanrong Chen
+        cohort: 2025
+        joined: Sep 2025
+        gender: female
+        photo:
+      - name: Yixuan Chen
+        cohort: 2026
+        joined: Sep 2026
+        gender: female
+        photo:
+      - name: Chenyu Wang
+        cohort: 2026
+        joined: Sep 2026
+        gender: male
+        photo:
+  - title: Interns
+    members:
+      - name: Yong Lei
+        joined: Dec 2025
+        gender: male
+        photo:
+      - name: Yiding Wang
+        joined: Sep 2025
+        gender: female
+        photo:

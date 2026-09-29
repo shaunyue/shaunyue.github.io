@@ -1,31 +1,50 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body id="top">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="masthead">
+    <nav class="nav" aria-label="Primary">
+      <a class="brand" href="{{ '/' | relative_url }}">{{ site.nav_title | escape }}</a>
+      <div class="nav-links">
+        {% for link in site.data.navigation.main %}
+          <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        {% endfor %}
+      </div>
+    </nav>
+  </header>
+  <div class="layout">
+    <aside class="sidebar" aria-label="Profile">
+      {% assign avatar_path = site.author.avatar | prepend: '/images/' %}
+      <div class="avatar-wrap"><img src="{{ avatar_path | relative_url }}" alt="Portrait of {{ site.name | escape }}" width="176" height="176"></div>
+      <div class="profile-heading">
+        <h1 class="name">{% if page.english_only %}{{ site.name | escape }}{% else %}{{ site.author.name | escape }}{% endif %}</h1>
+        <p class="role">{{ site.author.role | escape }}</p>
+      </div>
+      <div class="meta">
+        <p>{{ site.author.institution | escape }}</p>
+        <p>{{ site.author.location | escape }}</p>
+      </div>
+      <div class="profile-links">
+        <a href="mailto:{{ site.author.email | escape }}">Email</a>
+        <a href="{{ site.author.scholar | escape }}">Scholar</a>
+        <a href="{{ site.author.orcid | escape }}">ORCID</a>
+        <a href="{{ site.author.chinese_homepage | escape }}">{% if page.english_only %}Chinese Homepage{% else %}中文主页{% endif %}</a>
+      </div>
+    </aside>
+    <main class="main" id="main-content">{{ content }}</main>
+  </div>
+  <footer>&copy; {{ site.time | date: '%Y' }} {{ site.name | escape }}</footer>
+</body>
 </html>

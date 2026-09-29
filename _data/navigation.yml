@@ -1,43 +1,11 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
 main:
-  - title: "Recent News"
-    url: "/#recent-news"
-
-  - title: "Conference Papers"
-    url: "/#conference-papers"
-
-  - title: "Journal Papers"
-    url: "/#journal-papers"
-
-  - title: "Books"
-    url: "/#books"
-  
-  - title: "Grants"
-    url: "/#grants"
-
-  - title: "Honors & Activities"
-    url: "/#honors-and-activities"
-
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: News
+    url: /#news
+  - title: Publications
+    url: /#publications
+  - title: Grants
+    url: /#grants
+  - title: Service
+    url: /#service
+  - title: Group
+    url: /group/
