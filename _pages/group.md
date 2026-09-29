@@ -8,7 +8,7 @@ english_only: true
 ## Group Members
 {: .group-page-heading }
 
-Meet the students in our research group.
+Meet the students in our group.
 {: .group-intro }
 
 {% for category in site.data.group.groups %}
