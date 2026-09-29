@@ -1,31 +1,44 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title | escape }}</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="canonical" href="{{ site.url }}/">
+  <link rel="icon" href="/images/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <header class="masthead">
+    <nav class="container" aria-label="Main navigation">
+      <a class="site-title" href="/">{{ site.title }}</a>
+      {% for link in site.data.navigation.main %}
+        <a href="{{ link.url }}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </header>
 
-  <body>
+  <div class="container page-layout">
+    <aside class="profile" aria-label="Author profile">
+      <img src="/images/avatar.png" alt="{{ site.author.name }}" width="175" height="175">
+      <div>
+        <h1>{{ site.author.name }}</h1>
+        <p>{{ site.author.bio }}</p>
+        <p>{{ site.author.employer }}<br>{{ site.author.location }}</p>
+        <ul>
+          <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+          <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+          <li><a href="{{ site.author.orcid }}">ORCID</a></li>
+          <li><a href="{{ site.author.chinese_homepage }}">中文主页</a></li>
+        </ul>
+      </div>
+    </aside>
+    <main class="content" id="main">{{ content }}</main>
+  </div>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+  <footer class="footer">
+    <div class="container">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</div>
+  </footer>
+</body>
 </html>
