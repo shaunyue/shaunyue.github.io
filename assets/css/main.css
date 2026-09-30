@@ -249,7 +249,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   padding-bottom: 22px;
   border-bottom: 1px solid var(--border);
 }
-.member-photo { width: 88px; height: 88px; border-radius: 8px; object-fit: cover; object-position: center 35%; background: var(--soft); }
+.member-photo { width: 88px; height: 88px; border: 1px solid var(--border); border-radius: 8px; object-fit: cover; object-position: center 35%; background: var(--soft); }
 .member .member-name { margin: 0; color: var(--heading); font-size: 17px; font-weight: 600; line-height: 1.35; letter-spacing: 0; }
 .member-detail { margin: 5px 0 0; color: var(--muted); font-size: 14px; line-height: 1.5; }
 

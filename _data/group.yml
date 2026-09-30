@@ -8,12 +8,12 @@ groups:
         cohort: 2025
         joined: Sep 2025
         gender: male
-        photo:
+        photo: /images/students/liang-liu.jpg
       - name: Tingting Long
         cohort: 2026
         joined: Sep 2026
         gender: female
-        photo:
+        photo: /images/students/tingting-long.jpg
   - title: MS Students
     members:
       - name: Guanrong Chen
@@ -25,19 +25,19 @@ groups:
         cohort: 2026
         joined: Sep 2026
         gender: female
-        photo:
+        photo: /images/students/yixuan-chen.jpg
       - name: Chenyu Wang
         cohort: 2026
         joined: Sep 2026
         gender: male
-        photo:
+        photo: /images/students/chenyu-wang.jpg
   - title: Interns
     members:
       - name: Yong Lei
         joined: Dec 2025
         gender: male
-        photo:
+        photo: /images/students/yong-lei.jpg
       - name: Yiding Wang
         joined: Sep 2025
         gender: female
-        photo:
+        photo: /images/students/yiding-wang.jpg
