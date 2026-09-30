@@ -331,7 +331,7 @@ Jan 2026
 - [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc)
 - [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 - [Chinese Journal of Electronics](https://cje.ejournal.org.cn)
-- [ICML (2024–present)](https://icml.cc), [ICLR (2022–present)](https://iclr.cc), [NeurIPS (2022–present)](https://neurips.cc)
+- [ICML (2024–)](https://icml.cc), [ICLR (2022–)](https://iclr.cc), [NeurIPS (2022–)](https://neurips.cc)
 
 ### Teaching
 
