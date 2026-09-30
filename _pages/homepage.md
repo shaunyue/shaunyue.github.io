@@ -4,7 +4,7 @@ permalink: /
 ---
 
 
-I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research is driven by a fundamental question: How can intelligent agents learn, adapt, and make decisions in complex and evolving environments? I currently focus on reinforcement learning, continual learning, LLM optimization, LLM agents, and embodied AI.
+I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research is driven by a fundamental question: How can intelligent agents learn, adapt, and make decisions in complex and evolving environments? My current research interests broadly span reinforcement learning, continual learning, LLM optimization, LLM agents, and embodied AI.
 {: .intro }
 
 I was a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)).
