@@ -129,23 +129,20 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .profile-link-pair { display: inline-flex; gap: 12px; white-space: nowrap; }
 
 .main { min-width: 0; }
+.main a { text-decoration: none; }
+.main a:hover, .main a:focus-visible { text-decoration: underline; }
 .intro { margin: 0 0 18px; font-size: 17px; line-height: 1.76; }
 .student-note {
   margin: 22px 0 36px;
-  padding: 10px 16px;
-  background: var(--soft);
   font-size: 16.5px;
   line-height: 1.5;
-  border-left: 3px solid var(--accent);
-  border-radius: 5px;
 }
-.student-note p { margin: 0; }
 .student-note strong { color: var(--heading); font-weight: 650; }
 .main h2 {
   display: flex;
   align-items: baseline;
   gap: 18px;
-  margin: 58px 0 24px;
+  margin: 48px 0 24px;
   color: var(--heading);
   font-size: 27px;
   line-height: 1.25;
@@ -210,13 +207,12 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 
 .publication-list { list-style: none; padding: 0 !important; }
 .publication-list > li {
-  padding: 17px 0 19px;
-  border-top: 1px solid var(--border);
+  padding: 12px 0 14px;
   color: #59616b;
   font-size: 14.7px;
   line-height: 1.6;
 }
-.publication-list > li:first-child { border-top: 0; padding-top: 0; }
+.publication-list > li:first-child { padding-top: 0; }
 .publication-list > li > strong:first-child {
   color: var(--heading);
   font-size: 16.5px;
@@ -240,7 +236,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 
 .group-page-heading { margin-top: 0 !important; }
 .group-intro { margin: -8px 0 12px; color: var(--muted); font-size: 15px; }
-.member-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 28px; }
+.member-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 22px 28px; }
 .member {
   display: grid;
   grid-template-columns: 88px minmax(0, 1fr);

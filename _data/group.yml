@@ -20,7 +20,7 @@ groups:
         cohort: 2025
         joined: Sep 2025
         gender: female
-        photo:
+        photo: /images/students/guanrong-chen.jpg
       - name: Yixuan Chen
         cohort: 2026
         joined: Sep 2026

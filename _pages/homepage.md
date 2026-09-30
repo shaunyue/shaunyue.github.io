@@ -7,11 +7,11 @@ permalink: /
 I am currently an associate professor in the [School of Cyber Science and Technology](https://scst.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn). My research is driven by a fundamental question: How can intelligent agents learn, adapt, and make decisions in complex and evolving environments? My current interests broadly span reinforcement learning, continual learning, LLM optimization, LLM agents, and embodied AI.
 {: .intro }
 
-I was a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)).
+Previously, I was a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/) (advised by [Prof. Ju Ren](https://juren1987.github.io/)) at [Central South University](https://www.csu.edu.cn). I was a visiting Ph.D. student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) (from 2020 to 2022, advised by [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/)) and [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) (Fall 2018, advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html)).
 {: .intro }
 
 
-> If our research sounds interesting to you, feel free to get in touch! You can reach me at {{ site.author.student_email_display }}.
+**Prospective students:** If our research sounds interesting to you, feel free to [get in touch](mailto:{{ site.author.email }})!
 {: .student-note }
 
 ## Recent News
@@ -38,102 +38,78 @@ Jan 2026
 
 ### Conference Papers
 
-#### 2026
-
-- **TIMA: Test-Time Internalization for Agentic Memory**  
+- **[TIMA: Test-Time Internalization for Agentic Memory]()**  
   Xiaohang Sui, Yongjian Fu, Yizhe Zhao, **Sheng Yue**, and Ju Ren  
-  *The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS**), Sydney, Australia, Dec 6–12, 2026.*
+  *The Fortieth Annual Conference on Neural Information Processing Systems (**[NeurIPS](https://neurips.cc/Conferences/2026)**), Sydney, Australia, Dec 6–12, 2026.*
 - **[Robust Estimation of Sparse Numerical Vectors under Local Differential Privacy](https://arxiv.org/pdf/2607.27815)**  
   Puning Zhao, Zhikun Zhang, Shaowei Wang, **Sheng Yue**, Bangzhou Xin, Tianhang Zheng, Pengfei Zhang, and Xiaochun Cao  
-  *ACM Conference on Computer and Communications Security (**CCS**), The Hague, the Netherlands, Nov 15–19, 2026.*
+  *ACM Conference on Computer and Communications Security (**[CCS](https://www.sigsac.org/ccs/CCS2026/)**), The Hague, the Netherlands, Nov 15–19, 2026.*
 - **[AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/pdf/2605.01968)**  
   Nan Qiao, **Sheng Yue**<sup>\*</sup>, Shuning Wang, and Ju Ren  
-  *International Conference on Machine Learning (**ICML**), Seoul, South Korea, July 6–11, 2026.*
+  *International Conference on Machine Learning (**[ICML](https://icml.cc/Conferences/2026)**), Seoul, South Korea, July 6–11, 2026.*
 - **[Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.12294)**  
   Zerui Qin, **Sheng Yue**, Xingyuan Hua, Yongjian Fu, and Ju Ren  
-  *International Conference on Machine Learning (**ICML**), Seoul, South Korea, July 6–11, 2026.*
+  *International Conference on Machine Learning (**[ICML](https://icml.cc/Conferences/2026)**), Seoul, South Korea, July 6–11, 2026.*
 - **[Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](https://arxiv.org/pdf/2605.08978)**  
   Xingyuan Hua, **Sheng Yue**<sup>\*</sup>, and Ju Ren  
-  *International Conference on Machine Learning (**ICML**), Seoul, South Korea, July 6–11, 2026.*
+  *International Conference on Machine Learning (**[ICML](https://icml.cc/Conferences/2026)**), Seoul, South Korea, July 6–11, 2026.*
 - **[Sparse Estimation Under Local Differential Privacy at All Privacy Levels](https://www.computer.org/csdl/proceedings-article/sp/2026/606500d630/2geEXlrEk4E)**  
   Puning Zhao, Qingqing Ye, Shaowei Wang, Jun Feng, **Sheng Yue**, Zhen Chen, and Xiaochun Cao  
-  *IEEE Symposium on Security and Privacy (**SP**), San Francisco, US, May 18–21, 2026.*
+  *IEEE Symposium on Security and Privacy (**[SP](https://sp2026.ieee-security.org/)**), San Francisco, US, May 18–21, 2026.*
 - **[Accelerating Graph-Based RAG Retrieval via Locality-Aware Device–Cloud Collaboration](https://dl.acm.org/doi/10.1145/3770855.3817674)**  
   Yongheng Deng, Tianyuan Jiang, Zhenya Ma, Hao Wu, Yongjian Fu, Hao Pan, **Sheng Yue**, and Ju Ren  
-  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), Jeju, South Korea, Aug 9–13, 2026.*
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**[KDD](https://kdd2026.kdd.org/)**), Jeju, South Korea, Aug 9–13, 2026.*
 - **[Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq)**  
   Nan Qiao, **Sheng Yue**<sup>\*</sup>, Shuning Wang, Yongheng Deng, and Ju Ren  
-  *International Conference on Learning Representations (**ICLR**), Rio de Janeiro, Brazil, April 23–27, 2026.*
+  *International Conference on Learning Representations (**[ICLR](https://iclr.cc/Conferences/2026)**), Rio de Janeiro, Brazil, April 23–27, 2026.*
 - **[Context Learning for Multi-Agent Discussion](https://openreview.net/forum?id=EUu8TILWpR)**  
   Xingyuan Hua, **Sheng Yue**<sup>\*</sup>, Xinyi Li, Yizhe Zhao, Jinrui Zhang, and Ju Ren  
-  *International Conference on Learning Representations (**ICLR**), Rio de Janeiro, Brazil, April 23–27, 2026.*
+  *International Conference on Learning Representations (**[ICLR](https://iclr.cc/Conferences/2026)**), Rio de Janeiro, Brazil, April 23–27, 2026.*
 - **[RAG4DMC: Retrieval-Augmented Generation for Data-Level Modality Completion](https://openreview.net/forum?id=6LA7KDjNsy)**  
   Ningxin He, Yongheng Deng, **Sheng Yue**, Yongjian Fu, Zehui Zhang, and Tiegang Gao  
-  *International Conference on Learning Representations (**ICLR**), Rio de Janeiro, Brazil, April 23–27, 2026.*
+  *International Conference on Learning Representations (**[ICLR](https://iclr.cc/Conferences/2026)**), Rio de Janeiro, Brazil, April 23–27, 2026.*
 - **[FORLER: Federated Offline Reinforcement Learning with Q-Ensemble and Actor Rectification](https://ieeexplore.ieee.org/abstract/document/11586784/)**  
   Nan Qiao and **Sheng Yue**<sup>\*</sup>  
-  *IEEE International Conference on Communications (**ICC**), Glasgow, UK, May 24–28, 2026.*
-{: .publication-list}
-
-#### 2025
-
+  *IEEE International Conference on Communications (**[ICC](https://icc2026.ieee-icc.org/)**), Glasgow, UK, May 24–28, 2026.*
 - **[FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices](https://dl.acm.org/doi/pdf/10.1145/3680207.3765238)**  
   Jinrui Zhang, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, **Sheng Yue**, Yaoxue Zhang, and Ju Ren  
-  *The 31st Annual International Conference on Mobile Computing and Networking (**MobiCom**), Hong Kong, China, Nov 4–8, 2025.*
+  *The 31st Annual International Conference on Mobile Computing and Networking (**[MobiCom](https://www.sigmobile.org/mobicom/2025/)**), Hong Kong, China, Nov 4–8, 2025.*
 - **[Towards Distance-Adaptive Wireless Charging](https://dl.acm.org/doi/pdf/10.1145/3711875.3729137)**  
   Lili Chen, Yizhe Zhao, Shuning Wang, Linghui Zhong, Yongjian Fu, **Sheng Yue**, Ju Ren, and Yaoxue Zhang  
-  *ACM International Conference on Mobile Systems, Applications, and Services (**MobiSys**), Anaheim, US, June 23–27, 2025.*
-{: .publication-list}
-
-#### 2024
-
+  *ACM International Conference on Mobile Systems, Applications, and Services (**[MobiSys](https://www.sigmobile.org/mobisys/2025/)**), Anaheim, US, June 23–27, 2025.*
 - **[How to Leverage Diverse Demonstrations in Offline Imitation Learning](https://openreview.net/pdf?id=oOlooUu2Sb)**  
   **Sheng Yue**, Jiani Liu, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang  
-  *International Conference on Machine Learning (**ICML**), Vienna, Austria, July 21–27, 2024.*
+  *International Conference on Machine Learning (**[ICML](https://icml.cc/Conferences/2024)**), Vienna, Austria, July 21–27, 2024.*
 - **[OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://openreview.net/pdf?id=eG42XBhV9a)**  
   **Sheng Yue**, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, and Yaoxue Zhang  
-  *International Conference on Machine Learning (**ICML**), Vienna, Austria, July 21–27, 2024.*
+  *International Conference on Machine Learning (**[ICML](https://icml.cc/Conferences/2024)**), Vienna, Austria, July 21–27, 2024.*
 - **[Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621260)**  
   **Sheng Yue**, Xingyuan Hua, Lili Chen, and Ju Ren  
-  *IEEE International Conference on Computer Communications (**INFOCOM**), Vancouver, Canada, May 20–23, 2024.*
+  *IEEE International Conference on Computer Communications (**[INFOCOM](https://infocom2024.ieee-infocom.org/)**), Vancouver, Canada, May 20–23, 2024.*
 - **[Federated Offline Policy Optimization with Dual Regularization](https://ieeexplore.ieee.org/abstract/document/10621140)**  
   **Sheng Yue**, Zerui Qin, Xingyuan Hua, Yongheng Deng, and Ju Ren  
-  *IEEE International Conference on Computer Communications (**INFOCOM**), Vancouver, Canada, May 20–23, 2024.*
+  *IEEE International Conference on Computer Communications (**[INFOCOM](https://infocom2024.ieee-infocom.org/)**), Vancouver, Canada, May 20–23, 2024.*
 - **[BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning with Fast Convergence and Communication Efficiency](https://ieeexplore.ieee.org/abstract/document/10621347)**  
   Jing Qiao, Zuyuan Zhang, **Sheng Yue**<sup>\*</sup>, Yuan Yuan, Zhipeng Cai, Xiao Zhang<sup>\*</sup>, Ju Ren, and Dongxiao Yu  
-  *IEEE International Conference on Computer Communications (**INFOCOM**), Vancouver, Canada, May 20–23, 2024.*
+  *IEEE International Conference on Computer Communications (**[INFOCOM](https://infocom2024.ieee-infocom.org/)**), Vancouver, Canada, May 20–23, 2024.*
 - **[RelayRec: Empowering Privacy-Preserving CTR Prediction via Cloud-Device Relay Learning](https://dl.acm.org/doi/pdf/10.1109/IPSN61024.2024.00020)**  
   Yongheng Deng, Guanbo Wang, **Sheng Yue**, Wei Rao, Qin Zu, Wenjie Wang, Shuai Chen, Ju Ren, and Yaoxue Zhang  
-  *ACM/IEEE International Conference on Information Processing in Sensor Networks (**IPSN**), Hong Kong, China, May 13–16, 2024.*
-{: .publication-list}
-
-#### 2023
-
+  *ACM/IEEE International Conference on Information Processing in Sensor Networks (**[IPSN](https://ipsn.acm.org/2024/)**), Hong Kong, China, May 13–16, 2024.*
 - **[FedINC: An Exemplar-Free Continual Federated Learning Framework with Small Labeled Data](https://dl.acm.org/doi/pdf/10.1145/3625687.3625800)**  
   Yongheng Deng, **Sheng Yue**, Guanbo Wang, Tuowei Wang, Ju Ren, and Yaoxue Zhang  
-  *ACM Conference on Embedded Networked Sensor Systems (**SenSys**), Nov 13–15, Istanbul, Turkiye, 2023.*
+  *ACM Conference on Embedded Networked Sensor Systems (**[SenSys](https://sensys.acm.org/2023/)**), Nov 13–15, Istanbul, Turkiye, 2023.*
 - **[CLARE: Conservative Model-Based Offline Inverse Reinforcement Learning](https://openreview.net/pdf?id=5aT4ganOd98)**  
   **Sheng Yue**, Guanbo Wang, Wei Shao, Zhaofeng Zhang, Sen Lin, Ju Ren, and Junshan Zhang  
-  *International Conference on Learning Representations (**ICLR**), Kigali, Rwanda, May 1–5, 2023.*
-{: .publication-list}
-
-#### 2022
-
+  *International Conference on Learning Representations (**[ICLR](https://iclr.cc/Conferences/2023)**), Kigali, Rwanda, May 1–5, 2023.*
 - **[HSFL: An Efficient Split Federated Learning Framework via Hierarchical Organization](https://dl.ifip.org/db/conf/cnsm/cnsm2022/01.pdf)**  
   Tengxi Xia, Yongheng Deng, **Sheng Yue**, Junyi He, Ju Ren, and Yaoxue Zhang  
-  *International Conference on Network and Service Management (**CNSM**), Thessaloniki, Greece, Oct 31–Nov 4, 2022.*
-{: .publication-list}
-
-#### 2021
-
+  *International Conference on Network and Service Management (**[CNSM](https://www.cnsm-conf.org/2022/)**), Thessaloniki, Greece, Oct 31–Nov 4, 2022.*
 - **[Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/abs/10.1145/3466772.3467038)**  
   **Sheng Yue**, Ju Ren, Jiang Xin, Sen Lin, and Junshan Zhang  
-  *ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc**), Shanghai, China, July 26–29, 2021.*
+  *ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**[MobiHoc](https://www.sigmobile.org/mobihoc/2021/)**), Shanghai, China, July 26–29, 2021.*
 {: .publication-list}
 
 ### Journal Papers
-
-#### 2026
 
 - **[HyStream: A Hybrid System for Application Streaming via Predictive Delivery and Sequence-Linearized Caching](https://ieeexplore.ieee.org/document/11536092/authors#authors)**  
   Jun Lu, **Sheng Yue**, Xiang Liu, Jinrui Zhang, Yongjian Fu, and Jialin Li  
@@ -150,10 +126,6 @@ Jan 2026
 - **[FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896)**  
   Nan Qiao, **Sheng Yue**<sup>\*</sup>, Ju Ren, and Yaoxue Zhang  
   *IEEE Transactions on Networking (**ToN**), vol. 34, pp. 2031–2046, 2026.*
-{: .publication-list}
-
-#### 2025
-
 - **[MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948)**  
   Jialin Guo, Yongjian Fu, Zhiwei Zhai, Xinyi Li, Yongheng Deng, **Sheng Yue**, Lili Chen, Hao Pan, and Ju Ren  
   *IEEE Transactions on Mobile Computing (**TMC**), vol. 24, no. 8, pp. 7328–7344, 2025.*
@@ -172,10 +144,6 @@ Jan 2026
 - **[MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting](https://ieeexplore.ieee.org/abstract/document/10764755)**  
   Jiang Xin, **Sheng Yue**<sup>\*</sup>, Jinrui Zhang<sup>\*</sup>, Ju Ren, Feng Qian, and Yaoxue Zhang  
   *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 35, no. 4, pp. 3172–3184, 2025.*
-{: .publication-list}
-
-#### 2024
-
 - **[Federated Offline Reinforcement Learning with Proximal Policy Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10748547)**  
   **Sheng Yue**, Yongheng Deng, Guanbo Wang, Ju Ren, and Yaoxue Zhang  
   *Chinese Journal of Electronics (**CJE**), vol. 33, no. 6, pp. 1–13, 2024.*
@@ -194,27 +162,15 @@ Jan 2026
 - **[Towards Resource-Efficient Edge AI: From Federated Learning to Semi-Supervised Model Personalization](https://ieeexplore.ieee.org/abstract/document/10254288)**  
   Zhaofeng Zhang, **Sheng Yue**<sup>\*</sup>, and Junshan Zhang  
   *IEEE Transactions on Mobile Computing (**TMC**), vol. 23, no. 5, pp. 6104–6115, 2024.*
-{: .publication-list}
-
-#### 2022
-
 - **[Efficient Federated Meta-Learning over Multi-Access Wireless Networks](https://ieeexplore.ieee.org/abstract/document/9681911)**  
   **Sheng Yue**, Ju Ren, Jiang Xin, Deyu Zhang, Yaoxue Zhang, and Weihua Zhuang  
   *IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 40, no. 5, pp. 1556–1570, 2022.*
 - **[TODG: Distributed Task Offloading with Delay Guarantees for Edge Computing](https://ieeexplore.ieee.org/abstract/document/9591418)**  
   **Sheng Yue**, Ju Ren, Nan Qiao, Yongmin Zhang, Hongbo Jiang, Yaoxue Zhang, and Yuanyuan Yang  
   *IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 33, no. 7, pp. 1650–1665, 2022.*
-{: .publication-list}
-
-#### 2020
-
 - **[Joint Channel Allocation and Resource Management for Stochastic Computation Offloading in MEC](https://ieeexplore.ieee.org/abstract/document/9099962)**  
   Ju Ren, K. M. Mahfujul, Feng Lyu, **Sheng Yue**, and Yaoxue Zhang  
   *IEEE Transactions on Vehicular Technology (**TVT**), vol. 69, no. 8, pp. 8900–8913, 2020.*
-{: .publication-list}
-
-#### 2019
-
 - **[Joint Channel Assignment and Stochastic Energy Management for RF-Powered OFDMA WSNs](https://ieeexplore.ieee.org/abstract/document/8581512)**  
   Ju Ren, **Sheng Yue**, Deyu Zhang, Yaoxue Zhang, and Jiannong Cao  
   *IEEE Transactions on Vehicular Technology (**TVT**), vol. 68, no. 2, pp. 1578–1592, 2019.*
@@ -222,9 +178,9 @@ Jan 2026
 
 ### Books & Chapters
 
-- **Efficient Federated Meta-Learning over Multi-Access Wireless Networks**  
+- **[Efficient Federated Meta-Learning over Multi-Access Wireless Networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394180523.ch22)**  
   **Sheng Yue**, Ju Ren  
-  *[Book Chapter of Next Generation Multiple Access](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394180523.ch22), Wiley, 2023.*
+  *Book Chapter of Next Generation Multiple Access, Wiley, 2023.*
 {: .publication-list }
 
 ## Grants
