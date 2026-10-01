@@ -8,7 +8,7 @@ Welcome to my homepage! I am currently an Associate Professor in the [School of 
 
 Previously, I was a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) from 2023 to 2024. I received my Ph.D. from the [School of Computer Science and Engineering](https://cse.csu.edu.cn/)  at [Central South University](https://www.csu.edu.cn), where I was fortunate to be advised by [Prof. Ju Ren](https://juren1987.github.io/). 
 
-During my Ph.D., I was also a visiting student at the [Davis AI, Robotics, and Edge (DARE) Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) from 2020 to 2022, where I was fortunate to work under the supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/), and at the [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) in fall 2018, where I was fortunate to be advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html).
+During my Ph.D., I was also a visiting student at the [Davis AI, Robotics, and Edge Lab](https://faculty.engineering.ucdavis.edu/jzhang/research-group/) from 2020 to 2022, where I was fortunate to work under the supervision of [Prof. Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/), and at the [Decision Intelligence Lab](https://people.iiis.tsinghua.edu.cn/~dilab/index.html) in fall 2018, where I was fortunate to be advised by [Prof. Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/index.html).
 {: .intro }
 
 
