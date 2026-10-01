@@ -134,7 +134,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .intro { margin: 0 0 18px; font-size: 17px; line-height: 1.76; }
 .student-note {
   margin: 22px 0 36px;
-  font-size: 16.5px;
+  font-size: 17px;
   line-height: 1.5;
 }
 .student-note strong { color: var(--heading); font-weight: 650; }
