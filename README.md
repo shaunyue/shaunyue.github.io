@@ -8,6 +8,8 @@ This site uses Jekyll. Edit personal information here:
 - `_pages/group.md`: the Group Members page layout and introductory text.
 - `_data/navigation.yml`: the five navigation links.
 
-A publication uses three Markdown lines: a bold title (optionally linked), authors, then an italic venue and date. The first two lines end with two spaces to keep the fields separate. Copy a nearby entry when adding one. Link each bold conference acronym to that year's official conference homepage. Use `<sup>\*</sup>` for corresponding authors and `<sup>#</sup>` for co-first authors. News and grants use a date line followed by an indented detail line; copy a nearby entry to keep the layout.
+A publication uses three Markdown lines: a bold title (optionally linked), authors, then an italic venue and date. The first two lines end with two spaces to keep the fields separate. Copy a nearby entry when adding one. Link each bold conference acronym to that year's official conference homepage, and each bold journal acronym to its official journal homepage. Use `<sup>\*</sup>` for corresponding authors and `<sup>#</sup>` for co-first authors. News and grants use a date line followed by an indented detail line; copy a nearby entry to keep the layout.
+
+Awards use a plain award name followed by the year. Academic Service lists the plain role before the linked organization or venue. Talks use a plain title, an italic event or conference, then a plain institution/location and date. Keep News in reverse chronological order.
 
 Preview with `bundle exec jekyll serve` at `http://127.0.0.1:4000/`. Local edits are not published until pushed.

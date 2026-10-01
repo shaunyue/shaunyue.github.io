@@ -17,20 +17,23 @@ Previously, I was a postdoctoral researcher in the [Department of Computer Scien
 ## Recent News
 {: #news }
 
-May 2026
-: **[AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/pdf/2605.01968)** is accepted to ICML 2026. We develop a new optimizer for more stable critic learning in offline RL. Congratulations to Nan!
+Sep 2026
+: I will serve as an AC at [ICLR 2027](https://iclr.cc/Conferences/2027/).
 
 May 2026
-: **[Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.12294)** is accepted to ICML 2026. We propose a new memory mechanism that enables GUI agents to effectively reuse historical execution trajectories. Congratulations to Zerui!
+: [AdamO: A Collapse-Suppressed Optimizer for Offline RL](https://arxiv.org/pdf/2605.01968) is accepted to ICML 2026. We develop a new optimizer for more stable critic learning in offline RL. Congratulations to Nan!
 
 May 2026
-: **[Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](https://arxiv.org/pdf/2605.08978)** is accepted to ICML 2026. We introduce a new post-training approach based on a Bayesian reward that equips agentic LLMs with clever exploration capabilities. Congratulations to Xingyuan!
+: [Executable Agentic Memory for GUI Agent](https://arxiv.org/pdf/2605.12294) is accepted to ICML 2026. We propose a new memory mechanism that enables GUI agents to effectively reuse historical execution trajectories. Congratulations to Zerui!
+
+May 2026
+: [Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](https://arxiv.org/pdf/2605.08978) is accepted to ICML 2026. We introduce a new post-training approach based on a Bayesian reward that equips agentic LLMs with clever exploration capabilities. Congratulations to Xingyuan!
 
 Jan 2026
-: **[Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq)** is accepted to ICLR 2026. Congratulations to Nan!
+: [Less Is More: Clustered Cross-Covariance Control for Offline RL](https://openreview.net/forum?id=drOy5wi6Qq) is accepted to ICLR 2026. Congratulations to Nan!
 
 Jan 2026
-: **[Context Learning for Multi-Agent Discussion](https://openreview.net/forum?id=EUu8TILWpR)** is accepted to ICLR 2026. Congratulations to Xingyuan!
+: [Context Learning for Multi-Agent Discussion](https://openreview.net/forum?id=EUu8TILWpR) is accepted to ICLR 2026. Congratulations to Xingyuan!
 {: .news-list }
 
 ## Publications <small class="pub-legend"><sup>\*</sup> Corresponding author · <sup>#</sup> Co-first author</small>
@@ -113,67 +116,67 @@ Jan 2026
 
 - **[HyStream: A Hybrid System for Application Streaming via Predictive Delivery and Sequence-Linearized Caching](https://ieeexplore.ieee.org/document/11536092/authors#authors)**  
   Jun Lu, **Sheng Yue**, Xiang Liu, Jinrui Zhang, Yongjian Fu, and Jialin Li  
-  *IEEE Transactions on Networking (**ToN**), vol. 34, pp. 5514–5529, 2026.*
+  *IEEE Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 34, pp. 5514–5529, 2026.*
 - **[Toward Communication-Efficient and Data-Free Collaborative Fine-Tuning Between Small and Large Language Models](https://www.computer.org/csdl/journal/nw/5555/01/11534177/2gHslw1gv2U)**  
   Zhenya Ma, Yongheng Deng, Ziqing Qiao, Yongjian Fu, **Sheng Yue**, and Ju Ren  
-  *IEEE Transactions on Networking (**ToN**), vol. 34, pp. 5333–5348, 2026.*
+  *IEEE Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 34, pp. 5333–5348, 2026.*
 - **[Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data](https://ieeexplore.ieee.org/document/11427327)**  
   Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue**<sup>\*</sup>, and Ju Ren  
-  *IEEE Transactions on Mobile Computing (**TMC**), early access, 2026.*
+  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), early access, 2026.*
 - **[𝒪<sup>2</sup>-UCB: A Federated Multi-armed Bandit Mechanism in Zero Client-owned Data Network](https://ieeexplore.ieee.org/document/11535667)**  
   Hangfan Li, Yang Xu, Yibin Cai, **Sheng Yue**, Ziyu Peng, and Yaoxue Zhang  
-  *IEEE Transactions on Mobile Computing (**TMC**), early access, 2026.*
+  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), early access, 2026.*
 - **[FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896)**  
   Nan Qiao, **Sheng Yue**<sup>\*</sup>, Ju Ren, and Yaoxue Zhang  
-  *IEEE Transactions on Networking (**ToN**), vol. 34, pp. 2031–2046, 2026.*
+  *IEEE Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 34, pp. 2031–2046, 2026.*
 - **[MASA: Multimodal Federated Learning through Modality-Aware and Secure Aggregation](https://ieeexplore.ieee.org/abstract/document/10916948)**  
   Jialin Guo, Yongjian Fu, Zhiwei Zhai, Xinyi Li, Yongheng Deng, **Sheng Yue**, Lili Chen, Hao Pan, and Ju Ren  
-  *IEEE Transactions on Mobile Computing (**TMC**), vol. 24, no. 8, pp. 7328–7344, 2025.*
+  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), vol. 24, no. 8, pp. 7328–7344, 2025.*
 - **[AugFL: Augmenting Federated Learning with Pretrained Models](https://ieeexplore.ieee.org/abstract/document/10964341/)**  
   **Sheng Yue**<sup>#</sup>, Zerui Qin<sup>#</sup>, Yongheng Deng, Ju Ren, Yaoxue Zhang, and Junshan Zhang  
-  *IEEE Transactions on Networking (**ToN**), vol. 33, no. 4, pp. 1870–1885, 2025.*
+  *IEEE Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 33, no. 4, pp. 1870–1885, 2025.*
 - **[DualRec: A Collaborative Training Framework for Device and Cloud Recommendation Models](https://ieeexplore.ieee.org/document/10840283/authors#authors)**  
   Ye Zhang, Yongheng Deng, **Sheng Yue**, Qiushi Li, and Ju Ren  
-  *IEEE Transactions on Mobile Computing (**TMC**), vol. 24, no. 6, pp. 5202–5213, 2025.*
+  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), vol. 24, no. 6, pp. 5202–5213, 2025.*
 - **[Momentum-Based Contextual Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10806823)**  
   **Sheng Yue**<sup>#</sup>, Xingyuan Hua<sup>#</sup>, Yongheng Deng, Lili Chen, Ju Ren, and Yaoxue Zhang  
-  *IEEE Transactions on Networking (**ToN**), vol. 33, no. 2, pp. 865–880, 2025.*
+  *IEEE Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 33, no. 2, pp. 865–880, 2025.*
 - **[StreamSys: A Lightweight Executable Delivery System for Edge Computing](https://ieeexplore.ieee.org/abstract/document/10814051)**  
   Jun Lu, Zhenya Ma, Yinggang Gao, **Sheng Yue**, Ju Ren, and Yaoxue Zhang  
-  *IEEE Transactions on Cloud Computing (**TCC**), vol. 13, no. 1, pp. 213–226, 2025.*
+  *IEEE Transactions on Cloud Computing (**[TCC](https://www.computer.org/csdl/journal/cc)**), vol. 13, no. 1, pp. 213–226, 2025.*
 - **[MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting](https://ieeexplore.ieee.org/abstract/document/10764755)**  
   Jiang Xin, **Sheng Yue**<sup>\*</sup>, Jinrui Zhang<sup>\*</sup>, Ju Ren, Feng Qian, and Yaoxue Zhang  
-  *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 35, no. 4, pp. 3172–3184, 2025.*
+  *IEEE Transactions on Circuits and Systems for Video Technology (**[TCSVT](https://ieee-cas.org/publication/tcsvt)**), vol. 35, no. 4, pp. 3172–3184, 2025.*
 - **[Federated Offline Reinforcement Learning with Proximal Policy Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10748547)**  
   **Sheng Yue**, Yongheng Deng, Guanbo Wang, Ju Ren, and Yaoxue Zhang  
-  *Chinese Journal of Electronics (**CJE**), vol. 33, no. 6, pp. 1–13, 2024.*
+  *Chinese Journal of Electronics (**[CJE](https://cje.ejournal.org.cn/)**), vol. 33, no. 6, pp. 1–13, 2024.*
 - **[Mobile Generative AI: Opportunities and Challenges](https://ieeexplore.ieee.org/abstract/document/10628027)**  
   Ye Zhang, Jinrui Zhang<sup>\*</sup>, **Sheng Yue**<sup>\*</sup>, Wei Lu, Ju Ren, and Xuemin (Sherman) Shen  
-  *IEEE Wireless Communications (**WC**), vol. 31, no. 4, pp. 58–64, 2024.*
+  *IEEE Wireless Communications (**[WC](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)**), vol. 31, no. 4, pp. 58–64, 2024.*
 - **[Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10463608)**  
   Zequn Cao, Xiaoheng Deng, **Sheng Yue**, Ping Jiang, Ju Ren, and Jinsong Gui  
-  *IEEE Internet of Things Journal (**IoTJ**), vol. 11, no. 12, pp. 21632–21646, 2024.*
+  *IEEE Internet of Things Journal (**[IoTJ](https://ieee-iotj.org/)**), vol. 11, no. 12, pp. 21632–21646, 2024.*
 - **[SESAME: A Resource Expansion and Sharing Scheme for Multiple Edge Services Providers](https://ieeexplore.ieee.org/abstract/document/10477324/)**  
   Jiani Liu, Ju Ren, Yongmin Zhang, **Sheng Yue**, and Yaoxue Zhang  
-  *IEEE/ACM Transactions on Networking (**ToN**), vol. 32, no. 4, pp. 3189–3204, 2024.*
+  *IEEE/ACM Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 32, no. 4, pp. 3189–3204, 2024.*
 - **[PoPeC: PAoI-Centric Task Offloading with Priority over Unreliable Channels](https://ieeexplore.ieee.org/abstract/document/10397547)**  
   Nan Qiao, **Sheng Yue**, Yongmin Zhang, and Ju Ren  
-  *IEEE/ACM Transactions on Networking (**ToN**), vol. 32, no. 3, pp. 2376–2390, 2024.*
+  *IEEE/ACM Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 32, no. 3, pp. 2376–2390, 2024.*
 - **[Towards Resource-Efficient Edge AI: From Federated Learning to Semi-Supervised Model Personalization](https://ieeexplore.ieee.org/abstract/document/10254288)**  
   Zhaofeng Zhang, **Sheng Yue**<sup>\*</sup>, and Junshan Zhang  
-  *IEEE Transactions on Mobile Computing (**TMC**), vol. 23, no. 5, pp. 6104–6115, 2024.*
+  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), vol. 23, no. 5, pp. 6104–6115, 2024.*
 - **[Efficient Federated Meta-Learning over Multi-Access Wireless Networks](https://ieeexplore.ieee.org/abstract/document/9681911)**  
   **Sheng Yue**, Ju Ren, Jiang Xin, Deyu Zhang, Yaoxue Zhang, and Weihua Zhuang  
-  *IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 40, no. 5, pp. 1556–1570, 2022.*
+  *IEEE Journal on Selected Areas in Communications (**[JSAC](https://www.comsoc.org/publications/journals/ieee-jsac)**), vol. 40, no. 5, pp. 1556–1570, 2022.*
 - **[TODG: Distributed Task Offloading with Delay Guarantees for Edge Computing](https://ieeexplore.ieee.org/abstract/document/9591418)**  
   **Sheng Yue**, Ju Ren, Nan Qiao, Yongmin Zhang, Hongbo Jiang, Yaoxue Zhang, and Yuanyuan Yang  
-  *IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 33, no. 7, pp. 1650–1665, 2022.*
+  *IEEE Transactions on Parallel and Distributed Systems (**[TPDS](https://www.computer.org/csdl/journal/td)**), vol. 33, no. 7, pp. 1650–1665, 2022.*
 - **[Joint Channel Allocation and Resource Management for Stochastic Computation Offloading in MEC](https://ieeexplore.ieee.org/abstract/document/9099962)**  
   Ju Ren, K. M. Mahfujul, Feng Lyu, **Sheng Yue**, and Yaoxue Zhang  
-  *IEEE Transactions on Vehicular Technology (**TVT**), vol. 69, no. 8, pp. 8900–8913, 2020.*
+  *IEEE Transactions on Vehicular Technology (**[TVT](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)**), vol. 69, no. 8, pp. 8900–8913, 2020.*
 - **[Joint Channel Assignment and Stochastic Energy Management for RF-Powered OFDMA WSNs](https://ieeexplore.ieee.org/abstract/document/8581512)**  
   Ju Ren, **Sheng Yue**, Deyu Zhang, Yaoxue Zhang, and Jiannong Cao  
-  *IEEE Transactions on Vehicular Technology (**TVT**), vol. 68, no. 2, pp. 1578–1592, 2019.*
+  *IEEE Transactions on Vehicular Technology (**[TVT](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)**), vol. 68, no. 2, pp. 1578–1592, 2019.*
 {: .publication-list}
 
 ### Books & Chapters
@@ -263,20 +266,20 @@ Jan 2026
 
 ### Awards
 
-- 2026: ACM China SIGAPP Rising Star Award
-- 2025: Young Elite Scientists Sponsorship Program of CAST
-- 2024: CIE Doctoral Dissertation Incentive Program
-- 2023: ACM China SIGAPP Doctoral Dissertation Award
-- 2023: Postdoctoral Fellowship Program of CPSF
+- ACM China SIGAPP Rising Star Award, 2026
+- Young Elite Scientists Sponsorship Program of CAST, 2025
+- CIE Doctoral Dissertation Incentive Program, 2024
+- ACM China SIGAPP Doctoral Dissertation Award, 2023
+- Postdoctoral Fellowship Program of CPSF, 2023
 
 ### Academic Service
 
-- [Chinese Journal of Electronics](https://cje.ejournal.org.cn): Young Editorial Board Member
-- [CCF Technical Committee on IoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/2020-01-07/685340.shtml): Executive Committee Member
-- [ICLR 2026](https://iclr.cc/Conferences/2026/): Area Chair
-- [ICPADS 2026](https://www.cloud-conf.net/icpads2026/index.html): Co-Chair, Edge Intelligence Track
-- [IEEE MSN 2025](https://ieee-msn.org/2025/), [2024](https://ieee-msn.org/2024/): TPC Member
-- [ICCC 2023](https://iccc2023.ieee-iccc.org/): Session Chair
+- Young Editorial Board Member, [Chinese Journal of Electronics](https://cje.ejournal.org.cn)
+- Executive Committee Member, [CCF Technical Committee on IoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/2020-01-07/685340.shtml)
+- Area Chair, [ICLR 2026](https://iclr.cc/Conferences/2026/)
+- Co-Chair, Edge Intelligence Track, [ICPADS 2026](https://www.cloud-conf.net/icpads2026/index.html)
+- TPC Member, [IEEE MSN 2025](https://ieee-msn.org/2025/) and [IEEE MSN 2024](https://ieee-msn.org/2024/)
+- Session Chair, [ICCC 2023](https://iccc2023.ieee-iccc.org/)
 
 ### Invited Reviewer
 
@@ -297,7 +300,7 @@ Jan 2026
 
 ### Talks
 
-- "Design of Offline Reinforcement Learning Algorithms (离线深度强化学习算法设计)," Frontiers of Cyber Science and Technology, [School of Cyber Science and Technology](https://scst.sysu.edu.cn) @ [SYSU](https://www.sysu.edu.cn), Apr 2024.
-- "Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency," Federated Learning, [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/) @ Vancouver, May 2024.
-- "Federated Offline Policy Optimization with Dual Regularization," Federated Learning, [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/) @ Vancouver, May 2024.
-- "Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning," Edge Computing, [ACM MobiHoc 2021](https://www.sigmobile.org/mobihoc/2021/) @ Shanghai, Jul 2021.
+- Design of Offline Reinforcement Learning Algorithms, *Frontiers of Cyber Science and Technology*, [School of Cyber Science and Technology](https://scst.sysu.edu.cn), [Sun Yat-sen University](https://www.sysu.edu.cn), Apr 2024.
+- Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency, *[IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/)*, Vancouver, Canada, May 2024.
+- Federated Offline Policy Optimization with Dual Regularization, *[IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/)*, Vancouver, Canada, May 2024.
+- Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning, *[ACM MobiHoc 2021](https://www.sigmobile.org/mobihoc/2021/)*, Shanghai, China, Jul 2021.
