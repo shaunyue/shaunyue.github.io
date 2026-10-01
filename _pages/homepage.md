@@ -301,7 +301,7 @@ Jan 2026
 
 ### Talks
 
-- Design of Offline Reinforcement Learning Algorithms, *Frontiers of Cyber Science and Technology*, [School of Cyber Science and Technology](https://scst.sysu.edu.cn), [Sun Yat-sen University](https://www.sysu.edu.cn), Apr 2024.
-- Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency, *[IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/)*, Vancouver, Canada, May 2024.
-- Federated Offline Policy Optimization with Dual Regularization, *[IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/)*, Vancouver, Canada, May 2024.
-- Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning, *[ACM MobiHoc 2021](https://www.sigmobile.org/mobihoc/2021/)*, Shanghai, China, Jul 2021.
+- Design of Offline Reinforcement Learning Algorithms, Frontiers of Cyber Science and Technology, [School of Cyber Science and Technology](https://scst.sysu.edu.cn), [Sun Yat-sen University](https://www.sysu.edu.cn), Apr 2024.
+- Momentum-Based Federated Reinforcement Learning with Interaction and Communication Efficiency, [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/), Vancouver, Canada, May 2024.
+- Federated Offline Policy Optimization with Dual Regularization, [IEEE INFOCOM 2024](https://infocom2024.ieee-infocom.org/), Vancouver, Canada, May 2024.
+- Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning, [ACM MobiHoc 2021](https://www.sigmobile.org/mobihoc/2021/), Shanghai, China, Jul 2021.
