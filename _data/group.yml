@@ -33,11 +33,11 @@ groups:
         photo: /images/students/chenyu-wang.jpg
   - title: Interns
     members:
-      - name: Yong Lei
-        joined: Dec 2025
-        gender: male
-        photo: /images/students/yong-lei.jpg
       - name: Yiding Wang
         joined: Sep 2025
         gender: female
         photo: /images/students/yiding-wang.jpg
+      - name: Yong Lei
+        joined: Dec 2025
+        gender: male
+        photo: /images/students/yong-lei.jpg
