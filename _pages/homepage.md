@@ -193,72 +193,72 @@ Jan 2026
 1/2026–12/2029
 : **NSFC**  
   **Research on End-Cloud Collaborative Computing for LLM-based Agents**  
-  *Principal Investigator · National Natural Science Foundation of China (国家自然科学基金面上项目).*
+  *Principal Investigator · National Natural Science Foundation of China (国家自然科学基金面上项目)*
 
 1/2026–12/2028
 : **GDSTC**  
   **Research on Heterogeneity-Adaptive LLM-Based Edge Computing**  
-  *Principal Investigator · Natural Science Foundation of Guangdong Province (广东省基础与应用基础研究基金自然科学基金面上项目).*
+  *Principal Investigator · Natural Science Foundation of Guangdong Province (广东省基础与应用基础研究基金自然科学基金面上项目)*
 
 1/2026–12/2029
 : **SZSTI**  
   **Research on Heterogeneity-Adaptive Construction and Decision-Making for Mobile Agents**  
-  *Principal Investigator · Natural Science Foundation of Shenzhen (深圳市自然科学基金面上项目).*
+  *Principal Investigator · Natural Science Foundation of Shenzhen (深圳市自然科学基金面上项目)*
 
 1/2024–12/2024
 : **NSFC**  
   **Research on Offline Federated Reinforcement Learning without Environmental Interaction**  
-  *Principal Investigator · Young Scientists Fund of NSFC (国家自然科学基金青年科学基金).*
+  *Principal Investigator · Young Scientists Fund of NSFC (国家自然科学基金青年科学基金)*
 
 1/2024–12/2024
 : **CPSF**  
   **Research on Privacy-Preserving Distributed Offline Federated Reinforcement Learning**  
-  *Principal Investigator · General Fund of CPSF (中国博士后科学基金面上资助).*
+  *Principal Investigator · General Fund of CPSF (中国博士后科学基金面上资助)*
 
 1/2024–12/2024
 : **CPSF**  
   **Distributed Offline Policy Optimization under Limited Samples and Heterogeneous Environments**  
-  *Principal Investigator · Postdoctoral Fellowship Program of CPSF (国家资助博士后研究人员计划项目).*
+  *Principal Investigator · Postdoctoral Fellowship Program of CPSF (国家资助博士后研究人员计划项目)*
 
 8/2022–8/2023
 : **Industrial Project**  
   **Application of Edge Intelligence in the Hotel and Travel Business**  
-  *Co-Principal Investigator · Tsinghua-Meituan Cooperation and Development Project (清华-美团技术合作开发项目).*
+  *Co-Principal Investigator · Tsinghua-Meituan Cooperation and Development Project (清华-美团技术合作开发项目)*
 
 7/2022–6/2024
 : **Industrial Project**  
   **Multi-Satellite Collaborative Intelligent Computing Key Technology R&D**  
-  *Co-Principal Investigator · Aerospace Hongtu Core R&D Project (航天宏图核心研发委托项目).*
+  *Co-Principal Investigator · Aerospace Hongtu Core R&D Project (航天宏图核心研发委托项目)*
 
 9/2024–9/2025
 : **Industrial Project**  
   **Atomic Scene Recognition Technology R&D**  
-  *Co-Principal Investigator · Tsinghua-Honor Cooperation and Development Project (清华-荣耀技术合作开发项目).*
+  *Co-Principal Investigator · Tsinghua-Honor Cooperation and Development Project (清华-荣耀技术合作开发项目)*
 
 1/2025–12/2029
 : **NSFC**  
   **Research on Edge-Cloud Collaborative Computing for Large Models with Heterogeneous End Devices**  
-  *Key Member (Ranked First) · Key Program of NSFC (国家自然科学基金重点项目).*
+  *Key Member (Ranked First) · Key Program of NSFC (国家自然科学基金重点项目)*
 
 12/2019–12/2024
 : **MOST**  
   **Probe Computer Software System Development**  
-  *Key Member · National Key R&D Program of China (国家重点研发计划).*
+  *Key Member · National Key R&D Program of China (国家重点研发计划)*
 
 10/2022–9/2025
 : **MOST**  
   **Research of Intelligent Computing Key Standards for Heterogeneous Devices**  
-  *Key Member · National Key R&D Program of China (国家重点研发计划).*
+  *Key Member · National Key R&D Program of China (国家重点研发计划)*
 
 11/2022–10/2025
 : **MOST**  
   **Blockchain-based Trusted Sharing Technology and Demonstration Application for Health Data**  
-  *Key Member · National Key R&D Program of China (国家重点研发计划).*
+  *Key Member · National Key R&D Program of China (国家重点研发计划)*
 
 1/2021–12/2023
 : **NSFC**  
   **Research on Edge Server Deployment and Resource Allocation Optimization**  
-  *Key Member · General Program of NSFC (国家自然科学基金面上项目).*
+  *Key Member · General Program of NSFC (国家自然科学基金面上项目)*
 {: .grant-list}
 
 ## Honors & Service
