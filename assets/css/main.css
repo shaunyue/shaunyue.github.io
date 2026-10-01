@@ -194,11 +194,11 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   text-transform: uppercase;
 }
 .news-list dd {
-  margin: 0 0 18px;
-  padding: 0 0 17px;
+  margin: 0 0 14px;
+  padding: 0 0 12px;
   border-bottom: 1px solid var(--border);
   color: #505b65;
-  line-height: 1.65;
+  line-height: 1.55;
 }
 .news-list dd:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
 .news-list dd strong { color: var(--heading); font-weight: 600; }
