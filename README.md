@@ -2,7 +2,7 @@
 
 This site uses Jekyll. Edit personal information here:
 
-- `_config.yml`: name, navigation title, position, portrait, contact links, and search description. The Sidebar Email link and prospective-student contact link both use `author.email`. Replace `images/avatar.png` to update the portrait.
+- `_config.yml`: name, navigation title, position, portrait, contact links, and search description. The Sidebar Email link and prospective-student contact link both use `author.email`. Set `author.avatar` to choose the portrait under `images/`. The current portrait is the original photo, `images/avatar.png`. The unused edited versions are preserved as `images/avatar-studio.png` and `images/avatar-executive.png`.
 - `_config.yml`'s `author.name_zh`: the Chinese profile name. `.name-cn` in `assets/css/main.css` uses a bold sans-serif Chinese font coordinated with the English name.
 - `_pages/homepage.md`: biography, news, publications, grants, awards, and service. Add or remove entries using Markdown; each publication belongs under Conference Papers, Journal Papers, or Books & Chapters, in reverse chronological order. Keep the publication year in its citation; do not add separate year headings.
 - `_data/group.yml`: student names, group category, cohort year, joining date, gender, and optional photo path. Set `gender` to `male` or `female` for the matching default portrait; leave it empty for the neutral portrait. Add a square or rectangular photo under `images/students/` and set `photo` to its site path, such as `/images/students/liang-liu.jpg`. The page crops it automatically.
