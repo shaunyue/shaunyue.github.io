@@ -295,7 +295,7 @@ Jan 2026
 
 ### Teaching
 
-- Computer Programming I, Undergraduate Course, Sun Yat-sen University, Fall 2025 and Fall 2026.
+- Computer Programming I, Undergraduate Course, Sun Yat-sen University, Fall 2025 and [Fall 2026](/teaching/cse101/2026-fall/).
 - Introduction to Artificial Intelligence, Postgraduate Course, Sun Yat-sen University, Spring 2025.
 <!-- - Computer Networking, Undergraduate Course, School of Computer Science and Engineering @ CSU, 2018–2021, TA. -->
 
