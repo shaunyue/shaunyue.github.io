@@ -8,7 +8,8 @@ locale: "en-US"
 
 author:
   avatar: "avatar.png"
-  name: "Sheng Yue (岳晟)"
+  name: "Sheng Yue"
+  name_zh: "岳晟"
   role: "Associate Professor"
   institution: "Sun Yat-sen University"
   location: "Shenzhen, China"
