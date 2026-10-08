@@ -6,7 +6,7 @@
 
 ## 文件位置
 
-- `index.html`：课程信息、5个章节、所有资料链接以及中英文文本。
+- `index.html`：课程简介、教学团队、上课安排、参考书目、5个章节资料以及中英文文本。
 - `style.css`：字体、绿色主题和手机布局。
 - `language.js`：语言切换、语言偏好记忆与分享链接。
 - `favicon.ico`：个人主页原有图标。
@@ -20,7 +20,7 @@
 ## 添加章节
 
 1. 将课件放入 `materials/slides/`，例如 `lecture06.pdf`；将代码放入 `materials/code/`，例如 `chapter06.c`。
-2. 在 `index.html` 的 `<tbody>` 中复制一整行 `<tr>…</tr>`，修改章节编号、中文名称和 `data-en` 中的英文名称。
+2. 在 `index.html` 的 `<table class="materials-table">` 下的 `<tbody>` 中复制一整行 `<tr>…</tr>`，修改章节编号、中文名称和 `data-en` 中的英文名称。注意不要复制教学团队表格的行。
 3. 修改课件和代码的 `href`。代码链接保留 `download`；课件和回放保留 `target="_blank" rel="noopener"`。
 4. 填入对应回放的完整网址。两段回放使用「上／下」和「Part 1／Part 2」；只有一段时复制第一节的回放单元格。
 5. 同时更新各链接的中文 `aria-label` 和英文 `data-label-en`，让屏幕阅读器读出正确章节和资料类型。
@@ -43,6 +43,15 @@
 
 首次访问默认中文。有效的 `?lang=zh` 或 `?lang=en` 优先于已保存的语言；未指定语言时使用浏览器保存的偏好。浏览器禁用存储时仍可切换，禁用 JavaScript 时仍可查看完整中文资料页。
 
+## 更新课程信息
+
+页面按「课程名称与学期 → 简介 → 教学团队 → 上课安排 → 参考书目 → 课程资料」排列。英文对应 Course Staff、Lecture、References 和 Course Materials。
+
+- 教学团队位于 `staff-table`，姓名、职务及答疑时间的英文位于 `data-en`。更新邮箱时同时修改链接文字和 `mailto:` 地址。人员时间是 Office Hours，不是上课时间。
+- 上课安排位于 `lecture-list`。「第3–4节」对应英文 `Periods 3–4`，不换算为3–4点。周次分别为周一1–17周、周三1–9周。
+- 参考书目位于 `references-list`。书籍版本、ISBN和出版日期在两种语言下指向同一版本。C Primer Plus 使用 Stephen Prata 的英文原版第六版，Addison-Wesley Professional，ISBN 9780321928429，出版日期 2013-11-26；来源：https://www.informit.com/store/c-primer-plus-9780321928429 。
+- 课程资料表使用 `materials-table`，教学团队使用 `staff-table`。调整行距或手机布局时分别限定这些样式，避免互相影响。
+
 ## 发布与检查
 
 本文件夹在个人主页仓库中的位置为 `teaching/cse101/2026-fall/`。仓库沿用现有 GitHub Pages 设置：从 `master` 分支根目录发布。主页 `_pages/homepage.md` 的 Teaching 条目将 Fall 2026 链接到该目录。
@@ -50,7 +59,7 @@
 每次更新后检查：
 
 1. 中英文的标题、简介、章节和资料标签均正确；切换后刷新仍保持所选语言。
-2. 每个 PDF、代码及回放均对应同一章节。
+2. 每个 PDF、代码及回放均对应同一章节；课程材料表仍有5章、18个资料链接。分别核对三名团队成员的姓名、邮箱、答疑时间和两条上课安排。
 3. 手机和桌面显示完整，200% 放大后没有遮挡。
 4. 发布后检查线上文件，而非只检查本地副本；腾讯会议可能要求登录。
 
