@@ -296,7 +296,7 @@ Jan 2026
 ### Teaching
 
 - CSE101: Computer Programming I\
-  Undergraduate Course, Fall 2025 / [Fall 2026](/teaching/cse101/2026-fall/)
+  Undergraduate Course, [Fall 2025](/teaching/cse101/2025-fall/) / [Fall 2026](/teaching/cse101/2026-fall/)
 - DCS5001: Introduction to Artificial Intelligence\
   Graduate Course, Spring 2025
 <!-- - Computer Networking, Undergraduate Course, School of Computer Science and Engineering @ CSU, 2018–2021, TA. -->

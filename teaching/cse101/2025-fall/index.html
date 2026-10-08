@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title data-en="CSE101 · Computer Programming I · Fall 2025">CSE101 · 程序设计 I · 2025年秋季</title>
+  <meta name="description" content="中山大学程序设计 I：2025年秋季课程课件。">
+  <link rel="canonical" href="https://shaunyue.github.io/teaching/cse101/2025-fall/">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="style.css?v=20261008-5">
+  <script src="language.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main" data-en="Skip to course content">跳至课程内容</a>
+  <div class="page">
+    <header class="topbar">
+      <nav class="language-switch" aria-label="语言 / Language" hidden>
+        <button type="button" lang="zh-CN" data-language="zh" aria-pressed="true">中文</button>
+        <span aria-hidden="true">/</span>
+        <button type="button" lang="en" data-language="en" aria-pressed="false">English</button>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="course-header" aria-labelledby="course-title">
+        <h1 id="course-title" data-en="Computer Programming I">程序设计 I</h1>
+        <p class="institution" data-en="Sun Yat-sen University, Fall 2025">中山大学，2025年秋季</p>
+        <p class="introduction" data-en="An introduction to programming through the C language. The course develops skills in problem analysis, algorithm design, program implementation, and debugging, with an emphasis on structured programming and clear, rigorous coding practices.">本课程以 C 语言为载体，介绍程序设计的基本思想与方法。通过学习结构化程序设计，掌握问题分析、算法设计、程序实现与调试的基本过程，培养清晰、严谨的编程习惯。</p>
+      </section>
+
+      <section class="course-staff information-section" aria-labelledby="staff-title">
+        <h2 id="staff-title" data-en="Course Staff">教学团队</h2>
+        <table class="staff-table">
+          <caption class="visually-hidden" data-en="Course staff, email addresses, and office hours">教学团队、邮箱与答疑时间</caption>
+          <thead>
+            <tr>
+              <th scope="col" data-en="Role">职务</th>
+              <th scope="col" data-en="Name">姓名</th>
+              <th scope="col" data-en="Email">邮箱</th>
+              <th scope="col" data-en="Office Hours">答疑时间</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="staff-role" data-en="Instructor">授课教师</td>
+              <th scope="row" class="staff-name"><a href="https://shaunyue.github.io/" data-en="Sheng Yue">岳晟</a></th>
+              <td class="staff-email"><span class="mobile-label" aria-hidden="true" data-en="Email: ">邮箱：</span><a href="mailto:yuesh5@mail.sysu.edu.cn">yuesh5@mail.sysu.edu.cn</a></td>
+              <td class="staff-hours"><span class="mobile-label" aria-hidden="true" data-en="Office hours: ">答疑时间：</span><span data-en="Wed 3–5 PM">周三 15:00–17:00</span></td>
+            </tr>
+            <tr>
+              <td class="staff-role" data-en="TA">助教</td>
+              <th scope="row" class="staff-name" data-en="Yuyan Long">龙语嫣</th>
+              <td class="staff-email"><span class="mobile-label" aria-hidden="true" data-en="Email: ">邮箱：</span><a href="mailto:longyy25@mail2.sysu.edu.cn">longyy25@mail2.sysu.edu.cn</a></td>
+              <td class="staff-hours"><span class="mobile-label" aria-hidden="true" data-en="Office hours: ">答疑时间：</span><span data-en="Mon 7–9 PM">周一 19:00–21:00</span></td>
+            </tr>
+            <tr>
+              <td class="staff-role" data-en="TA">助教</td>
+              <th scope="row" class="staff-name" data-en="Shaoxiong Wu">吴劭雄</th>
+              <td class="staff-email"><span class="mobile-label" aria-hidden="true" data-en="Email: ">邮箱：</span><a href="mailto:wushx56@mail2.sysu.edu.cn">wushx56@mail2.sysu.edu.cn</a></td>
+              <td class="staff-hours"><span class="mobile-label" aria-hidden="true" data-en="Office hours: ">答疑时间：</span><span data-en="Mon 7–9 PM">周一 19:00–21:00</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="course-information information-section" aria-labelledby="information-title">
+        <h2 id="information-title" data-en="Information">课程信息</h2>
+        <table class="information-table">
+          <caption class="visually-hidden" data-en="Lecture schedule and references">上课安排与参考书目</caption>
+          <colgroup><col class="information-label"><col></colgroup>
+          <tbody>
+            <tr>
+              <th scope="row" data-en="Lecture">上课安排</th>
+              <td>
+                <ul class="lecture-list">
+                  <li data-en="Thu, Periods 3–4, Odd weeks 1–17; Room 6507, Teaching Building 6 (Building 392).">周四，第3–4节，第1–17周（单周）；第六教学楼（392栋）6507室。</li>
+                  <li data-en="Tue, Periods 3–4, Weeks 1–17; Room 206, Building 106, Yuandong Area.">周二，第3–4节，第1–17周（每周）；园东区106栋206室。</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row" data-en="References">参考书目</th>
+              <td>
+                <ul class="references-list">
+                  <li><span data-en="Haoqiang Tan. ">谭浩强. </span><span data-en="C Programming (C程序设计)">C程序设计</span><span data-en=". 5th edition. Tsinghua University Press. ">. 第五版. 清华大学出版社. </span><time datetime="2017-08-01">2017-08-01</time>.</li>
+                  <li>Stephen Prata. C Primer Plus<span data-en=". 6th edition (Chinese edition). ">. 第六版（中文版）. </span>Addison-Wesley Professional. <time datetime="2013-11-26">2013-11-26</time>.</li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="materials" aria-labelledby="materials-title">
+        <h2 id="materials-title" data-en="Materials">课程资料</h2>
+        <table class="materials-table">
+          <caption class="visually-hidden" data-en="Lecture slides by chapter">各章节的课件</caption>
+          <thead>
+            <tr>
+              <th scope="col" data-en="Chapter">章节</th>
+              <th scope="col" data-en="Slides">课件</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Copy a complete <tr> to add a chapter. Keep translations in data-en. -->
+            <tr>
+              <th scope="row"><span class="chapter-number">01</span><span data-en="Introduction to C">C语言概述</span></th>
+              <td><a href="materials/slides/lecture01.pdf" target="_blank" rel="noopener" aria-label="第1节 C语言概述：课件 PDF" data-label-en="Chapter 1, Introduction to C: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">02</span><span data-en="Variables and Constants">变量常量</span></th>
+              <td><a href="materials/slides/lecture02.pdf" target="_blank" rel="noopener" aria-label="第2节 变量常量：课件 PDF" data-label-en="Chapter 2, Variables and Constants: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">03</span><span data-en="Operators and Expressions">运算符表达式</span></th>
+              <td><a href="materials/slides/lecture03.pdf" target="_blank" rel="noopener" aria-label="第3节 运算符表达式：课件 PDF" data-label-en="Chapter 3, Operators and Expressions: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">04</span><span data-en="Selection Structures">选择结构</span></th>
+              <td><a href="materials/slides/lecture04.pdf" target="_blank" rel="noopener" aria-label="第4节 选择结构：课件 PDF" data-label-en="Chapter 4, Selection Structures: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">05</span><span data-en="Loop Structures">循环结构</span></th>
+              <td><a href="materials/slides/lecture05.pdf" target="_blank" rel="noopener" aria-label="第5节 循环结构：课件 PDF" data-label-en="Chapter 5, Loop Structures: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">06</span><span data-en="Functions">函数</span></th>
+              <td><a href="materials/slides/lecture06.pdf" target="_blank" rel="noopener" aria-label="第6节 函数：课件 PDF" data-label-en="Chapter 6, Functions: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">07</span><span data-en="Arrays">数组</span></th>
+              <td><a href="materials/slides/lecture07.pdf" target="_blank" rel="noopener" aria-label="第7节 数组：课件 PDF" data-label-en="Chapter 7, Arrays: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">08</span><span data-en="Arrays and Pointers">数组与指针</span></th>
+              <td><a href="materials/slides/lecture08.pdf" target="_blank" rel="noopener" aria-label="第8节 数组与指针：课件 PDF" data-label-en="Chapter 8, Arrays and Pointers: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">09</span><span data-en="Strings">字符串</span></th>
+              <td><a href="materials/slides/lecture09-part1.pdf" target="_blank" rel="noopener" aria-label="第9节 字符串：课件（上） PDF" data-label-en="Chapter 9, Strings: slides, part 1 PDF"><span data-en="[slides 1]">[上]</span></a><a href="materials/slides/lecture09-part2.pdf" target="_blank" rel="noopener" aria-label="第9节 字符串：课件（下） PDF" data-label-en="Chapter 9, Strings: slides, part 2 PDF"><span data-en="[slides 2]">[下]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">10</span><span data-en="Functions and Pointers">函数与指针</span></th>
+              <td><a href="materials/slides/lecture10.pdf" target="_blank" rel="noopener" aria-label="第10节 函数与指针：课件 PDF" data-label-en="Chapter 10, Functions and Pointers: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">11</span><span data-en="Structures">结构体</span></th>
+              <td><a href="materials/slides/lecture11.pdf" target="_blank" rel="noopener" aria-label="第11节 结构体：课件 PDF" data-label-en="Chapter 11, Structures: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">12</span><span data-en="Linked Lists">链表</span></th>
+              <td><a href="materials/slides/lecture12.pdf" target="_blank" rel="noopener" aria-label="第12节 链表：课件 PDF" data-label-en="Chapter 12, Linked Lists: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">13</span><span data-en="Advanced Structures">结构体进阶</span></th>
+              <td><a href="materials/slides/lecture13.pdf" target="_blank" rel="noopener" aria-label="第13节 结构体进阶：课件 PDF" data-label-en="Chapter 13, Advanced Structures: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+            <tr>
+              <th scope="row"><span class="chapter-number">14</span><span data-en="File I/O">文件</span></th>
+              <td><a href="materials/slides/lecture14.pdf" target="_blank" rel="noopener" aria-label="第14节 文件：课件 PDF" data-label-en="Chapter 14, File I/O: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </main>
+
+  </div>
+</body>
+</html>
