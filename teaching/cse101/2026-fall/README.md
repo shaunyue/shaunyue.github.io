@@ -74,7 +74,14 @@ bundle exec jekyll serve --host 127.0.0.1 --port 4000
 
 ## 发布与检查
 
-本文件夹在个人主页仓库中的位置为 `teaching/cse101/2026-fall/`。仓库沿用现有 GitHub Pages 设置：从 `master` 分支根目录发布。主页 `_pages/homepage.md` 的 Teaching 使用 `teaching-list` 两行列表：第一行是普通字重的课程名，第二行是课程层次与学期。程序设计显示 `Undergraduate Course, Fall 2025 / Fall 2026`，其中 `Fall 2026` 链接到该目录；人工智能显示 `Graduate Course, Spring 2025`；条目间隔12px。样式位于主页 `assets/css/main.css`，两行沿用正文的字号与字体，手机端自然换行。
+本文件夹在个人主页仓库中的位置为 `teaching/cse101/2026-fall/`。仓库沿用现有 GitHub Pages 设置：从 `master` 分支根目录发布。主页 `_pages/homepage.md` 的 Teaching 使用普通 Markdown 列表：课程名称行末加 `\` 换行，下一行填写课程层次与学期。程序设计显示 `Undergraduate Course, Fall 2025 / Fall 2026`，其中 `Fall 2026` 链接到该目录；人工智能显示 `Graduate Course, Spring 2025`；条目间隔12px。样式位于主页 `assets/css/main.css`，通过 `#teaching + ul` 自动作用于 Teaching 标题后的列表。两行沿用正文的字号与字体，手机端自然换行。新增课程只需复制两行 Markdown，无需 HTML 或附加样式标记。
+
+```markdown
+- CSE101: Computer Programming I\
+  Undergraduate Course, Fall 2025 / [Fall 2026](/teaching/cse101/2026-fall/)
+- DCS5001: Introduction to Artificial Intelligence\
+  Graduate Course, Spring 2025
+```
 
 每次更新后检查：
 

@@ -186,10 +186,9 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 #publications + h3 { margin-top: 28px; }
 .main sup { font-size: .72em; line-height: 0; }
 .main > ul { margin: 0 0 16px; padding-left: 22px; }
-.main > ul:not(.news-list):not(.publication-list):not(.grant-list):not(.teaching-list) li { margin-bottom: 5px; }
-.teaching-list > li { margin: 0; }
-.teaching-list > li + li { margin-top: 12px; }
-.teaching-list span { display: block; }
+.main > ul:not(.news-list):not(.publication-list):not(.grant-list) li { margin-bottom: 5px; }
+#teaching + ul > li { margin: 0; }
+#teaching + ul > li + li { margin-top: 12px; }
 
 .news-list, .publication-list, .grant-list { margin: 0 !important; }
 .news-list {
