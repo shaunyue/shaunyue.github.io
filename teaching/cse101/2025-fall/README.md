@@ -22,12 +22,12 @@
 2. 替换课件时，将新 PDF 放入 `materials/slides/` 并沿用稳定英文文件名；更改名称时同步修改链接。课件链接保留 `target="_blank"` 和 `rel="noopener"`。
 3. 追加章节时，复制资料表 `<tbody>` 内的一整行 `<tr>`，更新编号、章节中英文名称、PDF 地址、可见标签及辅助说明。
 4. 一份课件使用 `[课件]` / `[slides]`；分上下册使用 `[上]` `[下]` / `[slides 1]` `[slides 2]`。相邻链接间距由 CSS 的 `.materials-table td a + a` 控制。
-5. 如更改学期，需同时更新中英文标题、副标题、中文描述、canonical 地址和 `language.js` 的英文描述。参考书版本、日期和课程时间应分别核对中英文。
+5. 如更改学期，需同时更新中英文标题、副标题、中文描述、canonical 地址和 `language.js` 的英文描述。参考书版本和课程时间应分别核对中英文。
 6. 教学团队中的姓名、角色、答疑时间分别带翻译；邮箱修改时同步修改显示文字与 `mailto:` 地址。教师姓名保留个人主页链接。
 7. 主页课程入口在 `_pages/homepage.md` 的 Teaching 段落，使用 Markdown 编辑，课程与说明之间保留行末反斜杠换行。
 8. 本地检查后提交到现有 GitHub Pages 的 `master` 分支根目录。发布完成后检查课程页、主页入口和全部15个课件链接。
 
-参考书目不显示编号、ISBN、斜体或链接。第一本采用第五版及出版日期2017-08-01（清华大学出版社书目： https://www.tup.tsinghua.edu.cn/booksCenter/book_07645004.html ）。第二本保留2026课程模板中的文字。
+参考书目不显示编号、ISBN、出版日期、斜体或链接。第一本采用第五版；第二本为 Stephen Prata 的 C Primer Plus 第六版（中文版），Addison-Wesley Professional。中英文书目保持对应。
 
 ## 课件来源映射
 

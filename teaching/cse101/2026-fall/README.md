@@ -51,7 +51,7 @@
 
 - 教学团队位于 `staff-table`，姓名、职务及答疑时间的英文位于 `data-en`。更新邮箱时同时修改链接文字和 `mailto:` 地址。人员时间是 Office Hours，不是上课时间。
 - 上课安排位于 `lecture-list`。「第3–4节」对应英文 `Periods 3–4`，不换算为3–4点。周次分别为周一1–17周、周三1–9周。
-- 参考书目位于 `references-list`，不显示编号或 ISBN。书籍版本和出版日期在两种语言下指向同一版本。C Primer Plus 按课程指定书目显示 Stephen Prata 的第六版（中文版），Addison-Wesley Professional，出版日期 2013-11-26。英文页面对应显示 `6th edition (Chinese edition)`。
+- 参考书目位于 `references-list`，不显示编号、ISBN或出版日期。谭浩强的 C程序设计采用第六版，清华大学出版社；C Primer Plus 按课程指定书目显示 Stephen Prata 的第六版（中文版），Addison-Wesley Professional。英文页面对应显示 `6th edition (Chinese edition)`，中英文版本保持一致。
 - 课程资料表使用 `materials-table`，教学团队使用 `staff-table`，课程信息使用 `information-table`。三张表的表头、内容和链接统一使用正文的字号；正文为黑色，链接使用个人主页的蓝色 `#1a0dab`，不加下划线。页面顶部不显示横线，表格保留浅灰分隔线。调整行距或手机布局时分别限定这些样式，避免互相影响。
 - 教师姓名链接到 https://shaunyue.github.io/ 。书籍名称保持普通文本，不使用斜体或超链接。
 
