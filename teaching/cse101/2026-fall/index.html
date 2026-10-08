@@ -7,7 +7,7 @@
   <meta name="description" content="中山大学程序设计 I：2026年秋季课程课件、示例代码与课堂回放。">
   <link rel="canonical" href="https://shaunyue.github.io/teaching/cse101/2026-fall/">
   <link rel="icon" href="favicon.ico">
-  <link rel="stylesheet" href="style.css?v=20261008-2">
+  <link rel="stylesheet" href="style.css?v=20261008-5">
   <script src="language.js" defer></script>
 </head>
 <body>
@@ -43,7 +43,7 @@
           <tbody>
             <tr>
               <td class="staff-role" data-en="Instructor">授课教师</td>
-              <th scope="row" class="staff-name" data-en="Sheng Yue">岳晟</th>
+              <th scope="row" class="staff-name"><a href="https://shaunyue.github.io/" data-en="Sheng Yue">岳晟</a></th>
               <td class="staff-email"><span class="mobile-label" aria-hidden="true" data-en="Email: ">邮箱：</span><a href="mailto:yuesh5@mail.sysu.edu.cn">yuesh5@mail.sysu.edu.cn</a></td>
               <td class="staff-hours"><span class="mobile-label" aria-hidden="true" data-en="Office hours: ">答疑时间：</span><span data-en="Wed 3–5 PM">周三 15:00–17:00</span></td>
             </tr>
@@ -63,20 +63,32 @@
         </table>
       </section>
 
-      <section class="lecture information-section" aria-labelledby="lecture-title">
-        <h2 id="lecture-title" data-en="Lecture">上课安排</h2>
-        <ul class="lecture-list">
-          <li data-en="Mon, Periods 3–4, Weeks 1–17; Room 201, Building 106, Yuandong Area.">周一，第3–4节，第1–17周；园东区106栋201室。</li>
-          <li data-en="Wed, Periods 3–4, Weeks 1–9; Room 201, Building 106, Yuandong Area.">周三，第3–4节，第1–9周；园东区106栋201室。</li>
-        </ul>
-      </section>
-
-      <section class="references information-section" aria-labelledby="references-title">
-        <h2 id="references-title" data-en="References">参考书目</h2>
-        <ol class="references-list">
-          <li><span data-en="Haoqiang Tan. ">谭浩强. </span><em data-en="C Programming (C程序设计)">C程序设计</em><span data-en=". 6th edition. Tsinghua University Press. ">. 第六版. 清华大学出版社. </span>ISBN: 9787302712756. <time datetime="2026-05-01">2026-05-01</time>.</li>
-          <li>Stephen Prata. <em><a href="https://www.informit.com/store/c-primer-plus-9780321928429" target="_blank" rel="noopener">C Primer Plus</a></em><span data-en=". 6th edition. ">. 第六版（英文原版）. </span>Addison-Wesley Professional. ISBN: 9780321928429. <time datetime="2013-11-26">2013-11-26</time>.</li>
-        </ol>
+      <section class="course-information information-section" aria-labelledby="information-title">
+        <h2 id="information-title" data-en="Course Information">课程信息</h2>
+        <table class="information-table">
+          <caption class="visually-hidden" data-en="Lecture schedule and references">上课安排与参考书目</caption>
+          <colgroup><col class="information-label"><col></colgroup>
+          <tbody>
+            <tr>
+              <th scope="row" data-en="Lecture">上课安排</th>
+              <td>
+                <ul class="lecture-list">
+                  <li data-en="Mon, Periods 3–4, Weeks 1–17; Room 201, Building 106, Yuandong Area.">周一，第3–4节，第1–17周；园东区106栋201室。</li>
+                  <li data-en="Wed, Periods 3–4, Weeks 1–9; Room 201, Building 106, Yuandong Area.">周三，第3–4节，第1–9周；园东区106栋201室。</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row" data-en="References">参考书目</th>
+              <td>
+                <ul class="references-list">
+                  <li><span data-en="Haoqiang Tan. ">谭浩强. </span><span data-en="C Programming (C程序设计)">C程序设计</span><span data-en=". 6th edition. Tsinghua University Press. ">. 第六版. 清华大学出版社. </span><time datetime="2026-05-01">2026-05-01</time>.</li>
+                  <li>Stephen Prata. C Primer Plus<span data-en=". 6th edition (Chinese edition). ">. 第六版（中文版）. </span>Addison-Wesley Professional. <time datetime="2013-11-26">2013-11-26</time>.</li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </section>
 
       <section class="materials" aria-labelledby="materials-title">
@@ -95,33 +107,33 @@
             <!-- Copy a complete <tr> to add a chapter. Keep translations in data-en. -->
             <tr>
               <th scope="row"><span class="chapter-number">01</span><span data-en="Introduction to C">C语言概述</span></th>
-              <td><a href="materials/slides/lecture01.pdf" target="_blank" rel="noopener" aria-label="第1节 C语言概述：课件 PDF" data-label-en="Chapter 1, Introduction to C: slides PDF"><span data-en="Slides">课件</span> <span class="file-type">PDF</span></a></td>
-              <td><a href="materials/code/chapter01.c" download aria-label="第1节 C语言概述：下载代码" data-label-en="Chapter 1, Introduction to C: download code"><span data-en="Code">代码</span> <span class="file-type">C</span></a></td>
-              <td class="recordings"><a href="https://meeting.tencent.com/crm/KDap0oxV56" target="_blank" rel="noopener" data-en="Watch" aria-label="第1节 C语言概述：课堂回放" data-label-en="Chapter 1, Introduction to C: watch recording">回放</a></td>
+              <td><a href="materials/slides/lecture01.pdf" target="_blank" rel="noopener" aria-label="第1节 C语言概述：课件 PDF" data-label-en="Chapter 1, Introduction to C: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+              <td><a href="materials/code/chapter01.c" download aria-label="第1节 C语言概述：下载代码" data-label-en="Chapter 1, Introduction to C: download code"><span data-en="[code]">[代码]</span></a></td>
+              <td class="recordings"><a href="https://meeting.tencent.com/crm/KDap0oxV56" target="_blank" rel="noopener" data-en="[video]" aria-label="第1节 C语言概述：课堂回放" data-label-en="Chapter 1, Introduction to C: watch recording">[回放]</a></td>
             </tr>
             <tr>
               <th scope="row"><span class="chapter-number">02</span><span data-en="Variables and Constants">变量常量</span></th>
-              <td><a href="materials/slides/lecture02.pdf" target="_blank" rel="noopener" aria-label="第2节 变量常量：课件 PDF" data-label-en="Chapter 2, Variables and Constants: slides PDF"><span data-en="Slides">课件</span> <span class="file-type">PDF</span></a></td>
-              <td><a href="materials/code/chapter02.c" download aria-label="第2节 变量常量：下载代码" data-label-en="Chapter 2, Variables and Constants: download code"><span data-en="Code">代码</span> <span class="file-type">C</span></a></td>
-              <td class="recordings"><a href="https://meeting.tencent.com/crm/NLE8aLB6a0" target="_blank" rel="noopener" data-en="Watch" aria-label="第2节 变量常量：课堂回放" data-label-en="Chapter 2, Variables and Constants: watch recording">回放</a></td>
+              <td><a href="materials/slides/lecture02.pdf" target="_blank" rel="noopener" aria-label="第2节 变量常量：课件 PDF" data-label-en="Chapter 2, Variables and Constants: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+              <td><a href="materials/code/chapter02.c" download aria-label="第2节 变量常量：下载代码" data-label-en="Chapter 2, Variables and Constants: download code"><span data-en="[code]">[代码]</span></a></td>
+              <td class="recordings"><a href="https://meeting.tencent.com/crm/NLE8aLB6a0" target="_blank" rel="noopener" data-en="[video]" aria-label="第2节 变量常量：课堂回放" data-label-en="Chapter 2, Variables and Constants: watch recording">[回放]</a></td>
             </tr>
             <tr>
               <th scope="row"><span class="chapter-number">03</span><span data-en="Expressions">表达式</span></th>
-              <td><a href="materials/slides/lecture03.pdf" target="_blank" rel="noopener" aria-label="第3节 表达式：课件 PDF" data-label-en="Chapter 3, Expressions: slides PDF"><span data-en="Slides">课件</span> <span class="file-type">PDF</span></a></td>
-              <td><a href="materials/code/chapter03.c" download aria-label="第3节 表达式：下载代码" data-label-en="Chapter 3, Expressions: download code"><span data-en="Code">代码</span> <span class="file-type">C</span></a></td>
-              <td class="recordings"><a href="https://meeting.tencent.com/crm/2r6GLok517" target="_blank" rel="noopener" data-en="Part 1" aria-label="第3节 表达式：回放上" data-label-en="Chapter 3, Expressions: recording, part 1">上</a><span class="separator" aria-hidden="true">/</span><a href="https://meeting.tencent.com/crm/24pe4yDm67" target="_blank" rel="noopener" data-en="Part 2" aria-label="第3节 表达式：回放下" data-label-en="Chapter 3, Expressions: recording, part 2">下</a></td>
+              <td><a href="materials/slides/lecture03.pdf" target="_blank" rel="noopener" aria-label="第3节 表达式：课件 PDF" data-label-en="Chapter 3, Expressions: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+              <td><a href="materials/code/chapter03.c" download aria-label="第3节 表达式：下载代码" data-label-en="Chapter 3, Expressions: download code"><span data-en="[code]">[代码]</span></a></td>
+              <td class="recordings"><a href="https://meeting.tencent.com/crm/2r6GLok517" target="_blank" rel="noopener" data-en="[video 1]" aria-label="第3节 表达式：回放上" data-label-en="Chapter 3, Expressions: recording, part 1">[上]</a><a href="https://meeting.tencent.com/crm/24pe4yDm67" target="_blank" rel="noopener" data-en="[video 2]" aria-label="第3节 表达式：回放下" data-label-en="Chapter 3, Expressions: recording, part 2">[下]</a></td>
             </tr>
             <tr>
               <th scope="row"><span class="chapter-number">04</span><span data-en="Selection Structures">选择结构</span></th>
-              <td><a href="materials/slides/lecture04.pdf" target="_blank" rel="noopener" aria-label="第4节 选择结构：课件 PDF" data-label-en="Chapter 4, Selection Structures: slides PDF"><span data-en="Slides">课件</span> <span class="file-type">PDF</span></a></td>
-              <td><a href="materials/code/chapter04.c" download aria-label="第4节 选择结构：下载代码" data-label-en="Chapter 4, Selection Structures: download code"><span data-en="Code">代码</span> <span class="file-type">C</span></a></td>
-              <td class="recordings"><a href="https://meeting.tencent.com/crm/NgpQaRR758" target="_blank" rel="noopener" data-en="Part 1" aria-label="第4节 选择结构：条件控制回放上" data-label-en="Chapter 4, Selection Structures: conditional control, part 1">上</a><span class="separator" aria-hidden="true">/</span><a href="https://meeting.tencent.com/crm/NLEqBQv659" target="_blank" rel="noopener" data-en="Part 2" aria-label="第4节 选择结构：条件控制回放下" data-label-en="Chapter 4, Selection Structures: conditional control, part 2">下</a></td>
+              <td><a href="materials/slides/lecture04.pdf" target="_blank" rel="noopener" aria-label="第4节 选择结构：课件 PDF" data-label-en="Chapter 4, Selection Structures: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+              <td><a href="materials/code/chapter04.c" download aria-label="第4节 选择结构：下载代码" data-label-en="Chapter 4, Selection Structures: download code"><span data-en="[code]">[代码]</span></a></td>
+              <td class="recordings"><a href="https://meeting.tencent.com/crm/NgpQaRR758" target="_blank" rel="noopener" data-en="[video 1]" aria-label="第4节 选择结构：条件控制回放上" data-label-en="Chapter 4, Selection Structures: conditional control, part 1">[上]</a><a href="https://meeting.tencent.com/crm/NLEqBQv659" target="_blank" rel="noopener" data-en="[video 2]" aria-label="第4节 选择结构：条件控制回放下" data-label-en="Chapter 4, Selection Structures: conditional control, part 2">[下]</a></td>
             </tr>
             <tr>
               <th scope="row"><span class="chapter-number">05</span><span data-en="Loop Structures">循环结构</span></th>
-              <td><a href="materials/slides/lecture05.pdf" target="_blank" rel="noopener" aria-label="第5节 循环结构：课件 PDF" data-label-en="Chapter 5, Loop Structures: slides PDF"><span data-en="Slides">课件</span> <span class="file-type">PDF</span></a></td>
-              <td><a href="materials/code/chapter05.c" download aria-label="第5节 循环结构：下载代码" data-label-en="Chapter 5, Loop Structures: download code"><span data-en="Code">代码</span> <span class="file-type">C</span></a></td>
-              <td class="recordings"><a href="https://meeting.tencent.com/crm/l53ORPQZaa" target="_blank" rel="noopener" data-en="Part 1" aria-label="第5节 循环结构：循环控制回放上" data-label-en="Chapter 5, Loop Structures: loop control, part 1">上</a><span class="separator" aria-hidden="true">/</span><a href="https://meeting.tencent.com/crm/KmkM3naM6f" target="_blank" rel="noopener" data-en="Part 2" aria-label="第5节 循环结构：循环控制回放下" data-label-en="Chapter 5, Loop Structures: loop control, part 2">下</a></td>
+              <td><a href="materials/slides/lecture05.pdf" target="_blank" rel="noopener" aria-label="第5节 循环结构：课件 PDF" data-label-en="Chapter 5, Loop Structures: slides PDF"><span data-en="[slides]">[课件]</span></a></td>
+              <td><a href="materials/code/chapter05.c" download aria-label="第5节 循环结构：下载代码" data-label-en="Chapter 5, Loop Structures: download code"><span data-en="[code]">[代码]</span></a></td>
+              <td class="recordings"><a href="https://meeting.tencent.com/crm/l53ORPQZaa" target="_blank" rel="noopener" data-en="[video 1]" aria-label="第5节 循环结构：循环控制回放上" data-label-en="Chapter 5, Loop Structures: loop control, part 1">[上]</a><a href="https://meeting.tencent.com/crm/KmkM3naM6f" target="_blank" rel="noopener" data-en="[video 2]" aria-label="第5节 循环结构：循环控制回放下" data-label-en="Chapter 5, Loop Structures: loop control, part 2">[下]</a></td>
             </tr>
           </tbody>
         </table>

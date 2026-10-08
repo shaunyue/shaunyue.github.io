@@ -7,7 +7,7 @@
 ## 文件位置
 
 - `index.html`：课程简介、教学团队、上课安排、参考书目、5个章节资料以及中英文文本。
-- `style.css`：字体、绿色主题和手机布局。
+- `style.css`：字体、白底黑字、主页蓝色链接和手机布局。
 - `language.js`：语言切换、语言偏好记忆与分享链接。
 - `favicon.ico`：个人主页原有图标。
 - `materials/slides/lecture01.pdf` 至 `lecture05.pdf`：第1至5节课件。
@@ -22,7 +22,7 @@
 1. 将课件放入 `materials/slides/`，例如 `lecture06.pdf`；将代码放入 `materials/code/`，例如 `chapter06.c`。
 2. 在 `index.html` 的 `<table class="materials-table">` 下的 `<tbody>` 中复制一整行 `<tr>…</tr>`，修改章节编号、中文名称和 `data-en` 中的英文名称。注意不要复制教学团队表格的行。
 3. 修改课件和代码的 `href`。代码链接保留 `download`；课件和回放保留 `target="_blank" rel="noopener"`。
-4. 填入对应回放的完整网址。两段回放使用「上／下」和「Part 1／Part 2」；只有一段时复制第一节的回放单元格。
+4. 填入对应回放的完整网址。两段回放使用「[上] [下]」和「[video 1] [video 2]」，两条链接间隔10px；只有一段时使用「[回放]」和「[video]」，可复制第一节的回放单元格。
 5. 同时更新各链接的中文 `aria-label` 和英文 `data-label-en`，让屏幕阅读器读出正确章节和资料类型。
 
 还未提供的资料不要使用空地址或 `#` 占位链接，可用普通文字「待更新」。
@@ -39,22 +39,42 @@
 <span data-en="Expressions">表达式</span>
 ```
 
+课件标签为 `[课件]` / `[slides]`，代码标签为 `[代码]` / `[code]`，标签中的方括号也属于链接。网页不额外显示 PDF、C 后缀，回放之间不加斜杠。
+
 资料链接的辅助说明使用 `aria-label`（中文）和 `data-label-en`（英文）。页面标题位于 `<title>`；搜索描述的中文位于 `<meta name="description">`，英文位于 `language.js`。网页不会翻译附件或录像内容。
 
 首次访问默认中文。有效的 `?lang=zh` 或 `?lang=en` 优先于已保存的语言；未指定语言时使用浏览器保存的偏好。浏览器禁用存储时仍可切换，禁用 JavaScript 时仍可查看完整中文资料页。
 
 ## 更新课程信息
 
-页面按「课程名称与学期 → 简介 → 教学团队 → 上课安排 → 参考书目 → 课程资料」排列。英文对应 Course Staff、Lecture、References 和 Course Materials。
+页面按「课程名称与学期 → 简介 → 教学团队 → 课程信息 → 课程资料」排列。三张表分别为 Course Staff、Course Information 和 Course Materials；上课安排 Lecture 和参考书目 References 合并在 Course Information 中。
 
 - 教学团队位于 `staff-table`，姓名、职务及答疑时间的英文位于 `data-en`。更新邮箱时同时修改链接文字和 `mailto:` 地址。人员时间是 Office Hours，不是上课时间。
 - 上课安排位于 `lecture-list`。「第3–4节」对应英文 `Periods 3–4`，不换算为3–4点。周次分别为周一1–17周、周三1–9周。
-- 参考书目位于 `references-list`。书籍版本、ISBN和出版日期在两种语言下指向同一版本。C Primer Plus 使用 Stephen Prata 的英文原版第六版，Addison-Wesley Professional，ISBN 9780321928429，出版日期 2013-11-26；来源：https://www.informit.com/store/c-primer-plus-9780321928429 。
-- 课程资料表使用 `materials-table`，教学团队使用 `staff-table`。调整行距或手机布局时分别限定这些样式，避免互相影响。
+- 参考书目位于 `references-list`，不显示编号或 ISBN。书籍版本和出版日期在两种语言下指向同一版本。C Primer Plus 按课程指定书目显示 Stephen Prata 的第六版（中文版），Addison-Wesley Professional，出版日期 2013-11-26。英文页面对应显示 `6th edition (Chinese edition)`。
+- 课程资料表使用 `materials-table`，教学团队使用 `staff-table`，课程信息使用 `information-table`。三张表的表头、内容和链接统一使用正文的字号；正文为黑色，链接使用个人主页的蓝色 `#1a0dab`，不加下划线。页面顶部不显示横线，表格保留浅灰分隔线。调整行距或手机布局时分别限定这些样式，避免互相影响。
+- 教师姓名链接到 https://shaunyue.github.io/ 。书籍名称保持普通文本，不使用斜体或超链接。
+
+## 本地访问
+
+本地主页仓库位于 `/Users/shawn/Homepage/shaunyue.github.io/`，课程页位于其中的 `teaching/cse101/2026-fall/`。
+
+在终端运行以下命令即可预览完整个人主页和课程页，保存文件后会自动更新：
+
+```sh
+cd /Users/shawn/Homepage/shaunyue.github.io
+bundle exec jekyll serve --host 127.0.0.1 --port 4000
+```
+
+课程页：http://127.0.0.1:4000/teaching/cse101/2026-fall/
+
+英文版：http://127.0.0.1:4000/teaching/cse101/2026-fall/?lang=en
+
+按 `Control+C` 停止预览。下次需要本地访问时再次运行上面的命令。此预览仅监听本机地址。
 
 ## 发布与检查
 
-本文件夹在个人主页仓库中的位置为 `teaching/cse101/2026-fall/`。仓库沿用现有 GitHub Pages 设置：从 `master` 分支根目录发布。主页 `_pages/homepage.md` 的 Teaching 条目将 Fall 2026 链接到该目录。
+本文件夹在个人主页仓库中的位置为 `teaching/cse101/2026-fall/`。仓库沿用现有 GitHub Pages 设置：从 `master` 分支根目录发布。主页 `_pages/homepage.md` 的 Teaching 使用 `teaching-list` 两行列表：第一行是普通字重的课程名，第二行是课程层次与学期。程序设计显示 `Undergraduate Course, Fall 2025 / Fall 2026`，其中 `Fall 2026` 链接到该目录；人工智能显示 `Graduate Course, Spring 2025`；条目间隔12px。样式位于主页 `assets/css/main.css`，两行沿用正文的字号与字体，手机端自然换行。
 
 每次更新后检查：
 
