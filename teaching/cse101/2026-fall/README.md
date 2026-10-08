@@ -47,7 +47,7 @@
 
 ## 更新课程信息
 
-页面按「课程名称与学期 → 简介 → 教学团队 → 课程信息 → 课程资料」排列。三张表分别为 Course Staff、Course Information 和 Course Materials；上课安排 Lecture 和参考书目 References 合并在 Course Information 中。
+页面按「课程名称与学期 → 简介 → 教学团队 → 课程信息 → 课程资料」排列。三张表分别为 Course Staff、Information 和 Materials；上课安排 Lecture 和参考书目 References 合并在 Information 中。
 
 - 教学团队位于 `staff-table`，姓名、职务及答疑时间的英文位于 `data-en`。更新邮箱时同时修改链接文字和 `mailto:` 地址。人员时间是 Office Hours，不是上课时间。
 - 上课安排位于 `lecture-list`。「第3–4节」对应英文 `Periods 3–4`，不换算为3–4点。周次分别为周一1–17周、周三1–9周。
