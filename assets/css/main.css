@@ -212,7 +212,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .publication-list > li {
   color: #000;
   padding: 12px 0 14px;
-  font-size: 14.5px;
+  font-size: 15px;
   line-height: 1.6;
 }
 .publication-list > li:first-child { padding-top: 0; }
@@ -232,8 +232,8 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .grant-list { display: grid; grid-template-columns: max-content minmax(0, 1fr); column-gap: 22px; }
 .grant-list dt, .grant-list dd { padding: 17px 0; border-top: 1px solid var(--border); line-height: 1.6; }
 .grant-list dt:first-child, .grant-list dt:first-child + dd { padding-top: 0; border-top: 0; }
-.grant-list dt { color: var(--muted); font-size: 14px; font-weight: 400; line-height: 23.2px; letter-spacing: .045em; }
-.grant-list dd { margin: 0; color: var(--muted); font-size: 14.5px; }
+.grant-list dt { color: var(--muted); font-size: 14px; font-weight: 400; line-height: 24px; letter-spacing: .045em; }
+.grant-list dd { margin: 0; color: var(--muted); font-size: 15px; }
 .grant-list dd > strong:first-child { color: var(--muted); font-weight: 400; line-height: 1.6; }
 .grant-list dd > strong:nth-of-type(2) { color: var(--heading); font-size: 16px; font-weight: 400; line-height: 1.5; }
 .grant-list dd > em:last-child { font-style: normal; }
