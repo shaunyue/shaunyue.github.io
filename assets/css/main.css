@@ -46,14 +46,18 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
 }
-.nav {
-  max-width: 1152px;
-  min-height: 66px;
+.nav, .layout {
+  max-width: 1180px;
   margin: 0 auto;
+  display: grid;
+  grid-template-columns: 220px minmax(0, 820px);
+  column-gap: 64px;
+  justify-content: center;
+}
+.nav {
+  min-height: 66px;
   padding: 0 24px;
-  display: flex;
   align-items: center;
-  gap: 24px;
 }
 .brand, .brand:visited {
   color: var(--heading);
@@ -64,11 +68,10 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   white-space: nowrap;
 }
 .nav-links {
-  margin-left: auto;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: flex-start;
   gap: 8px 26px;
 }
 .nav-links a, .nav-links a:visited {
@@ -81,13 +84,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .nav-links a:hover { color: var(--heading); }
 
 .layout {
-  max-width: 1180px;
-  margin: 0 auto;
   padding: 56px 24px 88px;
-  display: grid;
-  grid-template-columns: 220px minmax(0, 820px);
-  gap: 64px;
-  justify-content: center;
   align-items: start;
 }
 .sidebar {
@@ -260,7 +257,11 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 footer { max-width: 1180px; margin: 0 auto; padding: 0 24px 42px; color: var(--muted); font-size: 12.5px; }
 
 @media (max-width: 940px) {
-  .layout { grid-template-columns: minmax(0, 1fr); gap: 34px; padding-top: 36px; }
+  html { scroll-padding-top: 120px; }
+  .nav, .layout { grid-template-columns: minmax(0, 1fr); }
+  .nav { padding-top: 12px; padding-bottom: 12px; row-gap: 8px; }
+  .nav-links { gap: 8px 18px; }
+  .layout { row-gap: 34px; padding-top: 36px; }
   .sidebar {
     position: static;
     display: grid;
@@ -271,11 +272,6 @@ footer { max-width: 1180px; margin: 0 auto; padding: 0 24px 42px; color: var(--m
   .avatar-wrap { grid-row: span 3; width: 132px; height: 132px; margin-bottom: 0; }
   .meta { margin-top: 12px; padding-top: 12px; }
   .profile-links { margin-top: 10px; }
-}
-@media (max-width: 800px) {
-  html { scroll-padding-top: 120px; }
-  .nav { padding-top: 12px; padding-bottom: 12px; flex-wrap: wrap; }
-  .nav-links { width: 100%; margin-left: 0; justify-content: flex-start; gap: 8px 18px; }
 }
 @media (max-width: 720px) {
   html { scroll-padding-top: 160px; }
