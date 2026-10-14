@@ -1,106 +1,111 @@
-# 程序设计 I · 2026年秋季
+# 程序设计 I · Fall 2026
 
-公开网址：https://shaunyue.github.io/teaching/cse101/2026-fall/
+课程主页：https://shaunyue.github.io/teaching/cse101/2026-fall/
 
-本文件夹包含完整课程页和全部课程资料。使用静态 HTML、CSS 和 JavaScript，无需安装依赖或构建。双击 `index.html` 即可本地查看，也可将整个文件夹复制到任意静态网站。
+## 平时更新只需三步
 
-## 文件位置
+1. 将课件 PDF 放入 `materials/slides/`，将主示例 `.c` 文件放入 `materials/code/`。
+2. 在 **materials.json** 中复制一节的配置，修改章节编号、中英文名称、文件名及回放地址。
+3. 运行更新命令，刷新本地预览，检查后提交发布。
 
-- `index.html`：课程简介、教学团队、上课安排、参考书目、6个章节资料以及中英文文本。
-- `style.css`：字体、白底黑字、主页蓝色链接和手机布局。
-- `language.js`：语言切换、语言偏好记忆与分享链接。
-- `favicon.ico`：个人主页原有图标。
-- `materials/slides/lecture01.pdf` 至 `lecture06.pdf`：第1至6节课件。
-- `materials/code/chapter01.c` 至 `chapter06.c`：原始示例代码。
-- `materials/course/course-introduction.doc`：原始课程简介。
-- `materials/course/syllabus.doc`：原始课程教学大纲。
+**资料表只在 materials.json 中维护。不要手动编辑 index.html 的资料行，下一次更新命令会覆盖这些行。**
+保存配置本身不会更新网页；需要运行一次下面的命令。配置有错误或所填写的文件不存在时，程序会提示位置或原因，并保留原网页。
 
-两份课程说明文档仅归档，不在资料页增加入口。课件、代码和文档均与提供的原文件一致。回放保留腾讯会议原链接，访问要求由腾讯会议管理。
+## 配置怎么填写
 
-## 添加章节
+配置最外层是 `[...]`，每节用一个 `{...}` 表示，按文件中的顺序展示。第7节可复制为：
 
-1. 将课件放入 `materials/slides/`，例如 `lecture07.pdf`；将代码放入 `materials/code/`，例如 `chapter07.c`。
-2. 在 `index.html` 的 `<table class="materials-table">` 下的 `<tbody>` 中复制一整行 `<tr>…</tr>`，修改章节编号、中文名称和 `data-en` 中的英文名称。注意不要复制教学团队表格的行。
-3. 修改课件和代码的 `href`。代码链接保留 `download`；课件和回放保留 `target="_blank" rel="noopener"`。
-4. 填入对应回放的完整网址。两段回放使用「[上] [下]」和「[video 1] [video 2]」；三段回放使用「[上] [中] [下]」和「[video 1] [video 2] [video 3]」。相邻链接间隔10px，单元格允许换行，每个链接保持整体；只有一段时使用「[回放]」和「[video]」，可复制第一节的回放单元格。
-5. 同时更新各链接的中文 `aria-label` 和英文 `data-label-en`，让屏幕阅读器读出正确章节和资料类型。
-
-还未提供的资料不要使用空地址或 `#` 占位链接，可用普通文字「待更新」。
-
-## 替换已有课件或代码
-
-直接替换相同文件名即可，网页链接无需更改。若更改文件名，需同步修改 `index.html` 中的 `href`。只上传 `.c` 源码，不需要可执行文件、调试文件或编辑器临时文件。
-
-## 修改中英文
-
-`index.html` 中的可见文字是中文，紧邻的 `data-en="…"` 是对应英文。例如：
-
-```html
-<span data-en="Expressions">表达式</span>
+```json
+{
+  "number": 7,
+  "zh": "数组",
+  "en": "Arrays",
+  "slides": "lecture07.pdf",
+  "code": "chapter07.c",
+  "videos": []
+}
 ```
 
-课件标签为 `[课件]` / `[slides]`，代码标签为 `[代码]` / `[code]`，标签中的方括号也属于链接。网页不额外显示 PDF、C 后缀，回放之间不加斜杠。
+| 字段 | 如何填写 |
+|---|---|
+| `number` | 正整数，如 `7`；网页自动显示为 `07`。不要重复编号，也不要写数字 `07`。 |
+| `zh` | 中文章节名称。 |
+| `en` | 英文章节名称。 |
+| `slides` | PDF文件名，不包含路径；没有课件时填 `""` 或省略该字段。 |
+| `code` | `.c` 文件名，不包含路径；没有代码时填 `""` 或省略该字段。 |
+| `videos` | 按播放顺序填写完整 HTTPS 网址；没有回放时填 `[]` 或省略该字段。 |
 
-资料链接的辅助说明使用 `aria-label`（中文）和 `data-label-en`（英文）。页面标题位于 `<title>`；搜索描述的中文位于 `<meta name="description">`，英文位于 `language.js`。网页不会翻译附件或录像内容。
+追加一节时，记得在上一节的 `}` 后加逗号；最后一节后不加逗号。JSON 不支持注释。文件名的大小写需与实际文件一致。例子仅供复制格式，不会自动发布第7节；相应文件需先放入指定目录。
 
-首次访问默认中文。有效的 `?lang=zh` 或 `?lang=en` 优先于已保存的语言；未指定语言时使用浏览器保存的偏好。浏览器禁用存储时仍可切换，禁用 JavaScript 时仍可查看完整中文资料页。
+回放标签自动生成，无需填写中英文标签或辅助说明：
 
-## 更新课程信息
+| 回放数量 | 中文标签 | 英文标签 |
+|---|---|---|
+| 1段 | `[回放]` | `[video]` |
+| 2段 | `[上]` `[下]` | `[video 1]` `[video 2]` |
+| 3段 | `[上]` `[中]` `[下]` | `[video 1]` `[video 2]` `[video 3]` |
+| 4段及以上 | `[回放1]` `[回放2]` … | `[video 1]` `[video 2]` … |
 
-页面按「课程名称与学期 → 简介 → 教学团队 → 课程信息 → 课程资料」排列。三张表分别为 Course Staff、Information 和 Materials；上课安排 Lecture 和参考书目 References 合并在 Information 中。
+保留腾讯会议提供的完整网址，`/crm/` 和 `/ctm/` 均原样填写，不自行拼接或修改路径。课件标签自动为 `[课件]` / `[slides]`，代码标签自动为 `[代码]` / `[code]`；代码保留下载行为，课件和回放在新标签打开。
 
-- 教学团队位于 `staff-table`，姓名、职务及答疑时间的英文位于 `data-en`。更新邮箱时同时修改链接文字和 `mailto:` 地址。人员时间是 Office Hours，不是上课时间。
-- 上课安排位于 `lecture-list`。「第3–4节」对应英文 `Periods 3–4`，不换算为3–4点。周次分别为周一1–17周、周三1–9周。
-- 参考书目位于 `references-list`，不显示编号、ISBN或出版日期。谭浩强的 C程序设计采用第六版，清华大学出版社；C Primer Plus 按课程指定书目显示 Stephen Prata 的第六版（中文版），Addison-Wesley Professional。英文页面对应显示 `6th edition (Chinese edition)`，中英文版本保持一致。
-- 课程资料表使用 `materials-table`，教学团队使用 `staff-table`，课程信息使用 `information-table`。三张表的表头、内容和链接统一使用正文的字号；正文为黑色，链接使用个人主页的蓝色 `#1a0dab`，不加下划线。页面顶部不显示横线，表格保留浅灰分隔线。调整行距或手机布局时分别限定这些样式，避免互相影响。
-- 教师姓名链接到 https://shaunyue.github.io/ 。书籍名称保持普通文本，不使用斜体或超链接。
+## 更新网页与发布
 
-## 本地访问
+在个人主页仓库根目录执行：
 
-本地主页仓库位于 `/Users/shawn/Homepage/shaunyue.github.io/`，课程页位于其中的 `teaching/cse101/2026-fall/`。
+```sh
+cd /Users/shawn/Homepage/shaunyue.github.io
+python3 teaching/cse101/2026-fall/update_materials.py
+```
 
-在终端运行以下命令即可预览完整个人主页和课程页，保存文件后会自动更新：
+更新命令仅修改课程资料表，不改变页面其他区块、样式、附件内容或2025课程。它会显示当前章节数和资料链接数。只替换相同文件名的附件时，链接无需修改。
+
+检查配置和网页是否同步（不会写入文件）：
+
+```sh
+python3 teaching/cse101/2026-fall/update_materials.py --check
+```
+
+本地预览：http://127.0.0.1:4000/teaching/cse101/2026-fall/
+
+如果预览服务没有运行，在另一个终端启动：
 
 ```sh
 cd /Users/shawn/Homepage/shaunyue.github.io
 bundle exec jekyll serve --host 127.0.0.1 --port 4000
 ```
 
-课程页：http://127.0.0.1:4000/teaching/cse101/2026-fall/
+保存配置并运行更新命令后，已有预览服务会重新生成页面。按 `Control+C` 停止预览服务。
 
-英文版：http://127.0.0.1:4000/teaching/cse101/2026-fall/?lang=en
+检查通过后发布（包括配置与生成后的 HTML）：
 
-按 `Control+C` 停止预览。下次需要本地访问时再次运行上面的命令。此预览仅监听本机地址。
-
-## 发布与检查
-
-本文件夹在个人主页仓库中的位置为 `teaching/cse101/2026-fall/`。仓库沿用现有 GitHub Pages 设置：从 `master` 分支根目录发布。主页 `_pages/homepage.md` 的 Teaching 使用普通 Markdown 列表：课程名称行末加 `\` 换行，下一行填写课程层次与学期。程序设计显示 `Undergraduate Course, Fall 2025 / Fall 2026`，其中 `Fall 2026` 链接到该目录；人工智能显示 `Graduate Course, Spring 2025`；条目间隔12px。样式位于主页 `assets/css/main.css`，通过 `#teaching + ul` 自动作用于 Teaching 标题后的列表。两行沿用正文的字号与字体，手机端自然换行。新增课程只需复制两行 Markdown，无需 HTML 或附加样式标记。
-
-```markdown
-- CSE101: Computer Programming I\
-  Undergraduate Course, Fall 2025 / [Fall 2026](/teaching/cse101/2026-fall/)
-- DCS5001: Introduction to Artificial Intelligence\
-  Graduate Course, Spring 2025
+```sh
+git add -- teaching/cse101/2026-fall
+git commit -m "Update course materials"
+git -c credential.helper= -c 'credential.helper=!gh auth git-credential' push https://github.com/shaunyue/shaunyue.github.io.git master
 ```
 
-每次更新后检查：
+GitHub Pages 沿用 `master` 分支根目录发布，不在服务器上运行 Python。每次修改配置后务必先运行更新命令。发布完成后检查线上新资料；若浏览器仍显示旧内容，可用 `Command+Shift+R` 强制刷新。
 
-1. 中英文的标题、简介、章节和资料标签均正确；切换后刷新仍保持所选语言。
-2. 每个 PDF、代码及回放均对应同一章节；课程材料表共有6章、23个资料链接。分别核对三名团队成员的姓名、邮箱、答疑时间和两条上课安排。
-3. 手机和桌面显示完整，200% 放大后没有遮挡。
-4. 发布后检查线上文件，而非只检查本地副本；腾讯会议可能要求登录。
+## 文件与页面说明
 
-## 当前回放对应关系
+- `materials.json`：章节资料的唯一配置来源。
+- `update_materials.py`：只使用 Python 3 标准库，校验配置并生成静态资料表。
+- `test_update_materials.py`：更新程序的检查，涵盖回放标签、内容转义、错误配置及重复更新。
+- `index.html`：已生成的静态网页；课程简介、教学团队、上课安排和参考书目仍在这里编辑。
+- `style.css`：既有的白底黑字、蓝色链接、表格及手机布局。
+- `language.js`：双语切换、语言偏好记忆与 `?lang=zh` / `?lang=en`。
+- `favicon.ico`：课程图标。
+- `materials/slides/`、`materials/code/`：原始课件和主示例代码。
+- `materials/course/`：两份课程说明文档，仅归档保存。
 
-| 章节 | 回放 |
-| --- | --- |
-| 1 C语言概述 | `KDap0oxV56` |
-| 2 变量常量 | `NLE8aLB6a0` |
-| 3 表达式 | 上 `2r6GLok517`；下 `24pe4yDm67` |
-| 4 选择结构 | 条件控制上 `NgpQaRR758`；下 `NLEqBQv659` |
-| 5 循环结构 | 循环控制上 `l53ORPQZaa`；下 `KmkM3naM6f` |
-| 6 函数 | [上](https://meeting.tencent.com/crm/KmkO9Zz616)；[中](https://meeting.tencent.com/crm/2Br7Akybb0)；[下](https://meeting.tencent.com/ctm/lJYM48y9f4) |
+整个课程文件夹仍可独立复制或直接双击 index.html 查看；更新完成的静态资料表无需 JavaScript 即可阅读中文。没有新增前端框架或第三方依赖。
 
-第1–5节及第6节上、中段使用 `https://meeting.tencent.com/crm/`；第6节下段使用 `https://meeting.tencent.com/ctm/`，维护时保留提供的完整网址。章节编号以已提供课件为准，与原始大纲中的章节安排分别保留。
+在课程目录内运行程序检查：
 
-第6节使用用户导出的77页原始 PDF 与主示例 `chapter06.c`；不收录练习、补充源码或交互演示。
+```sh
+python3 -B -m unittest test_update_materials.py
+```
+
+当前第6节使用用户导出的77页 PDF 与原始 chapter06.c。课件、代码与课程说明文档保留原内容；回放访问和播放权限由腾讯会议管理。
+
+每次更新后核对新章节中英文、全部链接、下载文件名、回放顺序、手机布局及200%放大；保留课程信息表格的完整上边线。维护后的课程副本和ZIP也应从实际课程目录重新复制和打包。

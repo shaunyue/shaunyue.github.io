@@ -1,0 +1,67 @@
+[
+  {
+    "number": 1,
+    "zh": "C语言概述",
+    "en": "Introduction to C",
+    "slides": "lecture01.pdf",
+    "code": "chapter01.c",
+    "videos": [
+      "https://meeting.tencent.com/crm/KDap0oxV56"
+    ]
+  },
+  {
+    "number": 2,
+    "zh": "变量常量",
+    "en": "Variables and Constants",
+    "slides": "lecture02.pdf",
+    "code": "chapter02.c",
+    "videos": [
+      "https://meeting.tencent.com/crm/NLE8aLB6a0"
+    ]
+  },
+  {
+    "number": 3,
+    "zh": "表达式",
+    "en": "Expressions",
+    "slides": "lecture03.pdf",
+    "code": "chapter03.c",
+    "videos": [
+      "https://meeting.tencent.com/crm/2r6GLok517",
+      "https://meeting.tencent.com/crm/24pe4yDm67"
+    ]
+  },
+  {
+    "number": 4,
+    "zh": "选择结构",
+    "en": "Selection Structures",
+    "slides": "lecture04.pdf",
+    "code": "chapter04.c",
+    "videos": [
+      "https://meeting.tencent.com/crm/NgpQaRR758",
+      "https://meeting.tencent.com/crm/NLEqBQv659"
+    ]
+  },
+  {
+    "number": 5,
+    "zh": "循环结构",
+    "en": "Loop Structures",
+    "slides": "lecture05.pdf",
+    "code": "chapter05.c",
+    "videos": [
+      "https://meeting.tencent.com/crm/l53ORPQZaa",
+      "https://meeting.tencent.com/crm/KmkM3naM6f"
+    ]
+  },
+  {
+    "number": 6,
+    "zh": "函数",
+    "en": "Functions",
+    "slides": "lecture06.pdf",
+    "code": "chapter06.c",
+    "videos": [
+      "https://meeting.tencent.com/crm/KmkO9Zz616",
+      "https://meeting.tencent.com/crm/2Br7Akybb0",
+      "https://meeting.tencent.com/ctm/lJYM48y9f4"
+    ]
+  }
+]
