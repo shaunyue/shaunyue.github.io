@@ -63,5 +63,15 @@
       "https://meeting.tencent.com/crm/2Br7Akybb0",
       "https://meeting.tencent.com/ctm/lJYM48y9f4"
     ]
+  },
+  {
+    "number": 7,
+    "zh": "数组",
+    "en": "Arrays",
+    "slides": "lecture07.pdf",
+    "code": "chapter07.c",
+    "videos": [
+      "https://meeting.tencent.com/ctm/KP6k0Jae97"
+    ]
   }
 ]
