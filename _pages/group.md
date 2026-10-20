@@ -21,8 +21,8 @@ Meet the students in our group.
     <img class="member-photo" src="{{ portrait | relative_url }}" alt="Portrait of {{ member.name | escape }}" width="88" height="88" loading="lazy">
     <div>
       <h4 class="member-name">{{ member.name | escape }}</h4>
-      {% if member.cohort %}<p class="member-detail">Cohort {{ member.cohort }}</p>{% endif %}
       {% if member.joined %}<p class="member-detail">Joined {{ member.joined }}</p>{% endif %}
+      {% if member.email %}<p class="member-detail"><a href="mailto:{{ member.email | escape }}" aria-label="Email {{ member.name | escape }}">Email</a></p>{% endif %}
     </div>
   </article>
 {% endfor %}
