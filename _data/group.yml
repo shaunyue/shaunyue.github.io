@@ -36,8 +36,17 @@ groups:
       - name: Yiding Wang
         joined: Sep 2025
         gender: female
-        photo: /images/students/yiding-wang.jpg
+        photo: /images/students/yiding-wang-white.png
       - name: Yong Lei
         joined: Dec 2025
         gender: male
         photo: /images/students/yong-lei.jpg
+      - name: Jing Ping
+        joined: Jun 2026
+        photo: /images/students/jing-ping.png
+      - name: Xiaohan Xu
+        joined: Jun 2026
+        photo: /images/students/xiaohan-xu.jpg
+      - name: Zichao Lin
+        joined: Sep 2026
+        photo: /images/students/zichao-lin.jpg
