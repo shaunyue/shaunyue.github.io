@@ -41,12 +41,12 @@ groups:
         joined: Dec 2025
         gender: male
         photo: /images/students/yong-lei.jpg
-      - name: Jing Ping
-        joined: Jun 2026
-        photo: /images/students/jing-ping.png
-      - name: Xiaohan Xu
-        joined: Jun 2026
-        photo: /images/students/xiaohan-xu.jpg
       - name: Zichao Lin
         joined: Sep 2026
         photo: /images/students/zichao-lin.jpg
+      - name: Xiaohan Xu
+        joined: Jun 2026
+        photo: /images/students/xiaohan-xu.jpg
+      - name: Jing Ping
+        joined: Jun 2026
+        photo: /images/students/jing-ping.png
