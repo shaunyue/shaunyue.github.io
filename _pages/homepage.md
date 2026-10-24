@@ -275,7 +275,7 @@ Jan 2026
 
 ### Academic Service
 
-- Young Editorial Board Member, [Chinese Journal of Electronics](https://cje.ejournal.org.cn)
+- Area Editor, [Chinese Journal of Electronics](https://cje.ejournal.org.cn)
 - Executive Committee Member, [CCF Technical Committee on IoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/2020-01-07/685340.shtml)
 - Area Chair, [ICLR 2026](https://iclr.cc/Conferences/2026/)
 - Co-Chair, Edge Intelligence Track, [ICPADS 2026](https://www.cloud-conf.net/icpads2026/index.html)
