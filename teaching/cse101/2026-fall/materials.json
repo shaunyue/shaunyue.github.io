@@ -71,7 +71,8 @@
     "slides": "lecture07.pdf",
     "code": "chapter07.c",
     "videos": [
-      "https://meeting.tencent.com/ctm/KP6k0Jae97"
+      "https://meeting.tencent.com/ctm/KP6k0Jae97",
+      "https://meeting.tencent.com/crm/l5G0ynvp14"
     ],
     "exercises": "lecture07-exercises.pdf"
   },
@@ -82,6 +83,9 @@
     "slides": "lecture08.pdf",
     "exercises": "lecture08-exercises.pdf",
     "code": "chapter08.c",
-    "videos": []
+    "videos": [
+      "https://meeting.tencent.com/crm/l5GO8P8b55",
+      "https://meeting.tencent.com/crm/Kw01VXZ4f9"
+    ]
   }
 ]

@@ -23,7 +23,10 @@
   "slides": "lecture07.pdf",
   "exercises": "lecture07-exercises.pdf",
   "code": "chapter07.c",
-  "videos": ["https://meeting.tencent.com/ctm/KP6k0Jae97"]
+  "videos": [
+    "https://meeting.tencent.com/ctm/KP6k0Jae97",
+    "https://meeting.tencent.com/crm/l5G0ynvp14"
+  ]
 }
 ```
 
@@ -108,7 +111,10 @@ GitHub Pages 沿用 `master` 分支根目录发布，不在服务器上运行 Py
 python3 -B -m unittest test_update_materials.py
 ```
 
-当前共有8章、30个资料链接：第1–8节主课件和主示例代码、第7–8节练习课件，以及第1–7节回放。第8节暂无回放，配置中的 `videos` 保持 `[]`，取得地址后填写即可。
+当前共有8章、33个资料链接：第1–8节主课件、主示例代码和回放，以及第7–8节练习课件。
+
+- 第7节数组：上 https://meeting.tencent.com/ctm/KP6k0Jae97；下（数组练习）https://meeting.tencent.com/crm/l5G0ynvp14。
+- 第8节数组与指针：上 https://meeting.tencent.com/crm/l5GO8P8b55；下（指针练习）https://meeting.tencent.com/crm/Kw01VXZ4f9。
 
 第7节补充课件为 `lecture07-exercises.pdf`（24页）；第8节主课件为 `lecture08.pdf`（39页），练习课件为 `lecture08-exercises.pdf`（32页），主示例代码为 `chapter08.c`。第8节主课件封面保留原件的“2025年秋季”字样，网页归入2026课程。课件、代码与课程说明文档保留原内容；回放访问和播放权限由腾讯会议管理。
 
