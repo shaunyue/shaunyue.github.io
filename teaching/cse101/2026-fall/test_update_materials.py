@@ -50,7 +50,12 @@ class MaterialsTest(unittest.TestCase):
                    [{**self.chapter, 'videos': ['javascript:alert(1)']}],
                    [{**self.chapter, 'slides': '../lecture07.pdf'}],
                    [{**self.chapter, 'slides': 'missing.pdf'}],
-                   [{**self.chapter, 'slides': 'Lecture07.pdf'}]]
+                   [{**self.chapter, 'slides': 'Lecture07.pdf'}],
+                   [{**self.chapter, 'exercises': '../lecture07.pdf'}],
+                   [{**self.chapter, 'exercises': 'missing.pdf'}],
+                   [{**self.chapter, 'exercises': 'Lecture07.pdf'}],
+                   [{**self.chapter, 'exercises': 'exercise.c'}],
+                   [{**self.chapter, 'exercises': []}]]
         for chapters in invalid:
             (self.folder / 'materials.json').write_text(json.dumps(chapters))
             with self.assertRaises(ValueError):
@@ -60,6 +65,27 @@ class MaterialsTest(unittest.TestCase):
         with self.assertRaises(json.JSONDecodeError):
             update(self.folder)
         self.assertEqual(index.read_text(), original)
+
+    def test_exercises_share_slides_cell_and_are_optional(self):
+        slides = self.folder / 'materials/slides'
+        slides.mkdir(parents=True)
+        (slides / 'lecture07.pdf').write_text('main slides unchanged')
+        (slides / 'lecture07-exercises.pdf').write_text('exercise slides unchanged')
+        row, links = render_rows([{**self.chapter, 'slides': 'lecture07.pdf',
+                                  'exercises': 'lecture07-exercises.pdf'}], self.folder)
+        self.assertEqual(links, 2)
+        slides_cell = row.split('<td class="slides">')[1].split('</td>')[0]
+        self.assertIn('href="materials/slides/lecture07.pdf"', slides_cell)
+        self.assertIn('href="materials/slides/lecture07-exercises.pdf"', slides_cell)
+        self.assertIn('data-en="[exercises]">[练习]</span>', slides_cell)
+        self.assertIn('data-label-en="Chapter 7, Arrays: exercise slides PDF"', slides_cell)
+        self.assertIn('target="_blank" rel="noopener"', slides_cell)
+        self.assertNotIn(' download', slides_cell)
+        self.assertEqual(row.count('<td'), 3)
+        without, _ = render_rows([{**self.chapter, 'slides': 'lecture07.pdf'}], self.folder)
+        empty, _ = render_rows([{**self.chapter, 'slides': 'lecture07.pdf', 'exercises': ''}], self.folder)
+        self.assertEqual(without, empty)
+        self.assertNotIn('[exercises]', without)
 
     def test_generation_is_repeatable_and_check_is_read_only(self):
         index = self.folder / 'index.html'

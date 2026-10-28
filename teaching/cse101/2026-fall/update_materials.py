@@ -27,7 +27,7 @@ def render_rows(chapters, folder):
     for chapter in chapters:
         if not isinstance(chapter, dict):
             raise ValueError('每个章节应为一个对象 {...}。')
-        unknown = set(chapter) - {'number', 'zh', 'en', 'slides', 'code', 'videos'}
+        unknown = set(chapter) - {'number', 'zh', 'en', 'slides', 'exercises', 'code', 'videos'}
         if unknown:
             raise ValueError(f'未知字段：{", ".join(sorted(unknown))}。')
         number = chapter.get('number')
@@ -41,26 +41,26 @@ def render_rows(chapters, folder):
                 raise ValueError(f'第{number}节缺少 {language} 章节名称。')
         zh, en = chapter['zh'], chapter['en']
         prefix_zh, prefix_en = f'第{number}节 {zh}：', f'Chapter {number}, {en}: '
-        cells = []
-        for field, directory, extension, label_zh, description_zh, description_en in [
-            ('slides', 'slides', '.pdf', '[课件]', '课件 PDF', 'slides PDF'),
-            ('code', 'code', '.c', '[代码]', '下载代码', 'download code'),
+        cells = {}
+        for field, directory, extension, label_zh, label_en, description_zh, description_en in [
+            ('slides', 'slides', '.pdf', '[课件]', '[slides]', '课件 PDF', 'slides PDF'),
+            ('exercises', 'slides', '.pdf', '[练习]', '[exercises]', '练习课件 PDF', 'exercise slides PDF'),
+            ('code', 'code', '.c', '[代码]', '[code]', '下载代码', 'download code'),
         ]:
             filename = chapter.get(field, '')
             if not isinstance(filename, str):
                 raise ValueError(f'第{number}节的 {field} 应为文件名或空字符串。')
             if not filename:
-                cells.append('')
+                cells[field] = ''
                 continue
             if '/' in filename or '\\' in filename or Path(filename).suffix.lower() != extension:
                 raise ValueError(f'第{number}节的 {field} 只填写 {extension} 文件名，不填写路径。')
             relative = f'materials/{directory}/{filename}'
             if not (folder / relative).is_file() or filename not in {p.name for p in (folder / 'materials' / directory).iterdir()}:
                 raise ValueError(f'第{number}节文件不存在或文件名大小写不一致：{relative}')
-            cells.append(material_link(f'materials/{directory}/{quote(filename)}', label_zh,
-                                       '[slides]' if field == 'slides' else '[code]',
-                                       prefix_zh + description_zh, prefix_en + description_en,
-                                       download=field == 'code'))
+            cells[field] = material_link(f'materials/{directory}/{quote(filename)}', label_zh, label_en,
+                                         prefix_zh + description_zh, prefix_en + description_en,
+                                         download=field == 'code')
             link_count += 1
         videos = chapter.get('videos', [])
         if not isinstance(videos, list):
@@ -83,10 +83,11 @@ def render_rows(chapters, folder):
             video_links.append(material_link(url, labels[0], labels[1],
                                              prefix_zh + labels[2], prefix_en + labels[3]))
         link_count += len(video_links)
+        slides_class = ' class="slides"' if cells['exercises'] else ''
         rows.append(f'''            <tr>
               <th scope="row"><span class="chapter-number">{number:02d}</span>{translated(zh, en)}</th>
-              <td>{cells[0]}</td>
-              <td>{cells[1]}</td>
+              <td{slides_class}>{cells['slides']}{cells['exercises']}</td>
+              <td>{cells['code']}</td>
               <td class="recordings">{''.join(video_links)}</td>
             </tr>''')
     return '\n'.join(rows), link_count

@@ -72,6 +72,16 @@
     "code": "chapter07.c",
     "videos": [
       "https://meeting.tencent.com/ctm/KP6k0Jae97"
-    ]
+    ],
+    "exercises": "lecture07-exercises.pdf"
+  },
+  {
+    "number": 8,
+    "zh": "数组与指针",
+    "en": "Arrays and Pointers",
+    "slides": "lecture08.pdf",
+    "exercises": "lecture08-exercises.pdf",
+    "code": "chapter08.c",
+    "videos": []
   }
 ]
