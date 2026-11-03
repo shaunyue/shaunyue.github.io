@@ -102,7 +102,7 @@ Jan 2026
 - **[FedINC: An Exemplar-Free Continual Federated Learning Framework with Small Labeled Data](https://dl.acm.org/doi/pdf/10.1145/3625687.3625800)**  
   Yongheng Deng, **Sheng Yue**, Guanbo Wang, Tuowei Wang, Ju Ren, and Yaoxue Zhang  
   *ACM Conference on Embedded Networked Sensor Systems (**[SenSys](https://sensys.acm.org/2023/)**), Nov 13–15, Istanbul, Turkiye, 2023.*
-- **[CLARE: Conservative Model-Based Offline Inverse Reinforcement Learning](https://openreview.net/pdf?id=5aT4ganOd98)**  
+- **[CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning](https://openreview.net/pdf?id=5aT4ganOd98)**  
   **Sheng Yue**, Guanbo Wang, Wei Shao, Zhaofeng Zhang, Sen Lin, Ju Ren, and Junshan Zhang  
   *International Conference on Learning Representations (**[ICLR](https://iclr.cc/Conferences/2023)**), Kigali, Rwanda, May 1–5, 2023.*
 - **[HSFL: An Efficient Split Federated Learning Framework via Hierarchical Organization](https://dl.ifip.org/db/conf/cnsm/cnsm2022/01.pdf)**  
@@ -123,10 +123,10 @@ Jan 2026
   *IEEE Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 34, pp. 5333–5348, 2026.*
 - **[Two-dimensional Stackelberg Game-based Incentive Mechanism for Differential Private Federated Learning with Non-IID Data](https://ieeexplore.ieee.org/document/11427327)**  
   Dan Wang, Xiaoyi Pang, Jiahui Hu, **Sheng Yue**<sup>\*</sup>, and Ju Ren  
-  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), early access, 2026.*
+  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), vol. 25, no. 8, pp. 12688–12703, 2026.*
 - **[𝒪<sup>2</sup>-UCB: A Federated Multi-armed Bandit Mechanism in Zero Client-owned Data Network](https://ieeexplore.ieee.org/document/11535667)**  
   Hangfan Li, Yang Xu, Yibin Cai, **Sheng Yue**, Ziyu Peng, and Yaoxue Zhang  
-  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), early access, 2026.*
+  *IEEE Transactions on Mobile Computing (**[TMC](https://www.computer.org/csdl/journal/tm)**), vol. 25, no. 10, pp. 17802–17814, 2026.*
 - **[FOVA: Offline Federated Reinforcement Learning With Mixed-Quality Data](https://ieeexplore.ieee.org/document/11273896)**  
   Nan Qiao, **Sheng Yue**<sup>\*</sup>, Ju Ren, and Yaoxue Zhang  
   *IEEE Transactions on Networking (**[ToN](https://www.comsoc.org/publications/journals/ieee-tnet)**), vol. 34, pp. 2031–2046, 2026.*
@@ -150,7 +150,7 @@ Jan 2026
   *IEEE Transactions on Circuits and Systems for Video Technology (**[TCSVT](https://ieee-cas.org/publication/tcsvt)**), vol. 35, no. 4, pp. 3172–3184, 2025.*
 - **[Federated Offline Reinforcement Learning with Proximal Policy Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10748547)**  
   **Sheng Yue**, Yongheng Deng, Guanbo Wang, Ju Ren, and Yaoxue Zhang  
-  *Chinese Journal of Electronics (**[CJE](https://cje.ejournal.org.cn/)**), vol. 33, no. 6, pp. 1–13, 2024.*
+  *Chinese Journal of Electronics (**[CJE](https://cje.ejournal.org.cn/)**), vol. 33, no. 6, pp. 1360–1372, 2024.*
 - **[Mobile Generative AI: Opportunities and Challenges](https://ieeexplore.ieee.org/abstract/document/10628027)**  
   Ye Zhang, Jinrui Zhang<sup>\*</sup>, **Sheng Yue**<sup>\*</sup>, Wei Lu, Ju Ren, and Xuemin (Sherman) Shen  
   *IEEE Wireless Communications (**[WC](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)**), vol. 31, no. 4, pp. 58–64, 2024.*
@@ -184,7 +184,7 @@ Jan 2026
 
 - **[Efficient Federated Meta-Learning over Multi-Access Wireless Networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394180523.ch22)**  
   **Sheng Yue**, Ju Ren  
-  *Book Chapter of Next Generation Multiple Access, Wiley, 2023.*
+  *Book Chapter of Next Generation Multiple Access, Wiley, 2024.*
 {: .publication-list }
 
 ## Grants
@@ -275,7 +275,7 @@ Jan 2026
 
 ### Academic Service
 
-- Area Editor, [Chinese Journal of Electronics](https://cje.ejournal.org.cn)
+- Editor, [Chinese Journal of Electronics](https://cje.ejournal.org.cn)
 - Executive Committee Member, [CCF Technical Committee on IoT](https://www.ccf.org.cn/Chapters/TC/TC_Listing/IoT/2020-01-07/685340.shtml)
 - Area Chair, [ICLR 2026](https://iclr.cc/Conferences/2026/)
 - Co-Chair, Edge Intelligence Track, [ICPADS 2026](https://www.cloud-conf.net/icpads2026/index.html)
