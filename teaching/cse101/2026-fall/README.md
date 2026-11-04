@@ -97,7 +97,7 @@ GitHub Pages 沿用 `master` 分支根目录发布，不在服务器上运行 Py
 - `update_materials.py`：只使用 Python 3 标准库，校验配置并生成静态资料表。
 - `test_update_materials.py`：更新程序的检查，涵盖回放标签、内容转义、错误配置及重复更新。
 - `index.html`：已生成的静态网页；课程简介、教学团队、上课安排和参考书目仍在这里编辑。
-- `style.css`：既有的白底黑字、蓝色链接、表格及手机布局。
+- `style.css`：既有的白底黑字、蓝色链接、表格及手机布局。资料表第一列宽度为约32%，为课件和回放留出更多空间；相邻链接间隔10px，换行后左侧对齐。
 - `language.js`：双语切换、语言偏好记忆与 `?lang=zh` / `?lang=en`。
 - `favicon.ico`：课程图标。
 - `materials/slides/`、`materials/code/`：原始课件和主示例代码。
