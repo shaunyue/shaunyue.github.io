@@ -87,5 +87,16 @@
       "https://meeting.tencent.com/crm/l5GO8P8b55",
       "https://meeting.tencent.com/crm/Kw01VXZ4f9"
     ]
+  },
+  {
+    "number": 9,
+    "zh": "字符串",
+    "en": "Strings",
+    "slides": "lecture09.pdf",
+    "code": "chapter09.c",
+    "videos": [
+      "https://meeting.tencent.com/crm/N80p305J36",
+      "https://meeting.tencent.com/ctm/2GPD6zby0c"
+    ]
   }
 ]

@@ -111,11 +111,12 @@ GitHub Pages 沿用 `master` 分支根目录发布，不在服务器上运行 Py
 python3 -B -m unittest test_update_materials.py
 ```
 
-当前共有8章、33个资料链接：第1–8节主课件、主示例代码和回放，以及第7–8节练习课件。
+当前共有9章、37个资料链接：第1–9节主课件、主示例代码和回放，以及第7–8节练习课件。
 
 - 第7节数组：上 https://meeting.tencent.com/ctm/KP6k0Jae97；下（数组练习）https://meeting.tencent.com/crm/l5G0ynvp14。
 - 第8节数组与指针：上 https://meeting.tencent.com/crm/l5GO8P8b55；下（指针练习）https://meeting.tencent.com/crm/Kw01VXZ4f9。
+- 第9节字符串：上（字符串）https://meeting.tencent.com/crm/N80p305J36；下（字符串练习）https://meeting.tencent.com/ctm/2GPD6zby0c。
 
-第7节补充课件为 `lecture07-exercises.pdf`（24页）；第8节主课件为 `lecture08.pdf`（39页），练习课件为 `lecture08-exercises.pdf`（32页），主示例代码为 `chapter08.c`。第8节主课件封面保留原件的“2025年秋季”字样，网页归入2026课程。课件、代码与课程说明文档保留原内容；回放访问和播放权限由腾讯会议管理。
+第7节补充课件为 `lecture07-exercises.pdf`（24页）；第8节主课件为 `lecture08.pdf`（39页），练习课件为 `lecture08-exercises.pdf`（32页），主示例代码为 `chapter08.c`。第8节主课件封面保留原件的“2025年秋季”字样，网页归入2026课程。第9节主课件为 `lecture09.pdf`（47页），主示例代码为 `chapter09.c`。课程表按课件章节编号为第9节，回放按提供顺序对应上、下两段。课件、代码与课程说明文档保留原内容；回放访问和播放权限由腾讯会议管理。
 
 每次更新后核对新章节中英文、全部链接、下载文件名、回放顺序、手机布局及200%放大；保留课程信息表格的完整上边线。维护后的课程副本和ZIP也应从实际课程目录重新复制和打包。
