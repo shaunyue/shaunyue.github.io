@@ -98,5 +98,15 @@
       "https://meeting.tencent.com/crm/N80p305J36",
       "https://meeting.tencent.com/ctm/2GPD6zby0c"
     ]
+  },
+  {
+    "number": 10,
+    "zh": "函数与指针",
+    "en": "Functions and Pointers",
+    "slides": "lecture10.pdf",
+    "code": "chapter10.c",
+    "videos": [
+      "https://meeting.tencent.com/crm/23myzexa63"
+    ]
   }
 ]
